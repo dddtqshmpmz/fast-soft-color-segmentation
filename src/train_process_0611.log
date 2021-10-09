@@ -1,0 +1,420 @@
+Start training
+
+Train Epoch: 1 [0/36490 (0%)]	Loss: 0.018345
+reconst_loss *lambda:  0.0036882366985082626
+sparse_loss *lambda:  0.008770818822085857
+squared_mahalanobis_distance_loss *lambda:  0.0025360211730003357
+
+Train Epoch: 1 [6400/36490 (18%)]	Loss: 0.005752
+reconst_loss *lambda:  0.00146326026879251
+sparse_loss *lambda:  0.001877053058706224
+squared_mahalanobis_distance_loss *lambda:  0.00021569426462519914
+
+Train Epoch: 1 [12800/36490 (35%)]	Loss: 0.003865
+reconst_loss *lambda:  0.0011241715401411057
+sparse_loss *lambda:  0.0009014177485369146
+squared_mahalanobis_distance_loss *lambda:  0.00017174454114865512
+
+Train Epoch: 1 [19200/36490 (53%)]	Loss: 0.003135
+reconst_loss *lambda:  0.0010406933724880219
+sparse_loss *lambda:  0.0004972381866537035
+squared_mahalanobis_distance_loss *lambda:  9.637734910938889e-05
+
+Train Epoch: 1 [25600/36490 (70%)]	Loss: 0.002791
+reconst_loss *lambda:  0.0008663269691169262
+sparse_loss *lambda:  0.0003817706892732531
+squared_mahalanobis_distance_loss *lambda:  0.00014873873442411423
+
+Train Epoch: 1 [32000/36490 (88%)]	Loss: 0.002620
+reconst_loss *lambda:  0.0008102264255285263
+sparse_loss *lambda:  0.00033195377909578383
+squared_mahalanobis_distance_loss *lambda:  0.00013138081703800708
+====> Epoch: 1 Average loss: 0.0040
+Start training
+
+Train Epoch: 2 [0/36490 (0%)]	Loss: 0.002473
+reconst_loss *lambda:  0.0007511891890317202
+sparse_loss *lambda:  0.00033080167486332357
+squared_mahalanobis_distance_loss *lambda:  0.0001225144660566002
+
+Train Epoch: 2 [6400/36490 (18%)]	Loss: 0.002527
+reconst_loss *lambda:  0.000730980362277478
+sparse_loss *lambda:  0.00033277590409852564
+squared_mahalanobis_distance_loss *lambda:  0.00014441237726714462
+
+Train Epoch: 2 [12800/36490 (35%)]	Loss: 0.002453
+reconst_loss *lambda:  0.0006927349022589624
+sparse_loss *lambda:  0.00034238636726513505
+squared_mahalanobis_distance_loss *lambda:  0.00014511804329231381
+
+Train Epoch: 2 [19200/36490 (53%)]	Loss: 0.002420
+reconst_loss *lambda:  0.0007371656829491258
+sparse_loss *lambda:  0.0003239701909478754
+squared_mahalanobis_distance_loss *lambda:  0.00012900761794298887
+
+Train Epoch: 2 [25600/36490 (70%)]	Loss: 0.002176
+reconst_loss *lambda:  0.0006229390273801982
+sparse_loss *lambda:  0.00035476009361445904
+squared_mahalanobis_distance_loss *lambda:  0.00011473326594568789
+
+Train Epoch: 2 [32000/36490 (88%)]	Loss: 0.002264
+reconst_loss *lambda:  0.0006343569257296622
+sparse_loss *lambda:  0.0003381525748409331
+squared_mahalanobis_distance_loss *lambda:  0.00013078056508675218
+====> Epoch: 2 Average loss: 0.0024
+Start training
+
+Train Epoch: 3 [0/36490 (0%)]	Loss: 0.002487
+reconst_loss *lambda:  0.0007588294101879001
+sparse_loss *lambda:  0.00034125332604162395
+squared_mahalanobis_distance_loss *lambda:  0.0001343771000392735
+
+Train Epoch: 3 [6400/36490 (18%)]	Loss: 0.002050
+reconst_loss *lambda:  0.0005196757847443223
+sparse_loss *lambda:  0.0003409245691727847
+squared_mahalanobis_distance_loss *lambda:  0.00014771567657589912
+
+Train Epoch: 3 [12800/36490 (35%)]	Loss: 0.002097
+reconst_loss *lambda:  0.0005607267376035452
+sparse_loss *lambda:  0.0003610262356232852
+squared_mahalanobis_distance_loss *lambda:  0.00012360088294371963
+
+Train Epoch: 3 [19200/36490 (53%)]	Loss: 0.002104
+reconst_loss *lambda:  0.0005540107376873493
+sparse_loss *lambda:  0.0003362547722645104
+squared_mahalanobis_distance_loss *lambda:  0.0001285973412450403
+
+Train Epoch: 3 [25600/36490 (70%)]	Loss: 0.002084
+reconst_loss *lambda:  0.0005687155644409359
+sparse_loss *lambda:  0.00034993275767192245
+squared_mahalanobis_distance_loss *lambda:  0.00010424263018649071
+
+Train Epoch: 3 [32000/36490 (88%)]	Loss: 0.002135
+reconst_loss *lambda:  0.0005961793358437717
+sparse_loss *lambda:  0.0003768113092519343
+squared_mahalanobis_distance_loss *lambda:  0.00011613177775871009
+====> Epoch: 3 Average loss: 0.0022
+Start training
+
+Train Epoch: 4 [0/36490 (0%)]	Loss: 0.002154
+reconst_loss *lambda:  0.000572611577808857
+sparse_loss *lambda:  0.00032526440918445587
+squared_mahalanobis_distance_loss *lambda:  0.00013274478260427713
+
+Train Epoch: 4 [6400/36490 (18%)]	Loss: 0.002132
+reconst_loss *lambda:  0.0005835655611008406
+sparse_loss *lambda:  0.0002846795250661671
+squared_mahalanobis_distance_loss *lambda:  0.00012784804857801646
+
+Train Epoch: 4 [12800/36490 (35%)]	Loss: 0.001879
+reconst_loss *lambda:  0.0004835519939661026
+sparse_loss *lambda:  0.00028454975108616054
+squared_mahalanobis_distance_loss *lambda:  0.00010645429574651644
+
+Train Epoch: 4 [19200/36490 (53%)]	Loss: 0.002137
+reconst_loss *lambda:  0.0006040697917342186
+sparse_loss *lambda:  0.00027518969727680087
+squared_mahalanobis_distance_loss *lambda:  0.00012548002996481955
+
+Train Epoch: 4 [25600/36490 (70%)]	Loss: 0.001990
+reconst_loss *lambda:  0.0005198217695578933
+sparse_loss *lambda:  0.00029550312319770455
+squared_mahalanobis_distance_loss *lambda:  0.00011670348612824455
+
+Train Epoch: 4 [32000/36490 (88%)]	Loss: 0.002057
+reconst_loss *lambda:  0.0005735918530263007
+sparse_loss *lambda:  0.0002572867088019848
+squared_mahalanobis_distance_loss *lambda:  0.00011996385728707537
+====> Epoch: 4 Average loss: 0.0020
+Start training
+
+Train Epoch: 5 [0/36490 (0%)]	Loss: 0.001958
+reconst_loss *lambda:  0.0005602614255622029
+sparse_loss *lambda:  0.00027053046505898237
+squared_mahalanobis_distance_loss *lambda:  9.731281897984445e-05
+
+Train Epoch: 5 [6400/36490 (18%)]	Loss: 0.001936
+reconst_loss *lambda:  0.0004940872895531356
+sparse_loss *lambda:  0.0002691479749046266
+squared_mahalanobis_distance_loss *lambda:  0.00013906830281484872
+
+Train Epoch: 5 [12800/36490 (35%)]	Loss: 0.002183
+reconst_loss *lambda:  0.0005121805006638169
+sparse_loss *lambda:  0.0002899561950471252
+squared_mahalanobis_distance_loss *lambda:  0.00018581852782517672
+
+Train Epoch: 5 [19200/36490 (53%)]	Loss: 0.001983
+reconst_loss *lambda:  0.0005063852295279503
+sparse_loss *lambda:  0.00025112947332672775
+squared_mahalanobis_distance_loss *lambda:  0.00012493750546127558
+
+Train Epoch: 5 [25600/36490 (70%)]	Loss: 0.002086
+reconst_loss *lambda:  0.0005414440529420972
+sparse_loss *lambda:  0.0002683521306607872
+squared_mahalanobis_distance_loss *lambda:  0.00015282418462447822
+
+Train Epoch: 5 [32000/36490 (88%)]	Loss: 0.002035
+reconst_loss *lambda:  0.0005019897362217307
+sparse_loss *lambda:  0.00024640309857204556
+squared_mahalanobis_distance_loss *lambda:  0.0001561062381369993
+====> Epoch: 5 Average loss: 0.0020
+Start training
+
+Train Epoch: 6 [0/36490 (0%)]	Loss: 0.001947
+reconst_loss *lambda:  0.0005019536474719644
+sparse_loss *lambda:  0.00024292552552651614
+squared_mahalanobis_distance_loss *lambda:  0.0001290561049245298
+
+Train Epoch: 6 [6400/36490 (18%)]	Loss: 0.001970
+reconst_loss *lambda:  0.0005147102056071162
+sparse_loss *lambda:  0.00027791043976321816
+squared_mahalanobis_distance_loss *lambda:  0.00012159429024904966
+
+Train Epoch: 6 [12800/36490 (35%)]	Loss: 0.001869
+reconst_loss *lambda:  0.00045790825970470905
+sparse_loss *lambda:  0.00026928322040475905
+squared_mahalanobis_distance_loss *lambda:  0.00012499099830165505
+
+Train Epoch: 6 [19200/36490 (53%)]	Loss: 0.001987
+reconst_loss *lambda:  0.0005055012879893184
+sparse_loss *lambda:  0.000283217232208699
+squared_mahalanobis_distance_loss *lambda:  0.00013047197717241943
+
+Train Epoch: 6 [25600/36490 (70%)]	Loss: 0.002212
+reconst_loss *lambda:  0.0005668092053383589
+sparse_loss *lambda:  0.00028776799445040524
+squared_mahalanobis_distance_loss *lambda:  0.00015935272676870227
+
+Train Epoch: 6 [32000/36490 (88%)]	Loss: 0.001770
+reconst_loss *lambda:  0.00042580236913636327
+sparse_loss *lambda:  0.0002877012302633375
+squared_mahalanobis_distance_loss *lambda:  0.00010233433567918837
+====> Epoch: 6 Average loss: 0.0019
+Start training
+
+Train Epoch: 7 [0/36490 (0%)]	Loss: 0.001838
+reconst_loss *lambda:  0.00041398764005862176
+sparse_loss *lambda:  0.0002875227655749768
+squared_mahalanobis_distance_loss *lambda:  0.0001332448737230152
+
+Train Epoch: 7 [6400/36490 (18%)]	Loss: 0.001958
+reconst_loss *lambda:  0.0004463497898541391
+sparse_loss *lambda:  0.0002791118167806417
+squared_mahalanobis_distance_loss *lambda:  0.00014973347424529493
+
+Train Epoch: 7 [12800/36490 (35%)]	Loss: 0.001744
+reconst_loss *lambda:  0.0003867980558425188
+sparse_loss *lambda:  0.0002881582186091691
+squared_mahalanobis_distance_loss *lambda:  0.00012269993021618575
+
+Train Epoch: 7 [19200/36490 (53%)]	Loss: 0.001978
+reconst_loss *lambda:  0.0005054456414654851
+sparse_loss *lambda:  0.0002365553955314681
+squared_mahalanobis_distance_loss *lambda:  0.00013384906924329698
+
+Train Epoch: 7 [25600/36490 (70%)]	Loss: 0.002093
+reconst_loss *lambda:  0.0004974684561602771
+sparse_loss *lambda:  0.00030477886321023107
+squared_mahalanobis_distance_loss *lambda:  0.00014712457777932286
+
+Train Epoch: 7 [32000/36490 (88%)]	Loss: 0.001828
+reconst_loss *lambda:  0.00043587893014773726
+sparse_loss *lambda:  0.0002800743968691677
+squared_mahalanobis_distance_loss *lambda:  0.00013662161654792726
+====> Epoch: 7 Average loss: 0.0019
+Start training
+
+Train Epoch: 8 [0/36490 (0%)]	Loss: 0.001836
+reconst_loss *lambda:  0.00040524941869080067
+sparse_loss *lambda:  0.00028327287873253226
+squared_mahalanobis_distance_loss *lambda:  0.00013318774290382862
+
+Train Epoch: 8 [6400/36490 (18%)]	Loss: 0.001871
+reconst_loss *lambda:  0.0004493199521675706
+sparse_loss *lambda:  0.0002774910826701671
+squared_mahalanobis_distance_loss *lambda:  0.00012268321006558836
+
+Train Epoch: 8 [12800/36490 (35%)]	Loss: 0.001866
+reconst_loss *lambda:  0.00040320976404473186
+sparse_loss *lambda:  0.00028357311384752393
+squared_mahalanobis_distance_loss *lambda:  0.00013343989849090576
+
+Train Epoch: 8 [19200/36490 (53%)]	Loss: 0.001804
+reconst_loss *lambda:  0.000400855322368443
+sparse_loss *lambda:  0.0002669105015229434
+squared_mahalanobis_distance_loss *lambda:  0.0001451585558243096
+
+Train Epoch: 8 [25600/36490 (70%)]	Loss: 0.001926
+reconst_loss *lambda:  0.00042767878039740026
+sparse_loss *lambda:  0.00027728811255656183
+squared_mahalanobis_distance_loss *lambda:  0.0001434026489732787
+
+Train Epoch: 8 [32000/36490 (88%)]	Loss: 0.001859
+reconst_loss *lambda:  0.0004370141541585326
+sparse_loss *lambda:  0.0002552054065745324
+squared_mahalanobis_distance_loss *lambda:  0.00014177904813550413
+====> Epoch: 8 Average loss: 0.0018
+Start training
+
+Train Epoch: 9 [0/36490 (0%)]	Loss: 0.001878
+reconst_loss *lambda:  0.00044173418427817523
+sparse_loss *lambda:  0.0002640782331582159
+squared_mahalanobis_distance_loss *lambda:  0.00013919215416535735
+
+Train Epoch: 9 [6400/36490 (18%)]	Loss: 0.001836
+reconst_loss *lambda:  0.000422879820689559
+sparse_loss *lambda:  0.0002448972954880446
+squared_mahalanobis_distance_loss *lambda:  0.0001428652903996408
+
+Train Epoch: 9 [12800/36490 (35%)]	Loss: 0.001858
+reconst_loss *lambda:  0.0004394054412841797
+sparse_loss *lambda:  0.00026778897154144943
+squared_mahalanobis_distance_loss *lambda:  0.00012439221609383821
+
+Train Epoch: 9 [19200/36490 (53%)]	Loss: 0.001958
+reconst_loss *lambda:  0.00046600581845268607
+sparse_loss *lambda:  0.00026946267462335527
+squared_mahalanobis_distance_loss *lambda:  0.00013873845455236733
+
+Train Epoch: 9 [25600/36490 (70%)]	Loss: 0.002047
+reconst_loss *lambda:  0.0005392476450651884
+sparse_loss *lambda:  0.00027648068498820066
+squared_mahalanobis_distance_loss *lambda:  0.0001218071993207559
+
+Train Epoch: 9 [32000/36490 (88%)]	Loss: 0.002027
+reconst_loss *lambda:  0.00048567960038781166
+sparse_loss *lambda:  0.0002674481656868011
+squared_mahalanobis_distance_loss *lambda:  0.0001479841157561168
+====> Epoch: 9 Average loss: 0.0018
+Start training
+
+Train Epoch: 10 [0/36490 (0%)]	Loss: 0.001747
+reconst_loss *lambda:  0.0003244070103392005
+sparse_loss *lambda:  0.0002794601896312088
+squared_mahalanobis_distance_loss *lambda:  0.0001529001019662246
+
+Train Epoch: 10 [6400/36490 (18%)]	Loss: 0.001850
+reconst_loss *lambda:  0.0004442750650923699
+sparse_loss *lambda:  0.00026863484526984394
+squared_mahalanobis_distance_loss *lambda:  0.00011526710295584053
+
+Train Epoch: 10 [12800/36490 (35%)]	Loss: 0.001762
+reconst_loss *lambda:  0.0003505420754663646
+sparse_loss *lambda:  0.00028734985971823335
+squared_mahalanobis_distance_loss *lambda:  0.00013320485595613718
+
+Train Epoch: 10 [19200/36490 (53%)]	Loss: 0.001879
+reconst_loss *lambda:  0.000428779108915478
+sparse_loss *lambda:  0.0002785032265819609
+squared_mahalanobis_distance_loss *lambda:  0.00013646064326167107
+
+Train Epoch: 10 [25600/36490 (70%)]	Loss: 0.001745
+reconst_loss *lambda:  0.00037475372664630413
+sparse_loss *lambda:  0.0002513781364541501
+squared_mahalanobis_distance_loss *lambda:  0.00013290680362842977
+
+Train Epoch: 10 [32000/36490 (88%)]	Loss: 0.001864
+reconst_loss *lambda:  0.0004013008438050747
+sparse_loss *lambda:  0.00025771241053007543
+squared_mahalanobis_distance_loss *lambda:  0.0001399903849232942
+====> Epoch: 10 Average loss: 0.0018
+
+====> Average test loss: 0.271806
+====> Average test reconst_loss *lambda: 0.123296
+====> Average test mono_loss *lambda: 0.141673
+====> Average test sparse_loss *lambda: 0.000000
+====> Average test squared_mahalanobis_distance_loss *lambda: 0.006837
+mean_estimation_time:  1.0605606388519793
+
+
+os.environ['CUDA_VISIBLE_DEVICES'] = '0,1,2,3'
+
+parser = argparse.ArgumentParser(description='baseline')
+parser.add_argument('--run_name', type=str, default='train', help='run-name. This name is used for output folder.')
+parser.add_argument('--batch_size', type=int, default=64, metavar='N',  ## 32-> 4
+                    help='input batch size for training (default: 32)')
+parser.add_argument('--epochs', type=int, default=10, metavar='N', ## 10
+                    help='number of epochs to train (default: 10)')
+parser.add_argument('--no_cuda', action='store_true', default=False,
+                    help='enables CUDA training')
+parser.add_argument('--seed', type=int, default=1, metavar='S',
+                    help='random seed (default: 1)')
+
+parser.add_argument('--num_primary_color', type=int, default=7,  # 6->7
+                    help='num of layers')
+parser.add_argument('--rec_loss_lambda', type=float, default=1.0,
+                    help='reconst_loss lambda')
+parser.add_argument('--m_loss_lambda', type=float, default=1.0,   # 1.0
+                    help='m_loss_lambda')
+parser.add_argument('--sparse_loss_lambda', type=float, default=0.1, # 1.0
+                    help='sparse_loss lambda')
+parser.add_argument('--distance_loss_lambda', type=float, default=0.5, # 1.0 
+                    help='distance_loss_lambda')
+
+parser.add_argument('--save_layer_train', type=int, default=1,
+                    help='save_layer_train')
+
+
+parser.add_argument('--num_workers', type=int, default=8,
+                    help='num_workers of dataloader')
+parser.add_argument('--csv_path', type=str, default='train.csv', help='path to csv of images path') # sample / places
+
+parser.add_argument('--log_interval', type=int, default=100, metavar='N', ## 200-> 20 ->30 
+                    help='how many batches to wait before logging training status')
+parser.add_argument('--reconst_loss_type', type=str, default='l1', help='[mse | l1 | vgg]')
+
+args = parser.parse_args()
+args.cuda = not args.no_cuda and torch.cuda.is_available()
+
+# 出力先のフォルダーを作成
+try:
+    os.makedirs('results/%s' % args.run_name)
+except OSError:
+    pass
+
+# 打印所有数据到日志
+log = open("train_process.log", "a")
+sys.stdout = log
+
+
+torch.manual_seed(args.seed)
+cudnn.benchmark = True
+
+device = torch.device("cuda" if args.cuda else "cpu")
+
+train_dataset = MyDataset(args.csv_path, args.num_primary_color, mode='train')
+train_loader = torch.utils.data.DataLoader(
+    train_dataset,
+    batch_size=args.batch_size,
+    shuffle=True,
+    num_workers=args.num_workers,
+    worker_init_fn=lambda x: np.random.seed(),
+    drop_last=True,
+    pin_memory=True
+    )
+
+
+val_dataset = MyDataset(args.csv_path, args.num_primary_color, mode='val')
+val_loader = torch.utils.data.DataLoader(
+    val_dataset,
+    batch_size=1,
+    shuffle=False,
+    num_workers=0,
+    )
+
+
+
+
+mask_generator = MaskGenerator(args.num_primary_color).to(device)
+mask_generator = nn.DataParallel(mask_generator)
+mask_generator = mask_generator.cuda()
+
+residue_predictor = ResiduePredictor(args.num_primary_color).to(device)
+residue_predictor = nn.DataParallel(residue_predictor)
+residue_predictor = residue_predictor.cuda()
+
+params = list(mask_generator.parameters())
+params += list(residue_predictor.parameters())
+
+
+optimizer = optim.Adam(params, lr=1e-3, betas=(0.0, 0.99)) # 1e-3 -> 0.2

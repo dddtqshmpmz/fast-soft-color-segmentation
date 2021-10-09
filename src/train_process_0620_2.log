@@ -1,0 +1,672 @@
+Start training
+
+Train Epoch: 1 [0/50500 (0%)]	Loss: 0.009750
+reconst_loss *lambda:  0.003816703955332438
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  0.0026685682435830436
+
+Train Epoch: 1 [6000/50500 (12%)]	Loss: 0.002185
+reconst_loss *lambda:  0.0008986006180445353
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  7.885977781067292e-05
+
+Train Epoch: 1 [12000/50500 (24%)]	Loss: 0.002163
+reconst_loss *lambda:  0.0008675185342629751
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  0.00013120703709622225
+
+Train Epoch: 1 [18000/50500 (36%)]	Loss: 0.001588
+reconst_loss *lambda:  0.0006045662487546603
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  5.7668537677576145e-05
+
+Train Epoch: 1 [24000/50500 (48%)]	Loss: 0.001528
+reconst_loss *lambda:  0.000548387256761392
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  6.237461154038708e-05
+
+Train Epoch: 1 [30000/50500 (59%)]	Loss: 0.001603
+reconst_loss *lambda:  0.0005963139235973358
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  7.998912284771602e-05
+
+Train Epoch: 1 [36000/50500 (71%)]	Loss: 0.001406
+reconst_loss *lambda:  0.00048102326691150664
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  6.273038452491164e-05
+
+Train Epoch: 1 [42000/50500 (83%)]	Loss: 0.001277
+reconst_loss *lambda:  0.0004308797729512056
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  6.884937174618244e-05
+
+Train Epoch: 1 [48000/50500 (95%)]	Loss: 0.001504
+reconst_loss *lambda:  0.0005172948663433393
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  9.254892356693744e-05
+====> Epoch: 1 Average loss: 0.001766
+====> Epoch: 1 Average reconst_loss *lambda: 0.000670
+====> Epoch: 1 Average mono_loss *lambda: 0.001003
+====> Epoch: 1 Average sparse_loss *lambda: 0.000000
+====> Epoch: 1 Average squared_mahalanobis_distance_loss *lambda: 0.000093
+====> Epoch: 1 Average val loss: 0.084614
+====> Epoch: 1 Average val reconst_loss *lambda: 0.029634
+====> Epoch: 1 Average val mono_loss *lambda: 0.051060
+====> Epoch: 1 Average val sparse_loss *lambda: 0.000000
+====> Epoch: 1 Average val squared_mahalanobis_distance_loss *lambda: 0.003920
+Start training
+
+Train Epoch: 2 [0/50500 (0%)]	Loss: 0.001430
+reconst_loss *lambda:  0.00047806610042850175
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  7.364929188042879e-05
+
+Train Epoch: 2 [6000/50500 (12%)]	Loss: 0.001300
+reconst_loss *lambda:  0.0004414880027373632
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  7.670061507572731e-05
+
+Train Epoch: 2 [12000/50500 (24%)]	Loss: 0.001177
+reconst_loss *lambda:  0.00040798131376504896
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  5.595060841490825e-05
+
+Train Epoch: 2 [18000/50500 (36%)]	Loss: 0.001294
+reconst_loss *lambda:  0.0004626632357637087
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  6.251491916676362e-05
+
+Train Epoch: 2 [24000/50500 (48%)]	Loss: 0.001408
+reconst_loss *lambda:  0.0005280741800864538
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  5.831999781851967e-05
+
+Train Epoch: 2 [30000/50500 (59%)]	Loss: 0.001300
+reconst_loss *lambda:  0.0004712949196497599
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  5.112428528567155e-05
+
+Train Epoch: 2 [36000/50500 (71%)]	Loss: 0.001060
+reconst_loss *lambda:  0.00033422568812966345
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  5.689125197629134e-05
+
+Train Epoch: 2 [42000/50500 (83%)]	Loss: 0.001294
+reconst_loss *lambda:  0.00044293034200867015
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  6.353043330212435e-05
+
+Train Epoch: 2 [48000/50500 (95%)]	Loss: 0.001065
+reconst_loss *lambda:  0.00035382484396298726
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  5.3264429637541374e-05
+====> Epoch: 2 Average loss: 0.001244
+====> Epoch: 2 Average reconst_loss *lambda: 0.000435
+====> Epoch: 2 Average mono_loss *lambda: 0.000749
+====> Epoch: 2 Average sparse_loss *lambda: 0.000000
+====> Epoch: 2 Average squared_mahalanobis_distance_loss *lambda: 0.000060
+====> Epoch: 2 Average val loss: 0.069238
+====> Epoch: 2 Average val reconst_loss *lambda: 0.022567
+====> Epoch: 2 Average val mono_loss *lambda: 0.043197
+====> Epoch: 2 Average val sparse_loss *lambda: 0.000000
+====> Epoch: 2 Average val squared_mahalanobis_distance_loss *lambda: 0.003474
+Start training
+
+Train Epoch: 3 [0/50500 (0%)]	Loss: 0.001101
+reconst_loss *lambda:  0.0003801948701341947
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  5.753758596256375e-05
+
+Train Epoch: 3 [6000/50500 (12%)]	Loss: 0.001099
+reconst_loss *lambda:  0.00036599750940998393
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  4.8895770063002905e-05
+
+Train Epoch: 3 [12000/50500 (24%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 3 [18000/50500 (36%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 3 [24000/50500 (48%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 3 [30000/50500 (59%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 3 [36000/50500 (71%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 3 [42000/50500 (83%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 3 [48000/50500 (95%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+====> Epoch: 3 Average loss: nan
+====> Epoch: 3 Average reconst_loss *lambda: nan
+====> Epoch: 3 Average mono_loss *lambda: nan
+====> Epoch: 3 Average sparse_loss *lambda: nan
+====> Epoch: 3 Average squared_mahalanobis_distance_loss *lambda: nan
+====> Epoch: 3 Average val loss: nan
+====> Epoch: 3 Average val reconst_loss *lambda: nan
+====> Epoch: 3 Average val mono_loss *lambda: nan
+====> Epoch: 3 Average val sparse_loss *lambda: nan
+====> Epoch: 3 Average val squared_mahalanobis_distance_loss *lambda: nan
+Start training
+
+Train Epoch: 4 [0/50500 (0%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 4 [6000/50500 (12%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 4 [12000/50500 (24%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 4 [18000/50500 (36%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 4 [24000/50500 (48%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 4 [30000/50500 (59%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 4 [36000/50500 (71%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 4 [42000/50500 (83%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 4 [48000/50500 (95%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+====> Epoch: 4 Average loss: nan
+====> Epoch: 4 Average reconst_loss *lambda: nan
+====> Epoch: 4 Average mono_loss *lambda: nan
+====> Epoch: 4 Average sparse_loss *lambda: nan
+====> Epoch: 4 Average squared_mahalanobis_distance_loss *lambda: nan
+====> Epoch: 4 Average val loss: nan
+====> Epoch: 4 Average val reconst_loss *lambda: nan
+====> Epoch: 4 Average val mono_loss *lambda: nan
+====> Epoch: 4 Average val sparse_loss *lambda: nan
+====> Epoch: 4 Average val squared_mahalanobis_distance_loss *lambda: nan
+Start training
+
+Train Epoch: 5 [0/50500 (0%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 5 [6000/50500 (12%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 5 [12000/50500 (24%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 5 [18000/50500 (36%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 5 [24000/50500 (48%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 5 [30000/50500 (59%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 5 [36000/50500 (71%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 5 [42000/50500 (83%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 5 [48000/50500 (95%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+====> Epoch: 5 Average loss: nan
+====> Epoch: 5 Average reconst_loss *lambda: nan
+====> Epoch: 5 Average mono_loss *lambda: nan
+====> Epoch: 5 Average sparse_loss *lambda: nan
+====> Epoch: 5 Average squared_mahalanobis_distance_loss *lambda: nan
+====> Epoch: 5 Average val loss: nan
+====> Epoch: 5 Average val reconst_loss *lambda: nan
+====> Epoch: 5 Average val mono_loss *lambda: nan
+====> Epoch: 5 Average val sparse_loss *lambda: nan
+====> Epoch: 5 Average val squared_mahalanobis_distance_loss *lambda: nan
+Start training
+
+Train Epoch: 6 [0/50500 (0%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 6 [6000/50500 (12%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 6 [12000/50500 (24%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 6 [18000/50500 (36%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 6 [24000/50500 (48%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 6 [30000/50500 (59%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 6 [36000/50500 (71%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 6 [42000/50500 (83%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 6 [48000/50500 (95%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+====> Epoch: 6 Average loss: nan
+====> Epoch: 6 Average reconst_loss *lambda: nan
+====> Epoch: 6 Average mono_loss *lambda: nan
+====> Epoch: 6 Average sparse_loss *lambda: nan
+====> Epoch: 6 Average squared_mahalanobis_distance_loss *lambda: nan
+====> Epoch: 6 Average val loss: nan
+====> Epoch: 6 Average val reconst_loss *lambda: nan
+====> Epoch: 6 Average val mono_loss *lambda: nan
+====> Epoch: 6 Average val sparse_loss *lambda: nan
+====> Epoch: 6 Average val squared_mahalanobis_distance_loss *lambda: nan
+Start training
+
+Train Epoch: 7 [0/50500 (0%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 7 [6000/50500 (12%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 7 [12000/50500 (24%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 7 [18000/50500 (36%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 7 [24000/50500 (48%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 7 [30000/50500 (59%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 7 [36000/50500 (71%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 7 [42000/50500 (83%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 7 [48000/50500 (95%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+====> Epoch: 7 Average loss: nan
+====> Epoch: 7 Average reconst_loss *lambda: nan
+====> Epoch: 7 Average mono_loss *lambda: nan
+====> Epoch: 7 Average sparse_loss *lambda: nan
+====> Epoch: 7 Average squared_mahalanobis_distance_loss *lambda: nan
+====> Epoch: 7 Average val loss: nan
+====> Epoch: 7 Average val reconst_loss *lambda: nan
+====> Epoch: 7 Average val mono_loss *lambda: nan
+====> Epoch: 7 Average val sparse_loss *lambda: nan
+====> Epoch: 7 Average val squared_mahalanobis_distance_loss *lambda: nan
+Start training
+
+Train Epoch: 8 [0/50500 (0%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 8 [6000/50500 (12%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 8 [12000/50500 (24%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 8 [18000/50500 (36%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 8 [24000/50500 (48%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 8 [30000/50500 (59%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 8 [36000/50500 (71%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 8 [42000/50500 (83%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 8 [48000/50500 (95%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+====> Epoch: 8 Average loss: nan
+====> Epoch: 8 Average reconst_loss *lambda: nan
+====> Epoch: 8 Average mono_loss *lambda: nan
+====> Epoch: 8 Average sparse_loss *lambda: nan
+====> Epoch: 8 Average squared_mahalanobis_distance_loss *lambda: nan
+====> Epoch: 8 Average val loss: nan
+====> Epoch: 8 Average val reconst_loss *lambda: nan
+====> Epoch: 8 Average val mono_loss *lambda: nan
+====> Epoch: 8 Average val sparse_loss *lambda: nan
+====> Epoch: 8 Average val squared_mahalanobis_distance_loss *lambda: nan
+Start training
+
+Train Epoch: 9 [0/50500 (0%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 9 [6000/50500 (12%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 9 [12000/50500 (24%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 9 [18000/50500 (36%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 9 [24000/50500 (48%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 9 [30000/50500 (59%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 9 [36000/50500 (71%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 9 [42000/50500 (83%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 9 [48000/50500 (95%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+====> Epoch: 9 Average loss: nan
+====> Epoch: 9 Average reconst_loss *lambda: nan
+====> Epoch: 9 Average mono_loss *lambda: nan
+====> Epoch: 9 Average sparse_loss *lambda: nan
+====> Epoch: 9 Average squared_mahalanobis_distance_loss *lambda: nan
+====> Epoch: 9 Average val loss: nan
+====> Epoch: 9 Average val reconst_loss *lambda: nan
+====> Epoch: 9 Average val mono_loss *lambda: nan
+====> Epoch: 9 Average val sparse_loss *lambda: nan
+====> Epoch: 9 Average val squared_mahalanobis_distance_loss *lambda: nan
+Start training
+
+Train Epoch: 10 [0/50500 (0%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 10 [6000/50500 (12%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 10 [12000/50500 (24%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 10 [18000/50500 (36%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 10 [24000/50500 (48%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 10 [30000/50500 (59%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 10 [36000/50500 (71%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 10 [42000/50500 (83%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 10 [48000/50500 (95%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+====> Epoch: 10 Average loss: nan
+====> Epoch: 10 Average reconst_loss *lambda: nan
+====> Epoch: 10 Average mono_loss *lambda: nan
+====> Epoch: 10 Average sparse_loss *lambda: nan
+====> Epoch: 10 Average squared_mahalanobis_distance_loss *lambda: nan
+====> Epoch: 10 Average val loss: nan
+====> Epoch: 10 Average val reconst_loss *lambda: nan
+====> Epoch: 10 Average val mono_loss *lambda: nan
+====> Epoch: 10 Average val sparse_loss *lambda: nan
+====> Epoch: 10 Average val squared_mahalanobis_distance_loss *lambda: nan
+
+
+====> Average test loss: 0.053327
+====> Average test reconst_loss *lambda: 0.023251
+====> Average test mono_loss *lambda: 0.028530
+====> Average test sparse_loss *lambda: 0.000000
+====> Average test squared_mahalanobis_distance_loss *lambda: 0.001546
+mean_estimation_time:  1.054662927546922
+
+
+os.environ['CUDA_VISIBLE_DEVICES'] = '1,2,3'
+
+parser = argparse.ArgumentParser(description='baseline')
+parser.add_argument('--run_name', type=str, default='train', help='run-name. This name is used for output folder.')
+parser.add_argument('--batch_size', type=int, default=60, metavar='N',  ## 32-> 4
+                    help='input batch size for training (default: 32)')
+parser.add_argument('--epochs', type=int, default=10, metavar='N', ## 10
+                    help='number of epochs to train (default: 10)')
+parser.add_argument('--no_cuda', action='store_true', default=False,
+                    help='enables CUDA training')
+parser.add_argument('--seed', type=int, default=1, metavar='S',
+                    help='random seed (default: 1)')
+
+parser.add_argument('--num_primary_color', type=int, default=7,  # 6->7
+                    help='num of layers')
+parser.add_argument('--rec_loss_lambda', type=float, default=1.0,
+                    help='reconst_loss lambda')
+parser.add_argument('--m_loss_lambda', type=float, default=1.0,   # 1.0
+                    help='m_loss_lambda')
+parser.add_argument('--sparse_loss_lambda', type=float, default=0.0, # 1.0
+                    help='sparse_loss lambda')
+parser.add_argument('--distance_loss_lambda', type=float, default=0.5, # 1.0 
+                    help='distance_loss_lambda')
+
+parser.add_argument('--save_layer_train', type=int, default=1,
+                    help='save_layer_train')
+
+
+parser.add_argument('--num_workers', type=int, default=9,
+                    help='num_workers of dataloader')
+parser.add_argument('--csv_path', type=str, default='train.csv', help='path to csv of images path') # sample / places
+parser.add_argument('--csv_path_ihc', type=str, default='train_IHC_256_2w.csv', help='path to ihc_256 dataset csv of images path')
+parser.add_argument('--csv_path_test',type=str, default='train_IHC.csv', help='path to test ihc csv of images path')
+
+parser.add_argument('--log_interval', type=int, default=100, metavar='N', ## 200-> 20 ->30 
+                    help='how many batches to wait before logging training status')
+parser.add_argument('--reconst_loss_type', type=str, default='l1', help='[mse | l1 | vgg]')
+
+args = parser.parse_args()
+args.cuda = not args.no_cuda and torch.cuda.is_available()
+
+# 出力先のフォルダーを作成
+try:
+    os.makedirs('results/%s' % args.run_name)
+except OSError:
+    pass
+
+# 打印所有数据到日志
+log = open("train_process.log", "a")
+sys.stdout = log
+
+torch.manual_seed(args.seed)
+cudnn.benchmark = True
+
+device = torch.device("cuda" if args.cuda else "cpu")
+
+train_dataset = MyDataset(args.csv_path, args.csv_path_ihc, args.csv_path_test ,args.num_primary_color, mode='train')
+train_loader = torch.utils.data.DataLoader(
+    train_dataset,
+    batch_size=args.batch_size,
+    shuffle=True,
+    num_workers=args.num_workers,
+    worker_init_fn=lambda x: np.random.seed(),
+    drop_last=True,
+    pin_memory=True
+    )
+
+
+val_dataset = MyDataset(args.csv_path, args.csv_path_ihc,args.csv_path_test , args.num_primary_color, mode='val')
+val_loader = torch.utils.data.DataLoader(
+    val_dataset,
+    batch_size=1,
+    shuffle=False,
+    num_workers=1,
+    )
+
+test_dataset = MyDataset(args.csv_path, args.csv_path_ihc,args.csv_path_test , args.num_primary_color, mode='test')
+test_loader = torch.utils.data.DataLoader(
+    val_dataset,
+    batch_size=1,
+    shuffle=False,
+    num_workers=1,
+    )
+
+
+mask_generator = MaskGenerator(args.num_primary_color).to(device)
+mask_generator = nn.DataParallel(mask_generator)
+mask_generator = mask_generator.cuda()
+
+residue_predictor = ResiduePredictor(args.num_primary_color).to(device)
+residue_predictor = nn.DataParallel(residue_predictor)
+residue_predictor = residue_predictor.cuda()
+
+params = list(mask_generator.parameters())
+params += list(residue_predictor.parameters())
+
+
+optimizer = optim.Adam(params, lr=1e-3, betas=(0.0, 0.99)) # 1e-3 -> 0.2
+
+ihc_num = 15000 # ihc 数据集设置数量
+        val_num_train = 1000
+        val_num_ihc = 200

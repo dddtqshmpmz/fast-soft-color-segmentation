@@ -1,0 +1,1800 @@
+Start training
+
+Train Epoch: 1 [0/534 (0%)]	Loss: 0.408985
+reconst_loss *lambda:  0.02079831063747406
+sparse_loss *lambda:  0.35067272186279297
+squared_mahalanobis_distance_loss *lambda:  0.019335445016622543
+
+Train Epoch: 1 [480/534 (91%)]	Loss: 0.199155
+reconst_loss *lambda:  0.017256898805499077
+sparse_loss *lambda:  0.1605783998966217
+squared_mahalanobis_distance_loss *lambda:  0.0015116914873942733
+====> Epoch: 1 Average loss: 0.2364
+Start training
+
+Train Epoch: 2 [0/534 (0%)]	Loss: 0.196556
+reconst_loss *lambda:  0.015561191365122795
+sparse_loss *lambda:  0.1614377796649933
+squared_mahalanobis_distance_loss *lambda:  0.0014624095056205988
+
+Train Epoch: 2 [480/534 (91%)]	Loss: 0.178616
+reconst_loss *lambda:  0.015453828498721123
+sparse_loss *lambda:  0.14627942442893982
+squared_mahalanobis_distance_loss *lambda:  0.0007185828872025013
+====> Epoch: 2 Average loss: 0.1864
+Start training
+
+Train Epoch: 3 [0/534 (0%)]	Loss: 0.175143
+reconst_loss *lambda:  0.012807152234017849
+sparse_loss *lambda:  0.14828819036483765
+squared_mahalanobis_distance_loss *lambda:  0.0005438763182610273
+
+Train Epoch: 3 [480/534 (91%)]	Loss: 0.175192
+reconst_loss *lambda:  0.016129009425640106
+sparse_loss *lambda:  0.14168372750282288
+squared_mahalanobis_distance_loss *lambda:  0.0005467729642987251
+====> Epoch: 3 Average loss: 0.1752
+Start training
+
+Train Epoch: 4 [0/534 (0%)]	Loss: 0.176881
+reconst_loss *lambda:  0.014940133318305016
+sparse_loss *lambda:  0.14411669969558716
+squared_mahalanobis_distance_loss *lambda:  0.001015632413327694
+
+Train Epoch: 4 [480/534 (91%)]	Loss: 0.170253
+reconst_loss *lambda:  0.013171667233109474
+sparse_loss *lambda:  0.13912388682365417
+squared_mahalanobis_distance_loss *lambda:  0.001661444897763431
+====> Epoch: 4 Average loss: 0.1695
+Start training
+
+Train Epoch: 5 [0/534 (0%)]	Loss: 0.167538
+reconst_loss *lambda:  0.012986203655600548
+sparse_loss *lambda:  0.13711726665496826
+squared_mahalanobis_distance_loss *lambda:  0.0018231826834380627
+
+Train Epoch: 5 [480/534 (91%)]	Loss: 0.124044
+reconst_loss *lambda:  0.010994305834174156
+sparse_loss *lambda:  0.0973348319530487
+squared_mahalanobis_distance_loss *lambda:  0.001697751460596919
+====> Epoch: 5 Average loss: 0.1452
+Start training
+
+Train Epoch: 6 [0/534 (0%)]	Loss: 0.124210
+reconst_loss *lambda:  0.01263233833014965
+sparse_loss *lambda:  0.09549903869628906
+squared_mahalanobis_distance_loss *lambda:  0.0011252230033278465
+
+Train Epoch: 6 [480/534 (91%)]	Loss: 0.082461
+reconst_loss *lambda:  0.012374542653560638
+sparse_loss *lambda:  0.05300144851207733
+squared_mahalanobis_distance_loss *lambda:  0.0016842947807163
+====> Epoch: 6 Average loss: 0.0994
+Start training
+
+Train Epoch: 7 [0/534 (0%)]	Loss: 0.078084
+reconst_loss *lambda:  0.009604191407561302
+sparse_loss *lambda:  0.054203905165195465
+squared_mahalanobis_distance_loss *lambda:  0.001698767300695181
+
+Train Epoch: 7 [480/534 (91%)]	Loss: 0.078861
+reconst_loss *lambda:  0.014126415364444256
+sparse_loss *lambda:  0.04535873606801033
+squared_mahalanobis_distance_loss *lambda:  0.0020598762203007936
+====> Epoch: 7 Average loss: 0.0743
+Start training
+
+Train Epoch: 8 [0/534 (0%)]	Loss: 0.066476
+reconst_loss *lambda:  0.01306625735014677
+sparse_loss *lambda:  0.03562087565660477
+squared_mahalanobis_distance_loss *lambda:  0.0015638952609151602
+
+Train Epoch: 8 [480/534 (91%)]	Loss: 0.062102
+reconst_loss *lambda:  0.014992023818194866
+sparse_loss *lambda:  0.02778041921555996
+squared_mahalanobis_distance_loss *lambda:  0.001439999439753592
+====> Epoch: 8 Average loss: 0.0611
+Start training
+
+Train Epoch: 9 [0/534 (0%)]	Loss: 0.056736
+reconst_loss *lambda:  0.01167711615562439
+sparse_loss *lambda:  0.028620027005672455
+squared_mahalanobis_distance_loss *lambda:  0.001788345631211996
+
+Train Epoch: 9 [480/534 (91%)]	Loss: 0.055234
+reconst_loss *lambda:  0.014952628873288631
+sparse_loss *lambda:  0.02213493548333645
+squared_mahalanobis_distance_loss *lambda:  0.0010289514902979136
+====> Epoch: 9 Average loss: 0.0555
+Start training
+
+Train Epoch: 10 [0/534 (0%)]	Loss: 0.052984
+reconst_loss *lambda:  0.016532771289348602
+sparse_loss *lambda:  0.018180958926677704
+squared_mahalanobis_distance_loss *lambda:  0.0006772567867301404
+
+Train Epoch: 10 [480/534 (91%)]	Loss: 0.054597
+reconst_loss *lambda:  0.017845725640654564
+sparse_loss *lambda:  0.016001766547560692
+squared_mahalanobis_distance_loss *lambda:  0.000870533986017108
+====> Epoch: 10 Average loss: 0.0526
+Start training
+
+Train Epoch: 11 [0/534 (0%)]	Loss: 0.046714
+reconst_loss *lambda:  0.012971475720405579
+sparse_loss *lambda:  0.016062047332525253
+squared_mahalanobis_distance_loss *lambda:  0.001635679742321372
+
+Train Epoch: 11 [480/534 (91%)]	Loss: 0.051114
+reconst_loss *lambda:  0.015066688880324364
+sparse_loss *lambda:  0.014616338536143303
+squared_mahalanobis_distance_loss *lambda:  0.0022563685197383165
+====> Epoch: 11 Average loss: 0.0501
+Start training
+
+Train Epoch: 12 [0/534 (0%)]	Loss: 0.050227
+reconst_loss *lambda:  0.014267652295529842
+sparse_loss *lambda:  0.015785055235028267
+squared_mahalanobis_distance_loss *lambda:  0.0020462945103645325
+
+Train Epoch: 12 [480/534 (91%)]	Loss: 0.041539
+reconst_loss *lambda:  0.01243656501173973
+sparse_loss *lambda:  0.012161914259195328
+squared_mahalanobis_distance_loss *lambda:  0.0016806535422801971
+====> Epoch: 12 Average loss: 0.0481
+Start training
+
+Train Epoch: 13 [0/534 (0%)]	Loss: 0.047756
+reconst_loss *lambda:  0.016302360221743584
+sparse_loss *lambda:  0.011006130836904049
+squared_mahalanobis_distance_loss *lambda:  0.0015755631029605865
+
+Train Epoch: 13 [480/534 (91%)]	Loss: 0.045079
+reconst_loss *lambda:  0.015356093645095825
+sparse_loss *lambda:  0.009674359112977982
+squared_mahalanobis_distance_loss *lambda:  0.0016139470972120762
+====> Epoch: 13 Average loss: 0.0458
+Start training
+
+Train Epoch: 14 [0/534 (0%)]	Loss: 0.047427
+reconst_loss *lambda:  0.01708054542541504
+sparse_loss *lambda:  0.008912342600524426
+squared_mahalanobis_distance_loss *lambda:  0.0016056657768785954
+
+Train Epoch: 14 [480/534 (91%)]	Loss: 0.053336
+reconst_loss *lambda:  0.020330999046564102
+sparse_loss *lambda:  0.007960671558976173
+squared_mahalanobis_distance_loss *lambda:  0.0016805257182568312
+====> Epoch: 14 Average loss: 0.0446
+Start training
+
+Train Epoch: 15 [0/534 (0%)]	Loss: 0.046793
+reconst_loss *lambda:  0.017621338367462158
+sparse_loss *lambda:  0.007440796121954918
+squared_mahalanobis_distance_loss *lambda:  0.0013622925616800785
+
+Train Epoch: 15 [480/534 (91%)]	Loss: 0.040257
+reconst_loss *lambda:  0.01180032454431057
+sparse_loss *lambda:  0.010719988495111465
+squared_mahalanobis_distance_loss *lambda:  0.002199634676799178
+====> Epoch: 15 Average loss: 0.0406
+Start training
+
+Train Epoch: 16 [0/534 (0%)]	Loss: 0.039323
+reconst_loss *lambda:  0.01229606382548809
+sparse_loss *lambda:  0.007787821814417839
+squared_mahalanobis_distance_loss *lambda:  0.0024803816340863705
+
+Train Epoch: 16 [480/534 (91%)]	Loss: 0.019844
+reconst_loss *lambda:  0.006336068734526634
+sparse_loss *lambda:  0.0029269082006067038
+squared_mahalanobis_distance_loss *lambda:  0.0014365056995302439
+====> Epoch: 16 Average loss: 0.0309
+Start training
+
+Train Epoch: 17 [0/534 (0%)]	Loss: 0.025353
+reconst_loss *lambda:  0.0075436485931277275
+sparse_loss *lambda:  0.0028682162519544363
+squared_mahalanobis_distance_loss *lambda:  0.002694841707125306
+
+Train Epoch: 17 [480/534 (91%)]	Loss: 0.028116
+reconst_loss *lambda:  0.011163603514432907
+sparse_loss *lambda:  0.0014306314988061786
+squared_mahalanobis_distance_loss *lambda:  0.0015643395017832518
+====> Epoch: 17 Average loss: 0.0252
+Start training
+
+Train Epoch: 18 [0/534 (0%)]	Loss: 0.022951
+reconst_loss *lambda:  0.008404841646552086
+sparse_loss *lambda:  0.0012630447745323181
+squared_mahalanobis_distance_loss *lambda:  0.0014196215197443962
+
+Train Epoch: 18 [480/534 (91%)]	Loss: 0.025965
+reconst_loss *lambda:  0.010392282158136368
+sparse_loss *lambda:  0.0004794736742042005
+squared_mahalanobis_distance_loss *lambda:  0.0015632951399311423
+====> Epoch: 18 Average loss: 0.0241
+Start training
+
+Train Epoch: 19 [0/534 (0%)]	Loss: 0.018917
+reconst_loss *lambda:  0.0073348768055438995
+sparse_loss *lambda:  0.00039359723450616
+squared_mahalanobis_distance_loss *lambda:  0.0012247331906110048
+
+Train Epoch: 19 [480/534 (91%)]	Loss: 0.017870
+reconst_loss *lambda:  0.006118148565292358
+sparse_loss *lambda:  0.00042079819831997156
+squared_mahalanobis_distance_loss *lambda:  0.0016322167357429862
+====> Epoch: 19 Average loss: 0.0227
+Start training
+
+Train Epoch: 20 [0/534 (0%)]	Loss: 0.029893
+reconst_loss *lambda:  0.011997327208518982
+sparse_loss *lambda:  0.0003320022369734943
+squared_mahalanobis_distance_loss *lambda:  0.0019118429627269506
+
+Train Epoch: 20 [480/534 (91%)]	Loss: 0.026186
+reconst_loss *lambda:  0.010515308938920498
+sparse_loss *lambda:  0.00023584763403050601
+squared_mahalanobis_distance_loss *lambda:  0.0014238057192415
+====> Epoch: 20 Average loss: 0.0223
+Start training
+
+Train Epoch: 21 [0/534 (0%)]	Loss: 0.018377
+reconst_loss *lambda:  0.006711460184305906
+sparse_loss *lambda:  0.0002741325879469514
+squared_mahalanobis_distance_loss *lambda:  0.0014973047655075788
+
+Train Epoch: 21 [480/534 (91%)]	Loss: 0.018616
+reconst_loss *lambda:  0.007588154636323452
+sparse_loss *lambda:  0.00022756204998586327
+squared_mahalanobis_distance_loss *lambda:  0.0009608010877855122
+====> Epoch: 21 Average loss: 0.0223
+Start training
+
+Train Epoch: 22 [0/534 (0%)]	Loss: 0.024624
+reconst_loss *lambda:  0.009620130062103271
+sparse_loss *lambda:  0.00030677864560857415
+squared_mahalanobis_distance_loss *lambda:  0.0014824331738054752
+
+Train Epoch: 22 [480/534 (91%)]	Loss: 0.024780
+reconst_loss *lambda:  0.010710923001170158
+sparse_loss *lambda:  0.00010835038119694218
+squared_mahalanobis_distance_loss *lambda:  0.0009239084902219474
+====> Epoch: 22 Average loss: 0.0223
+Start training
+
+Train Epoch: 23 [0/534 (0%)]	Loss: 0.024354
+reconst_loss *lambda:  0.010196296498179436
+sparse_loss *lambda:  0.0002456997171975672
+squared_mahalanobis_distance_loss *lambda:  0.0010450748959556222
+
+Train Epoch: 23 [480/534 (91%)]	Loss: 0.021415
+reconst_loss *lambda:  0.008718812838196754
+sparse_loss *lambda:  0.00018292307504452765
+squared_mahalanobis_distance_loss *lambda:  0.001034523593261838
+====> Epoch: 23 Average loss: 0.0223
+Start training
+
+Train Epoch: 24 [0/534 (0%)]	Loss: 0.019546
+reconst_loss *lambda:  0.008028130047023296
+sparse_loss *lambda:  0.00011842376261483878
+squared_mahalanobis_distance_loss *lambda:  0.0009598301257938147
+
+Train Epoch: 24 [480/534 (91%)]	Loss: 0.027123
+reconst_loss *lambda:  0.010393286123871803
+sparse_loss *lambda:  0.00032130349427461624
+squared_mahalanobis_distance_loss *lambda:  0.001890574349090457
+====> Epoch: 24 Average loss: 0.0223
+Start training
+
+Train Epoch: 25 [0/534 (0%)]	Loss: 0.015624
+reconst_loss *lambda:  0.005826914217323065
+sparse_loss *lambda:  8.828897989587858e-05
+squared_mahalanobis_distance_loss *lambda:  0.0011885403655469418
+
+Train Epoch: 25 [480/534 (91%)]	Loss: 0.022002
+reconst_loss *lambda:  0.009102415293455124
+sparse_loss *lambda:  0.00015164047363214195
+squared_mahalanobis_distance_loss *lambda:  0.0009749683667905629
+====> Epoch: 25 Average loss: 0.0220
+Start training
+
+Train Epoch: 26 [0/534 (0%)]	Loss: 0.023548
+reconst_loss *lambda:  0.009392019361257553
+sparse_loss *lambda:  0.0001551428867969662
+squared_mahalanobis_distance_loss *lambda:  0.0014164730673655868
+
+Train Epoch: 26 [480/534 (91%)]	Loss: 0.021783
+reconst_loss *lambda:  0.008386291563510895
+sparse_loss *lambda:  0.00013978636707179248
+squared_mahalanobis_distance_loss *lambda:  0.0013948297128081322
+====> Epoch: 26 Average loss: 0.0219
+Start training
+
+Train Epoch: 27 [0/534 (0%)]	Loss: 0.022474
+reconst_loss *lambda:  0.008628647774457932
+sparse_loss *lambda:  0.00012189155677333474
+squared_mahalanobis_distance_loss *lambda:  0.0015866735484451056
+
+Train Epoch: 27 [480/534 (91%)]	Loss: 0.025216
+reconst_loss *lambda:  0.009891543537378311
+sparse_loss *lambda:  0.00011711700062733144
+squared_mahalanobis_distance_loss *lambda:  0.0014574941014871001
+====> Epoch: 27 Average loss: 0.0217
+Start training
+
+Train Epoch: 28 [0/534 (0%)]	Loss: 0.019810
+reconst_loss *lambda:  0.00824606604874134
+sparse_loss *lambda:  7.883590296842158e-05
+squared_mahalanobis_distance_loss *lambda:  0.0007884831866249442
+
+Train Epoch: 28 [480/534 (91%)]	Loss: 0.019517
+reconst_loss *lambda:  0.007550123147666454
+sparse_loss *lambda:  8.061272092163563e-05
+squared_mahalanobis_distance_loss *lambda:  0.0013535595498979092
+====> Epoch: 28 Average loss: 0.0217
+Start training
+
+Train Epoch: 29 [0/534 (0%)]	Loss: 0.020561
+reconst_loss *lambda:  0.0072081489488482475
+sparse_loss *lambda:  7.808498048689216e-05
+squared_mahalanobis_distance_loss *lambda:  0.0018998454324901104
+
+Train Epoch: 29 [480/534 (91%)]	Loss: 0.027537
+reconst_loss *lambda:  0.011223472654819489
+sparse_loss *lambda:  0.00025615314370952547
+squared_mahalanobis_distance_loss *lambda:  0.0014329981058835983
+====> Epoch: 29 Average loss: 0.0220
+Start training
+
+Train Epoch: 30 [0/534 (0%)]	Loss: 0.023235
+reconst_loss *lambda:  0.009476587176322937
+sparse_loss *lambda:  8.821093069855124e-05
+squared_mahalanobis_distance_loss *lambda:  0.001189668197184801
+
+Train Epoch: 30 [480/534 (91%)]	Loss: 0.020493
+reconst_loss *lambda:  0.008061366155743599
+sparse_loss *lambda:  0.00010687958274502307
+squared_mahalanobis_distance_loss *lambda:  0.0012043335009366274
+====> Epoch: 30 Average loss: 0.0219
+Start training
+
+Train Epoch: 31 [0/534 (0%)]	Loss: 0.025439
+reconst_loss *lambda:  0.010386373847723007
+sparse_loss *lambda:  0.00010492723231436685
+squared_mahalanobis_distance_loss *lambda:  0.0013607025612145662
+
+Train Epoch: 31 [480/534 (91%)]	Loss: 0.020115
+reconst_loss *lambda:  0.0077325766906142235
+sparse_loss *lambda:  8.565072494093329e-05
+squared_mahalanobis_distance_loss *lambda:  0.0014561221469193697
+====> Epoch: 31 Average loss: 0.0219
+Start training
+
+Train Epoch: 32 [0/534 (0%)]	Loss: 0.023016
+reconst_loss *lambda:  0.008872641250491142
+sparse_loss *lambda:  0.00010323886817786843
+squared_mahalanobis_distance_loss *lambda:  0.001542095560580492
+
+Train Epoch: 32 [480/534 (91%)]	Loss: 0.027497
+reconst_loss *lambda:  0.010317826643586159
+sparse_loss *lambda:  0.00024145955103449523
+squared_mahalanobis_distance_loss *lambda:  0.001996285980567336
+====> Epoch: 32 Average loss: 0.0220
+Start training
+
+Train Epoch: 33 [0/534 (0%)]	Loss: 0.017703
+reconst_loss *lambda:  0.006707591004669666
+sparse_loss *lambda:  7.489227573387325e-05
+squared_mahalanobis_distance_loss *lambda:  0.001193102914839983
+
+Train Epoch: 33 [480/534 (91%)]	Loss: 0.020521
+reconst_loss *lambda:  0.008295703679323196
+sparse_loss *lambda:  7.745902985334396e-05
+squared_mahalanobis_distance_loss *lambda:  0.00111017853487283
+====> Epoch: 33 Average loss: 0.0216
+Start training
+
+Train Epoch: 34 [0/534 (0%)]	Loss: 0.020884
+reconst_loss *lambda:  0.008240255527198315
+sparse_loss *lambda:  8.392999006900936e-05
+squared_mahalanobis_distance_loss *lambda:  0.0011874696938320994
+
+Train Epoch: 34 [480/534 (91%)]	Loss: 0.020824
+reconst_loss *lambda:  0.008224425837397575
+sparse_loss *lambda:  4.282415102352388e-05
+squared_mahalanobis_distance_loss *lambda:  0.0012823352590203285
+====> Epoch: 34 Average loss: 0.0221
+Start training
+
+Train Epoch: 35 [0/534 (0%)]	Loss: 0.019071
+reconst_loss *lambda:  0.0073513006791472435
+sparse_loss *lambda:  6.339274841593578e-05
+squared_mahalanobis_distance_loss *lambda:  0.0011411102022975683
+
+Train Epoch: 35 [480/534 (91%)]	Loss: 0.025983
+reconst_loss *lambda:  0.010354363359510899
+sparse_loss *lambda:  7.586165884276852e-05
+squared_mahalanobis_distance_loss *lambda:  0.00166053487919271
+====> Epoch: 35 Average loss: 0.0218
+Start training
+
+Train Epoch: 36 [0/534 (0%)]	Loss: 0.025324
+reconst_loss *lambda:  0.010457175783813
+sparse_loss *lambda:  5.04295458085835e-05
+squared_mahalanobis_distance_loss *lambda:  0.0011084259022027254
+
+Train Epoch: 36 [480/534 (91%)]	Loss: 0.023596
+reconst_loss *lambda:  0.009067247621715069
+sparse_loss *lambda:  5.928567406954244e-05
+squared_mahalanobis_distance_loss *lambda:  0.0014275280991569161
+====> Epoch: 36 Average loss: 0.0218
+Start training
+
+Train Epoch: 37 [0/534 (0%)]	Loss: 0.020253
+reconst_loss *lambda:  0.00754346651956439
+sparse_loss *lambda:  4.4187730964040384e-05
+squared_mahalanobis_distance_loss *lambda:  0.0013714416418224573
+
+Train Epoch: 37 [480/534 (91%)]	Loss: 0.022390
+reconst_loss *lambda:  0.009004954248666763
+sparse_loss *lambda:  4.0933045966085047e-05
+squared_mahalanobis_distance_loss *lambda:  0.0011172880185768008
+====> Epoch: 37 Average loss: 0.0219
+Start training
+
+Train Epoch: 38 [0/534 (0%)]	Loss: 0.019441
+reconst_loss *lambda:  0.0073219966143369675
+sparse_loss *lambda:  8.916597289498895e-05
+squared_mahalanobis_distance_loss *lambda:  0.0013746415497735143
+
+Train Epoch: 38 [480/534 (91%)]	Loss: 0.024540
+reconst_loss *lambda:  0.009674325585365295
+sparse_loss *lambda:  5.723849608330056e-05
+squared_mahalanobis_distance_loss *lambda:  0.0014302118215709925
+====> Epoch: 38 Average loss: 0.0212
+Start training
+
+Train Epoch: 39 [0/534 (0%)]	Loss: 0.023643
+reconst_loss *lambda:  0.009094836190342903
+sparse_loss *lambda:  6.263057730393484e-05
+squared_mahalanobis_distance_loss *lambda:  0.0015828615287318826
+
+Train Epoch: 39 [480/534 (91%)]	Loss: 0.023150
+reconst_loss *lambda:  0.009532840922474861
+sparse_loss *lambda:  3.5507153370417655e-05
+squared_mahalanobis_distance_loss *lambda:  0.00110701285302639
+====> Epoch: 39 Average loss: 0.0214
+Start training
+
+Train Epoch: 40 [0/534 (0%)]	Loss: 0.021431
+reconst_loss *lambda:  0.008481763303279877
+sparse_loss *lambda:  4.155898932367563e-05
+squared_mahalanobis_distance_loss *lambda:  0.0011153635568916798
+
+Train Epoch: 40 [480/534 (91%)]	Loss: 0.027253
+reconst_loss *lambda:  0.011078271083533764
+sparse_loss *lambda:  0.00012202841753605753
+squared_mahalanobis_distance_loss *lambda:  0.0014556687092408538
+====> Epoch: 40 Average loss: 0.0218
+Start training
+
+Train Epoch: 41 [0/534 (0%)]	Loss: 0.020824
+reconst_loss *lambda:  0.00808526761829853
+sparse_loss *lambda:  4.1355026041856036e-05
+squared_mahalanobis_distance_loss *lambda:  0.0011912805493921041
+
+Train Epoch: 41 [480/534 (91%)]	Loss: 0.028219
+reconst_loss *lambda:  0.012102220207452774
+sparse_loss *lambda:  7.578708755318075e-05
+squared_mahalanobis_distance_loss *lambda:  0.0010061172069981694
+====> Epoch: 41 Average loss: 0.0220
+Start training
+
+Train Epoch: 42 [0/534 (0%)]	Loss: 0.022103
+reconst_loss *lambda:  0.008801874704658985
+sparse_loss *lambda:  8.049013558775187e-05
+squared_mahalanobis_distance_loss *lambda:  0.0011179691646248102
+
+Train Epoch: 42 [480/534 (91%)]	Loss: 0.020440
+reconst_loss *lambda:  0.007611195556819439
+sparse_loss *lambda:  9.546849469188601e-05
+squared_mahalanobis_distance_loss *lambda:  0.0014580730348825455
+====> Epoch: 42 Average loss: 0.0216
+Start training
+
+Train Epoch: 43 [0/534 (0%)]	Loss: 0.018389
+reconst_loss *lambda:  0.006790991872549057
+sparse_loss *lambda:  0.00010178308002650738
+squared_mahalanobis_distance_loss *lambda:  0.0013503909576684237
+
+Train Epoch: 43 [480/534 (91%)]	Loss: 0.024169
+reconst_loss *lambda:  0.009143243543803692
+sparse_loss *lambda:  0.00010807880607899278
+squared_mahalanobis_distance_loss *lambda:  0.0016591058811172843
+====> Epoch: 43 Average loss: 0.0215
+Start training
+
+Train Epoch: 44 [0/534 (0%)]	Loss: 0.023015
+reconst_loss *lambda:  0.008803593926131725
+sparse_loss *lambda:  0.00010719576675910503
+squared_mahalanobis_distance_loss *lambda:  0.001404920476488769
+
+Train Epoch: 44 [480/534 (91%)]	Loss: 0.019500
+reconst_loss *lambda:  0.007119730114936829
+sparse_loss *lambda:  0.00011845109111163765
+squared_mahalanobis_distance_loss *lambda:  0.001266932813450694
+====> Epoch: 44 Average loss: 0.0213
+Start training
+
+Train Epoch: 45 [0/534 (0%)]	Loss: 0.019475
+reconst_loss *lambda:  0.007192294113337994
+sparse_loss *lambda:  4.3993139115627855e-05
+squared_mahalanobis_distance_loss *lambda:  0.0013151186285540462
+
+Train Epoch: 45 [480/534 (91%)]	Loss: 0.022327
+reconst_loss *lambda:  0.0088881216943264
+sparse_loss *lambda:  8.627834176877514e-05
+squared_mahalanobis_distance_loss *lambda:  0.0012058697175234556
+====> Epoch: 45 Average loss: 0.0213
+Start training
+
+Train Epoch: 46 [0/534 (0%)]	Loss: 0.021974
+reconst_loss *lambda:  0.008785327896475792
+sparse_loss *lambda:  6.177040631882846e-05
+squared_mahalanobis_distance_loss *lambda:  0.001070389524102211
+
+Train Epoch: 46 [480/534 (91%)]	Loss: 0.017382
+reconst_loss *lambda:  0.006426909472793341
+sparse_loss *lambda:  4.739082578453235e-05
+squared_mahalanobis_distance_loss *lambda:  0.0011203804751858115
+====> Epoch: 46 Average loss: 0.0212
+Start training
+
+Train Epoch: 47 [0/534 (0%)]	Loss: 0.022714
+reconst_loss *lambda:  0.009035907685756683
+sparse_loss *lambda:  5.803587191621773e-05
+squared_mahalanobis_distance_loss *lambda:  0.0011159138521179557
+
+Train Epoch: 47 [480/534 (91%)]	Loss: 0.021283
+reconst_loss *lambda:  0.007620272692292929
+sparse_loss *lambda:  6.72516762278974e-05
+squared_mahalanobis_distance_loss *lambda:  0.0016067876713350415
+====> Epoch: 47 Average loss: 0.0210
+Start training
+
+Train Epoch: 48 [0/534 (0%)]	Loss: 0.022934
+reconst_loss *lambda:  0.0088743781670928
+sparse_loss *lambda:  0.00020923858392052352
+squared_mahalanobis_distance_loss *lambda:  0.001296131405979395
+
+Train Epoch: 48 [480/534 (91%)]	Loss: 0.016464
+reconst_loss *lambda:  0.00595084298402071
+sparse_loss *lambda:  8.453195914626122e-05
+squared_mahalanobis_distance_loss *lambda:  0.0011909736786037683
+====> Epoch: 48 Average loss: 0.0209
+Start training
+
+Train Epoch: 49 [0/534 (0%)]	Loss: 0.019394
+reconst_loss *lambda:  0.00683109974488616
+sparse_loss *lambda:  6.21167928329669e-05
+squared_mahalanobis_distance_loss *lambda:  0.0014597581466659904
+
+Train Epoch: 49 [480/534 (91%)]	Loss: 0.015683
+reconst_loss *lambda:  0.005725310184061527
+sparse_loss *lambda:  8.459071977995336e-05
+squared_mahalanobis_distance_loss *lambda:  0.0011069976026192307
+====> Epoch: 49 Average loss: 0.0214
+Start training
+
+Train Epoch: 50 [0/534 (0%)]	Loss: 0.016448
+reconst_loss *lambda:  0.005773559212684631
+sparse_loss *lambda:  7.418027962557971e-05
+squared_mahalanobis_distance_loss *lambda:  0.0012657177867367864
+
+Train Epoch: 50 [480/534 (91%)]	Loss: 0.024135
+reconst_loss *lambda:  0.00963140930980444
+sparse_loss *lambda:  4.964560503140092e-05
+squared_mahalanobis_distance_loss *lambda:  0.001217854442074895
+====> Epoch: 50 Average loss: 0.0212
+Start training
+
+Train Epoch: 51 [0/534 (0%)]	Loss: 0.026870
+reconst_loss *lambda:  0.010747703723609447
+sparse_loss *lambda:  5.169978248886764e-05
+squared_mahalanobis_distance_loss *lambda:  0.0013353230897337198
+
+Train Epoch: 51 [480/534 (91%)]	Loss: 0.019694
+reconst_loss *lambda:  0.007636521011590958
+sparse_loss *lambda:  4.0782739233691245e-05
+squared_mahalanobis_distance_loss *lambda:  0.0010358194122090936
+====> Epoch: 51 Average loss: 0.0211
+Start training
+
+Train Epoch: 52 [0/534 (0%)]	Loss: 0.020726
+reconst_loss *lambda:  0.008083559572696686
+sparse_loss *lambda:  2.617286372696981e-05
+squared_mahalanobis_distance_loss *lambda:  0.0011401253286749125
+
+Train Epoch: 52 [480/534 (91%)]	Loss: 0.020745
+reconst_loss *lambda:  0.008546561934053898
+sparse_loss *lambda:  4.016919410787523e-05
+squared_mahalanobis_distance_loss *lambda:  0.0010817854199558496
+====> Epoch: 52 Average loss: 0.0212
+Start training
+
+Train Epoch: 53 [0/534 (0%)]	Loss: 0.021705
+reconst_loss *lambda:  0.008535761386156082
+sparse_loss *lambda:  2.2110754798632115e-05
+squared_mahalanobis_distance_loss *lambda:  0.0010809809900820255
+
+Train Epoch: 53 [480/534 (91%)]	Loss: 0.018084
+reconst_loss *lambda:  0.0066991932690143585
+sparse_loss *lambda:  2.1411595298559405e-05
+squared_mahalanobis_distance_loss *lambda:  0.001239965669810772
+====> Epoch: 53 Average loss: 0.0210
+Start training
+
+Train Epoch: 54 [0/534 (0%)]	Loss: 0.020916
+reconst_loss *lambda:  0.007741195615381002
+sparse_loss *lambda:  2.7691876312019303e-05
+squared_mahalanobis_distance_loss *lambda:  0.0015816715313121676
+
+Train Epoch: 54 [480/534 (91%)]	Loss: 0.022416
+reconst_loss *lambda:  0.008685531094670296
+sparse_loss *lambda:  4.3154046579729766e-05
+squared_mahalanobis_distance_loss *lambda:  0.0012980358442291617
+====> Epoch: 54 Average loss: 0.0214
+Start training
+
+Train Epoch: 55 [0/534 (0%)]	Loss: 0.025866
+reconst_loss *lambda:  0.01013786718249321
+sparse_loss *lambda:  6.279903755057603e-05
+squared_mahalanobis_distance_loss *lambda:  0.001590189291164279
+
+Train Epoch: 55 [480/534 (91%)]	Loss: 0.023438
+reconst_loss *lambda:  0.00933441799134016
+sparse_loss *lambda:  2.448742452543229e-05
+squared_mahalanobis_distance_loss *lambda:  0.0011581915896385908
+====> Epoch: 55 Average loss: 0.0208
+Start training
+
+Train Epoch: 56 [0/534 (0%)]	Loss: 0.019081
+reconst_loss *lambda:  0.007027864456176758
+sparse_loss *lambda:  2.332357325940393e-05
+squared_mahalanobis_distance_loss *lambda:  0.001343181123957038
+
+Train Epoch: 56 [480/534 (91%)]	Loss: 0.023388
+reconst_loss *lambda:  0.009094661101698875
+sparse_loss *lambda:  2.3178032279247418e-05
+squared_mahalanobis_distance_loss *lambda:  0.0013263039290904999
+====> Epoch: 56 Average loss: 0.0211
+Start training
+
+Train Epoch: 57 [0/534 (0%)]	Loss: 0.021039
+reconst_loss *lambda:  0.007148011587560177
+sparse_loss *lambda:  4.9131704145111144e-05
+squared_mahalanobis_distance_loss *lambda:  0.0018661899957805872
+
+Train Epoch: 57 [480/534 (91%)]	Loss: 0.021321
+reconst_loss *lambda:  0.007564595900475979
+sparse_loss *lambda:  5.070255065220408e-05
+squared_mahalanobis_distance_loss *lambda:  0.0016217196825891733
+====> Epoch: 57 Average loss: 0.0209
+Start training
+
+Train Epoch: 58 [0/534 (0%)]	Loss: 0.022987
+reconst_loss *lambda:  0.008543613366782665
+sparse_loss *lambda:  3.445502807153389e-05
+squared_mahalanobis_distance_loss *lambda:  0.0015898935962468386
+
+Train Epoch: 58 [480/534 (91%)]	Loss: 0.017035
+reconst_loss *lambda:  0.005759791936725378
+sparse_loss *lambda:  5.114938539918512e-05
+squared_mahalanobis_distance_loss *lambda:  0.001448033843189478
+====> Epoch: 58 Average loss: 0.0209
+Start training
+
+Train Epoch: 59 [0/534 (0%)]	Loss: 0.019826
+reconst_loss *lambda:  0.007249766495078802
+sparse_loss *lambda:  2.0649215002777055e-05
+squared_mahalanobis_distance_loss *lambda:  0.0012962816981598735
+
+Train Epoch: 59 [480/534 (91%)]	Loss: 0.014452
+reconst_loss *lambda:  0.004830845631659031
+sparse_loss *lambda:  2.14825395232765e-05
+squared_mahalanobis_distance_loss *lambda:  0.0012482025194913149
+====> Epoch: 59 Average loss: 0.0209
+Start training
+
+Train Epoch: 60 [0/534 (0%)]	Loss: 0.019517
+reconst_loss *lambda:  0.006809876300394535
+sparse_loss *lambda:  3.0909664928913116e-05
+squared_mahalanobis_distance_loss *lambda:  0.0014759957557544112
+
+Train Epoch: 60 [480/534 (91%)]	Loss: 0.019316
+reconst_loss *lambda:  0.007049783132970333
+sparse_loss *lambda:  3.185569221386686e-05
+squared_mahalanobis_distance_loss *lambda:  0.0013822672190144658
+====> Epoch: 60 Average loss: 0.0208
+Start training
+
+Train Epoch: 61 [0/534 (0%)]	Loss: 0.022195
+reconst_loss *lambda:  0.008546154946088791
+sparse_loss *lambda:  3.173615914420225e-05
+squared_mahalanobis_distance_loss *lambda:  0.0013617979129776359
+
+Train Epoch: 61 [480/534 (91%)]	Loss: 0.015384
+reconst_loss *lambda:  0.0057038976810872555
+sparse_loss *lambda:  4.348630318418145e-05
+squared_mahalanobis_distance_loss *lambda:  0.0009561545448377728
+====> Epoch: 61 Average loss: 0.0209
+Start training
+
+Train Epoch: 62 [0/534 (0%)]	Loss: 0.022378
+reconst_loss *lambda:  0.008433261886239052
+sparse_loss *lambda:  2.4129221856128424e-05
+squared_mahalanobis_distance_loss *lambda:  0.0013588550500571728
+
+Train Epoch: 62 [480/534 (91%)]	Loss: 0.024365
+reconst_loss *lambda:  0.008445863611996174
+sparse_loss *lambda:  2.8921314878971316e-05
+squared_mahalanobis_distance_loss *lambda:  0.0022277652751654387
+====> Epoch: 62 Average loss: 0.0209
+Start training
+
+Train Epoch: 63 [0/534 (0%)]	Loss: 0.022125
+reconst_loss *lambda:  0.008083956316113472
+sparse_loss *lambda:  1.9464387150947005e-05
+squared_mahalanobis_distance_loss *lambda:  0.0015589708928018808
+
+Train Epoch: 63 [480/534 (91%)]	Loss: 0.026327
+reconst_loss *lambda:  0.010517515242099762
+sparse_loss *lambda:  2.910628609242849e-05
+squared_mahalanobis_distance_loss *lambda:  0.0013767241034656763
+====> Epoch: 63 Average loss: 0.0212
+Start training
+
+Train Epoch: 64 [0/534 (0%)]	Loss: 0.019592
+reconst_loss *lambda:  0.0070707062259316444
+sparse_loss *lambda:  2.1012700017308816e-05
+squared_mahalanobis_distance_loss *lambda:  0.0013570511946454644
+
+Train Epoch: 64 [480/534 (91%)]	Loss: 0.027849
+reconst_loss *lambda:  0.010591606609523296
+sparse_loss *lambda:  2.6193520170636475e-05
+squared_mahalanobis_distance_loss *lambda:  0.0018197715980932117
+====> Epoch: 64 Average loss: 0.0205
+Start training
+
+Train Epoch: 65 [0/534 (0%)]	Loss: 0.022002
+reconst_loss *lambda:  0.008466914296150208
+sparse_loss *lambda:  3.305140126030892e-05
+squared_mahalanobis_distance_loss *lambda:  0.0013825527857989073
+
+Train Epoch: 65 [480/534 (91%)]	Loss: 0.024911
+reconst_loss *lambda:  0.009347338229417801
+sparse_loss *lambda:  3.582792487577535e-05
+squared_mahalanobis_distance_loss *lambda:  0.0016889766557142138
+====> Epoch: 65 Average loss: 0.0208
+Start training
+
+Train Epoch: 66 [0/534 (0%)]	Loss: 0.018798
+reconst_loss *lambda:  0.006578710861504078
+sparse_loss *lambda:  0.00014893291518092155
+squared_mahalanobis_distance_loss *lambda:  0.0014746204251423478
+
+Train Epoch: 66 [480/534 (91%)]	Loss: 0.017558
+reconst_loss *lambda:  0.006378777325153351
+sparse_loss *lambda:  9.72098350757733e-05
+squared_mahalanobis_distance_loss *lambda:  0.0011536061065271497
+====> Epoch: 66 Average loss: 0.0211
+Start training
+
+Train Epoch: 67 [0/534 (0%)]	Loss: 0.022275
+reconst_loss *lambda:  0.00807988177984953
+sparse_loss *lambda:  4.603167326422408e-05
+squared_mahalanobis_distance_loss *lambda:  0.0016563257668167353
+
+Train Epoch: 67 [480/534 (91%)]	Loss: 0.024792
+reconst_loss *lambda:  0.009588652290403843
+sparse_loss *lambda:  3.277200084994547e-05
+squared_mahalanobis_distance_loss *lambda:  0.001634477637708187
+====> Epoch: 67 Average loss: 0.0212
+Start training
+
+Train Epoch: 68 [0/534 (0%)]	Loss: 0.018640
+reconst_loss *lambda:  0.0063825491815805435
+sparse_loss *lambda:  2.7885485906153917e-05
+squared_mahalanobis_distance_loss *lambda:  0.0016716980608180165
+
+Train Epoch: 68 [480/534 (91%)]	Loss: 0.019190
+reconst_loss *lambda:  0.006719171069562435
+sparse_loss *lambda:  4.7507808631053194e-05
+squared_mahalanobis_distance_loss *lambda:  0.0015465645119547844
+====> Epoch: 68 Average loss: 0.0206
+Start training
+
+Train Epoch: 69 [0/534 (0%)]	Loss: 0.021038
+reconst_loss *lambda:  0.0073509179055690765
+sparse_loss *lambda:  4.0595405152998865e-05
+squared_mahalanobis_distance_loss *lambda:  0.0017029934097081423
+
+Train Epoch: 69 [480/534 (91%)]	Loss: 0.022494
+reconst_loss *lambda:  0.008414930664002895
+sparse_loss *lambda:  2.2670294129056856e-05
+squared_mahalanobis_distance_loss *lambda:  0.0015342154074460268
+====> Epoch: 69 Average loss: 0.0208
+Start training
+
+Train Epoch: 70 [0/534 (0%)]	Loss: 0.019506
+reconst_loss *lambda:  0.007054587360471487
+sparse_loss *lambda:  4.4011751015204936e-05
+squared_mahalanobis_distance_loss *lambda:  0.00138574605807662
+
+Train Epoch: 70 [480/534 (91%)]	Loss: 0.024350
+reconst_loss *lambda:  0.009113883599638939
+sparse_loss *lambda:  3.299674062873237e-05
+squared_mahalanobis_distance_loss *lambda:  0.0017257861327379942
+====> Epoch: 70 Average loss: 0.0207
+Start training
+
+Train Epoch: 71 [0/534 (0%)]	Loss: 0.017917
+reconst_loss *lambda:  0.006477219983935356
+sparse_loss *lambda:  2.4166232833522372e-05
+squared_mahalanobis_distance_loss *lambda:  0.0012726576533168554
+
+Train Epoch: 71 [480/534 (91%)]	Loss: 0.020562
+reconst_loss *lambda:  0.007473297417163849
+sparse_loss *lambda:  6.416950782295316e-05
+squared_mahalanobis_distance_loss *lambda:  0.0013400809839367867
+====> Epoch: 71 Average loss: 0.0207
+Start training
+
+Train Epoch: 72 [0/534 (0%)]	Loss: 0.022398
+reconst_loss *lambda:  0.007868574932217598
+sparse_loss *lambda:  5.612998938886449e-05
+squared_mahalanobis_distance_loss *lambda:  0.002013522433117032
+
+Train Epoch: 72 [480/534 (91%)]	Loss: 0.019037
+reconst_loss *lambda:  0.0060537043027579784
+sparse_loss *lambda:  3.2933625334408134e-05
+squared_mahalanobis_distance_loss *lambda:  0.0019380149897187948
+====> Epoch: 72 Average loss: 0.0210
+Start training
+
+Train Epoch: 73 [0/534 (0%)]	Loss: 0.017465
+reconst_loss *lambda:  0.005457233637571335
+sparse_loss *lambda:  4.171422915533185e-05
+squared_mahalanobis_distance_loss *lambda:  0.001840141136199236
+
+Train Epoch: 73 [480/534 (91%)]	Loss: 0.021555
+reconst_loss *lambda:  0.007878717966377735
+sparse_loss *lambda:  2.7076057449448854e-05
+squared_mahalanobis_distance_loss *lambda:  0.0014723051572218537
+====> Epoch: 73 Average loss: 0.0205
+Start training
+
+Train Epoch: 74 [0/534 (0%)]	Loss: 0.021552
+reconst_loss *lambda:  0.007997369393706322
+sparse_loss *lambda:  3.765136352740228e-05
+squared_mahalanobis_distance_loss *lambda:  0.001471283147111535
+
+Train Epoch: 74 [480/534 (91%)]	Loss: 0.024949
+reconst_loss *lambda:  0.01011998113244772
+sparse_loss *lambda:  3.7561156204901636e-05
+squared_mahalanobis_distance_loss *lambda:  0.0011161852162331343
+====> Epoch: 74 Average loss: 0.0206
+Start training
+
+Train Epoch: 75 [0/534 (0%)]	Loss: 0.025053
+reconst_loss *lambda:  0.01029781624674797
+sparse_loss *lambda:  3.35667391482275e-05
+squared_mahalanobis_distance_loss *lambda:  0.0011663662735372782
+
+Train Epoch: 75 [480/534 (91%)]	Loss: 0.020831
+reconst_loss *lambda:  0.007107200101017952
+sparse_loss *lambda:  0.0001405621733283624
+squared_mahalanobis_distance_loss *lambda:  0.0017722109332680702
+====> Epoch: 75 Average loss: 0.0211
+Start training
+
+Train Epoch: 76 [0/534 (0%)]	Loss: 0.019030
+reconst_loss *lambda:  0.006249704863876104
+sparse_loss *lambda:  4.5268207031767815e-05
+squared_mahalanobis_distance_loss *lambda:  0.001757257618010044
+
+Train Epoch: 76 [480/534 (91%)]	Loss: 0.019789
+reconst_loss *lambda:  0.006851468235254288
+sparse_loss *lambda:  2.7540674636838958e-05
+squared_mahalanobis_distance_loss *lambda:  0.001713015604764223
+====> Epoch: 76 Average loss: 0.0209
+Start training
+
+Train Epoch: 77 [0/534 (0%)]	Loss: 0.016219
+reconst_loss *lambda:  0.005430481396615505
+sparse_loss *lambda:  2.9750239264103584e-05
+squared_mahalanobis_distance_loss *lambda:  0.0014201939338818192
+
+Train Epoch: 77 [480/534 (91%)]	Loss: 0.024824
+reconst_loss *lambda:  0.008510127663612366
+sparse_loss *lambda:  3.0472798243863508e-05
+squared_mahalanobis_distance_loss *lambda:  0.0021459469571709633
+====> Epoch: 77 Average loss: 0.0208
+Start training
+
+Train Epoch: 78 [0/534 (0%)]	Loss: 0.017502
+reconst_loss *lambda:  0.005968732293695211
+sparse_loss *lambda:  2.8168020435259677e-05
+squared_mahalanobis_distance_loss *lambda:  0.001405100105330348
+
+Train Epoch: 78 [480/534 (91%)]	Loss: 0.019340
+reconst_loss *lambda:  0.0070725372061133385
+sparse_loss *lambda:  1.7374681192450225e-05
+squared_mahalanobis_distance_loss *lambda:  0.0013496772153303027
+====> Epoch: 78 Average loss: 0.0205
+Start training
+
+Train Epoch: 79 [0/534 (0%)]	Loss: 0.022018
+reconst_loss *lambda:  0.008327702060341835
+sparse_loss *lambda:  1.4905546777299605e-05
+squared_mahalanobis_distance_loss *lambda:  0.001378335291519761
+
+Train Epoch: 79 [480/534 (91%)]	Loss: 0.018218
+reconst_loss *lambda:  0.006030019372701645
+sparse_loss *lambda:  0.00014216252020560205
+squared_mahalanobis_distance_loss *lambda:  0.0016404807101935148
+====> Epoch: 79 Average loss: 0.0204
+Start training
+
+Train Epoch: 80 [0/534 (0%)]	Loss: 0.020031
+reconst_loss *lambda:  0.007179004140198231
+sparse_loss *lambda:  3.1781506550032645e-05
+squared_mahalanobis_distance_loss *lambda:  0.0014825814869254827
+
+Train Epoch: 80 [480/534 (91%)]	Loss: 0.017687
+reconst_loss *lambda:  0.006318618543446064
+sparse_loss *lambda:  2.58757354458794e-05
+squared_mahalanobis_distance_loss *lambda:  0.0012710881419479847
+====> Epoch: 80 Average loss: 0.0203
+Start training
+
+Train Epoch: 81 [0/534 (0%)]	Loss: 0.022746
+reconst_loss *lambda:  0.008250731974840164
+sparse_loss *lambda:  3.2005580578697845e-05
+squared_mahalanobis_distance_loss *lambda:  0.0016587481368333101
+
+Train Epoch: 81 [480/534 (91%)]	Loss: 0.015738
+reconst_loss *lambda:  0.005057965405285358
+sparse_loss *lambda:  2.806079100992065e-05
+squared_mahalanobis_distance_loss *lambda:  0.0014746497618034482
+====> Epoch: 81 Average loss: 0.0202
+Start training
+
+Train Epoch: 82 [0/534 (0%)]	Loss: 0.020388
+reconst_loss *lambda:  0.007233792915940285
+sparse_loss *lambda:  0.00011918989912373945
+squared_mahalanobis_distance_loss *lambda:  0.001459083636291325
+
+Train Epoch: 82 [480/534 (91%)]	Loss: 0.019657
+reconst_loss *lambda:  0.007077272515743971
+sparse_loss *lambda:  3.474858385743573e-05
+squared_mahalanobis_distance_loss *lambda:  0.001530285575427115
+====> Epoch: 82 Average loss: 0.0207
+Start training
+
+Train Epoch: 83 [0/534 (0%)]	Loss: 0.016339
+reconst_loss *lambda:  0.0051763029769063
+sparse_loss *lambda:  3.450413350947201e-05
+squared_mahalanobis_distance_loss *lambda:  0.0017034139018505812
+
+Train Epoch: 83 [480/534 (91%)]	Loss: 0.024557
+reconst_loss *lambda:  0.00890452042222023
+sparse_loss *lambda:  2.7739897632272914e-05
+squared_mahalanobis_distance_loss *lambda:  0.0019431851105764508
+====> Epoch: 83 Average loss: 0.0205
+Start training
+
+Train Epoch: 84 [0/534 (0%)]	Loss: 0.022611
+reconst_loss *lambda:  0.007935166358947754
+sparse_loss *lambda:  3.072451363550499e-05
+squared_mahalanobis_distance_loss *lambda:  0.0018233737209811807
+
+Train Epoch: 84 [480/534 (91%)]	Loss: 0.021959
+reconst_loss *lambda:  0.007518764119595289
+sparse_loss *lambda:  3.5927128919865936e-05
+squared_mahalanobis_distance_loss *lambda:  0.0020081691909581423
+====> Epoch: 84 Average loss: 0.0205
+Start training
+
+Train Epoch: 85 [0/534 (0%)]	Loss: 0.022202
+reconst_loss *lambda:  0.006921158172190189
+sparse_loss *lambda:  3.2577692763879895e-05
+squared_mahalanobis_distance_loss *lambda:  0.0027642836794257164
+
+Train Epoch: 85 [480/534 (91%)]	Loss: 0.021154
+reconst_loss *lambda:  0.00736015010625124
+sparse_loss *lambda:  3.45259795722086e-05
+squared_mahalanobis_distance_loss *lambda:  0.00180021021515131
+====> Epoch: 85 Average loss: 0.0208
+Start training
+
+Train Epoch: 86 [0/534 (0%)]	Loss: 0.023215
+reconst_loss *lambda:  0.008335573598742485
+sparse_loss *lambda:  4.2926883907057345e-05
+squared_mahalanobis_distance_loss *lambda:  0.0016400407766923308
+
+Train Epoch: 86 [480/534 (91%)]	Loss: 0.017151
+reconst_loss *lambda:  0.0057202610187232494
+sparse_loss *lambda:  3.093339910265058e-05
+squared_mahalanobis_distance_loss *lambda:  0.0014528750907629728
+====> Epoch: 86 Average loss: 0.0205
+Start training
+
+Train Epoch: 87 [0/534 (0%)]	Loss: 0.020139
+reconst_loss *lambda:  0.007164559792727232
+sparse_loss *lambda:  2.6835266908165067e-05
+squared_mahalanobis_distance_loss *lambda:  0.0015544735360890627
+
+Train Epoch: 87 [480/534 (91%)]	Loss: 0.018162
+reconst_loss *lambda:  0.006288560107350349
+sparse_loss *lambda:  4.676085518440232e-05
+squared_mahalanobis_distance_loss *lambda:  0.0013724688906222582
+====> Epoch: 87 Average loss: 0.0204
+Start training
+
+Train Epoch: 88 [0/534 (0%)]	Loss: 0.022190
+reconst_loss *lambda:  0.008220558054745197
+sparse_loss *lambda:  1.362719831377035e-05
+squared_mahalanobis_distance_loss *lambda:  0.0013909422559663653
+
+Train Epoch: 88 [480/534 (91%)]	Loss: 0.019689
+reconst_loss *lambda:  0.007139485329389572
+sparse_loss *lambda:  3.656907210825011e-05
+squared_mahalanobis_distance_loss *lambda:  0.0013224096037447453
+====> Epoch: 88 Average loss: 0.0204
+Start training
+
+Train Epoch: 89 [0/534 (0%)]	Loss: 0.021033
+reconst_loss *lambda:  0.007620920892804861
+sparse_loss *lambda:  2.495673470548354e-05
+squared_mahalanobis_distance_loss *lambda:  0.0015453030355274677
+
+Train Epoch: 89 [480/534 (91%)]	Loss: 0.021481
+reconst_loss *lambda:  0.0077404603362083435
+sparse_loss *lambda:  4.302205707062967e-05
+squared_mahalanobis_distance_loss *lambda:  0.0015747096622362733
+====> Epoch: 89 Average loss: 0.0204
+Start training
+
+Train Epoch: 90 [0/534 (0%)]	Loss: 0.021537
+reconst_loss *lambda:  0.007626564707607031
+sparse_loss *lambda:  3.778918107855134e-05
+squared_mahalanobis_distance_loss *lambda:  0.0017510668840259314
+
+Train Epoch: 90 [480/534 (91%)]	Loss: 0.016698
+reconst_loss *lambda:  0.00539771094918251
+sparse_loss *lambda:  2.891399162763264e-05
+squared_mahalanobis_distance_loss *lambda:  0.0015399190597236156
+====> Epoch: 90 Average loss: 0.0202
+Start training
+
+Train Epoch: 91 [0/534 (0%)]	Loss: 0.024818
+reconst_loss *lambda:  0.009652562439441681
+sparse_loss *lambda:  2.8982594812987372e-05
+squared_mahalanobis_distance_loss *lambda:  0.0015240611974149942
+
+Train Epoch: 91 [480/534 (91%)]	Loss: 0.021920
+reconst_loss *lambda:  0.0075963824056088924
+sparse_loss *lambda:  2.5963330699596554e-05
+squared_mahalanobis_distance_loss *lambda:  0.0016863368218764663
+====> Epoch: 91 Average loss: 0.0205
+Start training
+
+Train Epoch: 92 [0/534 (0%)]	Loss: 0.020982
+reconst_loss *lambda:  0.007501072715967894
+sparse_loss *lambda:  1.6566204067203216e-05
+squared_mahalanobis_distance_loss *lambda:  0.0017075324431061745
+
+Train Epoch: 92 [480/534 (91%)]	Loss: 0.017680
+reconst_loss *lambda:  0.005825056694447994
+sparse_loss *lambda:  4.1505547414999455e-05
+squared_mahalanobis_distance_loss *lambda:  0.0015598160680383444
+====> Epoch: 92 Average loss: 0.0205
+Start training
+
+Train Epoch: 93 [0/534 (0%)]	Loss: 0.019613
+reconst_loss *lambda:  0.0065695298835635185
+sparse_loss *lambda:  3.2988664315780625e-05
+squared_mahalanobis_distance_loss *lambda:  0.0017281556501984596
+
+Train Epoch: 93 [480/534 (91%)]	Loss: 0.013418
+reconst_loss *lambda:  0.00434140395373106
+sparse_loss *lambda:  5.589404099737294e-05
+squared_mahalanobis_distance_loss *lambda:  0.0011945145670324564
+====> Epoch: 93 Average loss: 0.0201
+Start training
+
+Train Epoch: 94 [0/534 (0%)]	Loss: 0.016129
+reconst_loss *lambda:  0.005277205258607864
+sparse_loss *lambda:  2.6028639695141464e-05
+squared_mahalanobis_distance_loss *lambda:  0.0014064809074625373
+
+Train Epoch: 94 [480/534 (91%)]	Loss: 0.020025
+reconst_loss *lambda:  0.006411141715943813
+sparse_loss *lambda:  3.228935383958742e-05
+squared_mahalanobis_distance_loss *lambda:  0.0019961055368185043
+====> Epoch: 94 Average loss: 0.0202
+Start training
+
+Train Epoch: 95 [0/534 (0%)]	Loss: 0.018356
+reconst_loss *lambda:  0.006622865796089172
+sparse_loss *lambda:  3.030216248589568e-05
+squared_mahalanobis_distance_loss *lambda:  0.0012910234509035945
+
+Train Epoch: 95 [480/534 (91%)]	Loss: 0.025129
+reconst_loss *lambda:  0.009276503697037697
+sparse_loss *lambda:  4.322539462009445e-05
+squared_mahalanobis_distance_loss *lambda:  0.001725151902064681
+====> Epoch: 95 Average loss: 0.0203
+Start training
+
+Train Epoch: 96 [0/534 (0%)]	Loss: 0.028055
+reconst_loss *lambda:  0.010253943502902985
+sparse_loss *lambda:  5.40807013749145e-05
+squared_mahalanobis_distance_loss *lambda:  0.0023225846234709024
+
+Train Epoch: 96 [480/534 (91%)]	Loss: 0.019648
+reconst_loss *lambda:  0.006179802119731903
+sparse_loss *lambda:  5.5666998378001153e-05
+squared_mahalanobis_distance_loss *lambda:  0.0020489932503551245
+====> Epoch: 96 Average loss: 0.0205
+Start training
+
+Train Epoch: 97 [0/534 (0%)]	Loss: 0.024913
+reconst_loss *lambda:  0.009525525383651257
+sparse_loss *lambda:  7.370494131464511e-05
+squared_mahalanobis_distance_loss *lambda:  0.0015917187556624413
+
+Train Epoch: 97 [480/534 (91%)]	Loss: 0.024914
+reconst_loss *lambda:  0.008211519569158554
+sparse_loss *lambda:  4.505912147578783e-05
+squared_mahalanobis_distance_loss *lambda:  0.0025595566257834435
+====> Epoch: 97 Average loss: 0.0204
+Start training
+
+Train Epoch: 98 [0/534 (0%)]	Loss: 0.019136
+reconst_loss *lambda:  0.00606765691190958
+sparse_loss *lambda:  4.736706614494324e-05
+squared_mahalanobis_distance_loss *lambda:  0.001843571080826223
+
+Train Epoch: 98 [480/534 (91%)]	Loss: 0.021240
+reconst_loss *lambda:  0.00758733507245779
+sparse_loss *lambda:  5.4955882660578936e-05
+squared_mahalanobis_distance_loss *lambda:  0.0015363380080088973
+====> Epoch: 98 Average loss: 0.0203
+Start training
+
+Train Epoch: 99 [0/534 (0%)]	Loss: 0.016581
+reconst_loss *lambda:  0.005042135715484619
+sparse_loss *lambda:  4.902106593362987e-05
+squared_mahalanobis_distance_loss *lambda:  0.0018068647477775812
+
+Train Epoch: 99 [480/534 (91%)]	Loss: 0.019383
+reconst_loss *lambda:  0.006269438192248344
+sparse_loss *lambda:  3.549304892658256e-05
+squared_mahalanobis_distance_loss *lambda:  0.001935172826051712
+====> Epoch: 99 Average loss: 0.0201
+Start training
+
+Train Epoch: 100 [0/534 (0%)]	Loss: 0.019773
+reconst_loss *lambda:  0.0068933977745473385
+sparse_loss *lambda:  2.9871449441998266e-05
+squared_mahalanobis_distance_loss *lambda:  0.0015878339763730764
+
+Train Epoch: 100 [480/534 (91%)]	Loss: 0.023202
+reconst_loss *lambda:  0.008703603409230709
+sparse_loss *lambda:  3.728130832314491e-05
+squared_mahalanobis_distance_loss *lambda:  0.0014884587144479156
+====> Epoch: 100 Average loss: 0.0204
+Start training
+
+Train Epoch: 101 [0/534 (0%)]	Loss: 0.018755
+reconst_loss *lambda:  0.006479665171355009
+sparse_loss *lambda:  3.822796497843228e-05
+squared_mahalanobis_distance_loss *lambda:  0.0014758221805095673
+
+Train Epoch: 101 [480/534 (91%)]	Loss: 0.012871
+reconst_loss *lambda:  0.0038526691496372223
+sparse_loss *lambda:  1.8176504454459064e-05
+squared_mahalanobis_distance_loss *lambda:  0.001373279606923461
+====> Epoch: 101 Average loss: 0.0202
+Start training
+
+Train Epoch: 102 [0/534 (0%)]	Loss: 0.022518
+reconst_loss *lambda:  0.00841374322772026
+sparse_loss *lambda:  7.606229337397963e-05
+squared_mahalanobis_distance_loss *lambda:  0.001419334439560771
+
+Train Epoch: 102 [480/534 (91%)]	Loss: 0.016042
+reconst_loss *lambda:  0.005634455941617489
+sparse_loss *lambda:  1.886574500531424e-05
+squared_mahalanobis_distance_loss *lambda:  0.0011411530431360006
+====> Epoch: 102 Average loss: 0.0201
+Start training
+
+Train Epoch: 103 [0/534 (0%)]	Loss: 0.021015
+reconst_loss *lambda:  0.007586294785141945
+sparse_loss *lambda:  2.6174124286626466e-05
+squared_mahalanobis_distance_loss *lambda:  0.0014912772458046675
+
+Train Epoch: 103 [480/534 (91%)]	Loss: 0.018348
+reconst_loss *lambda:  0.00580041017383337
+sparse_loss *lambda:  3.510657188598998e-05
+squared_mahalanobis_distance_loss *lambda:  0.001961695495992899
+====> Epoch: 103 Average loss: 0.0201
+Start training
+
+Train Epoch: 104 [0/534 (0%)]	Loss: 0.020250
+reconst_loss *lambda:  0.006460106931626797
+sparse_loss *lambda:  2.9161203201510943e-05
+squared_mahalanobis_distance_loss *lambda:  0.0020886934362351894
+
+Train Epoch: 104 [480/534 (91%)]	Loss: 0.015888
+reconst_loss *lambda:  0.0049732644110918045
+sparse_loss *lambda:  4.06531362386886e-05
+squared_mahalanobis_distance_loss *lambda:  0.0015320228412747383
+====> Epoch: 104 Average loss: 0.0202
+Start training
+
+Train Epoch: 105 [0/534 (0%)]	Loss: 0.016981
+reconst_loss *lambda:  0.005301114171743393
+sparse_loss *lambda:  3.961363836424425e-05
+squared_mahalanobis_distance_loss *lambda:  0.001730636227875948
+
+Train Epoch: 105 [480/534 (91%)]	Loss: 0.026126
+reconst_loss *lambda:  0.009816000238060951
+sparse_loss *lambda:  2.5013319827849045e-05
+squared_mahalanobis_distance_loss *lambda:  0.001748203532770276
+====> Epoch: 105 Average loss: 0.0202
+Start training
+
+Train Epoch: 106 [0/534 (0%)]	Loss: 0.017080
+reconst_loss *lambda:  0.0055555058643221855
+sparse_loss *lambda:  6.531094550155103e-05
+squared_mahalanobis_distance_loss *lambda:  0.0015353442868217826
+
+Train Epoch: 106 [480/534 (91%)]	Loss: 0.022320
+reconst_loss *lambda:  0.007770197466015816
+sparse_loss *lambda:  8.60641011968255e-05
+squared_mahalanobis_distance_loss *lambda:  0.0018430901691317558
+====> Epoch: 106 Average loss: 0.0200
+Start training
+
+Train Epoch: 107 [0/534 (0%)]	Loss: 0.022603
+reconst_loss *lambda:  0.008158821612596512
+sparse_loss *lambda:  8.378799248021096e-05
+squared_mahalanobis_distance_loss *lambda:  0.0016331213992089033
+
+Train Epoch: 107 [480/534 (91%)]	Loss: 0.022369
+reconst_loss *lambda:  0.007675627246499062
+sparse_loss *lambda:  2.7046149625675753e-05
+squared_mahalanobis_distance_loss *lambda:  0.0018701148219406605
+====> Epoch: 107 Average loss: 0.0201
+Start training
+
+Train Epoch: 108 [0/534 (0%)]	Loss: 0.018599
+reconst_loss *lambda:  0.006113836076110601
+sparse_loss *lambda:  2.6533038180787116e-05
+squared_mahalanobis_distance_loss *lambda:  0.0017246531788259745
+
+Train Epoch: 108 [480/534 (91%)]	Loss: 0.023280
+reconst_loss *lambda:  0.00820980779826641
+sparse_loss *lambda:  3.544314677128568e-05
+squared_mahalanobis_distance_loss *lambda:  0.001840759301558137
+====> Epoch: 108 Average loss: 0.0201
+Start training
+
+Train Epoch: 109 [0/534 (0%)]	Loss: 0.022008
+reconst_loss *lambda:  0.008034012280404568
+sparse_loss *lambda:  4.0436403651256114e-05
+squared_mahalanobis_distance_loss *lambda:  0.001551922643557191
+
+Train Epoch: 109 [480/534 (91%)]	Loss: 0.023374
+reconst_loss *lambda:  0.00810453575104475
+sparse_loss *lambda:  4.1668852645670995e-05
+squared_mahalanobis_distance_loss *lambda:  0.00197420921176672
+====> Epoch: 109 Average loss: 0.0202
+Start training
+
+Train Epoch: 110 [0/534 (0%)]	Loss: 0.026002
+reconst_loss *lambda:  0.009715224616229534
+sparse_loss *lambda:  2.3646149202249944e-05
+squared_mahalanobis_distance_loss *lambda:  0.0016448411624878645
+
+Train Epoch: 110 [480/534 (91%)]	Loss: 0.024487
+reconst_loss *lambda:  0.008830390870571136
+sparse_loss *lambda:  5.191866512177512e-05
+squared_mahalanobis_distance_loss *lambda:  0.0018771423492580652
+====> Epoch: 110 Average loss: 0.0202
+Start training
+
+Train Epoch: 111 [0/534 (0%)]	Loss: 0.017302
+reconst_loss *lambda:  0.005185132380574942
+sparse_loss *lambda:  2.6539291866356507e-05
+squared_mahalanobis_distance_loss *lambda:  0.0018286383710801601
+
+Train Epoch: 111 [480/534 (91%)]	Loss: 0.018228
+reconst_loss *lambda:  0.006006378680467606
+sparse_loss *lambda:  4.5649368985323235e-05
+squared_mahalanobis_distance_loss *lambda:  0.001644729869440198
+====> Epoch: 111 Average loss: 0.0201
+Start training
+
+Train Epoch: 112 [0/534 (0%)]	Loss: 0.019307
+reconst_loss *lambda:  0.006020013242959976
+sparse_loss *lambda:  0.00014747018576599658
+squared_mahalanobis_distance_loss *lambda:  0.0020807734690606594
+
+Train Epoch: 112 [480/534 (91%)]	Loss: 0.015559
+reconst_loss *lambda:  0.004781116731464863
+sparse_loss *lambda:  3.995520819444209e-05
+squared_mahalanobis_distance_loss *lambda:  0.0015966524370014668
+====> Epoch: 112 Average loss: 0.0201
+Start training
+
+Train Epoch: 113 [0/534 (0%)]	Loss: 0.022523
+reconst_loss *lambda:  0.007989664562046528
+sparse_loss *lambda:  2.5854387786239386e-05
+squared_mahalanobis_distance_loss *lambda:  0.0016675818478688598
+
+Train Epoch: 113 [480/534 (91%)]	Loss: 0.018068
+reconst_loss *lambda:  0.005997023545205593
+sparse_loss *lambda:  2.4364118871744722e-05
+squared_mahalanobis_distance_loss *lambda:  0.0015243940288200974
+====> Epoch: 113 Average loss: 0.0200
+Start training
+
+Train Epoch: 114 [0/534 (0%)]	Loss: 0.020059
+reconst_loss *lambda:  0.007143413182348013
+sparse_loss *lambda:  2.7407368179410696e-05
+squared_mahalanobis_distance_loss *lambda:  0.0013904022052884102
+
+Train Epoch: 114 [480/534 (91%)]	Loss: 0.026547
+reconst_loss *lambda:  0.010387483052909374
+sparse_loss *lambda:  2.9575883672805503e-05
+squared_mahalanobis_distance_loss *lambda:  0.0014041276881471276
+====> Epoch: 114 Average loss: 0.0201
+Start training
+
+Train Epoch: 115 [0/534 (0%)]	Loss: 0.021081
+reconst_loss *lambda:  0.006831911858171225
+sparse_loss *lambda:  5.589231295743957e-05
+squared_mahalanobis_distance_loss *lambda:  0.002055924851447344
+
+Train Epoch: 115 [480/534 (91%)]	Loss: 0.019277
+reconst_loss *lambda:  0.0062888613902032375
+sparse_loss *lambda:  3.13545715471264e-05
+squared_mahalanobis_distance_loss *lambda:  0.0018668132834136486
+====> Epoch: 115 Average loss: 0.0200
+Start training
+
+Train Epoch: 116 [0/534 (0%)]	Loss: 0.020171
+reconst_loss *lambda:  0.0068411133252084255
+sparse_loss *lambda:  2.4941746232798323e-05
+squared_mahalanobis_distance_loss *lambda:  0.0016985078109428287
+
+Train Epoch: 116 [480/534 (91%)]	Loss: 0.023021
+reconst_loss *lambda:  0.008292963728308678
+sparse_loss *lambda:  3.260266385041177e-05
+squared_mahalanobis_distance_loss *lambda:  0.0016331401420757174
+====> Epoch: 116 Average loss: 0.0199
+Start training
+
+Train Epoch: 117 [0/534 (0%)]	Loss: 0.019989
+reconst_loss *lambda:  0.006944424472749233
+sparse_loss *lambda:  6.073327313060872e-05
+squared_mahalanobis_distance_loss *lambda:  0.0016595879569649696
+
+Train Epoch: 117 [480/534 (91%)]	Loss: 0.020208
+reconst_loss *lambda:  0.007002216763794422
+sparse_loss *lambda:  4.253147926647216e-05
+squared_mahalanobis_distance_loss *lambda:  0.0016301951836794615
+====> Epoch: 117 Average loss: 0.0198
+Start training
+
+Train Epoch: 118 [0/534 (0%)]	Loss: 0.015233
+reconst_loss *lambda:  0.004502690397202969
+sparse_loss *lambda:  4.0538012399338186e-05
+squared_mahalanobis_distance_loss *lambda:  0.0017365181120112538
+
+Train Epoch: 118 [480/534 (91%)]	Loss: 0.012567
+reconst_loss *lambda:  0.0034997700713574886
+sparse_loss *lambda:  8.020111272344366e-05
+squared_mahalanobis_distance_loss *lambda:  0.001450276467949152
+====> Epoch: 118 Average loss: 0.0201
+Start training
+
+Train Epoch: 119 [0/534 (0%)]	Loss: 0.019379
+reconst_loss *lambda:  0.006333007477223873
+sparse_loss *lambda:  8.093092037597671e-05
+squared_mahalanobis_distance_loss *lambda:  0.001812528818845749
+
+Train Epoch: 119 [480/534 (91%)]	Loss: 0.020849
+reconst_loss *lambda:  0.007323211990296841
+sparse_loss *lambda:  2.7808808226836845e-05
+squared_mahalanobis_distance_loss *lambda:  0.0016244932776317
+====> Epoch: 119 Average loss: 0.0198
+Start training
+
+Train Epoch: 120 [0/534 (0%)]	Loss: 0.017874
+reconst_loss *lambda:  0.005363439209759235
+sparse_loss *lambda:  1.9914614313165657e-05
+squared_mahalanobis_distance_loss *lambda:  0.0021513202227652073
+
+Train Epoch: 120 [480/534 (91%)]	Loss: 0.014929
+reconst_loss *lambda:  0.004804717376828194
+sparse_loss *lambda:  7.268100307555869e-05
+squared_mahalanobis_distance_loss *lambda:  0.0012446994660422206
+====> Epoch: 120 Average loss: 0.0199
+Start training
+
+Train Epoch: 121 [0/534 (0%)]	Loss: 0.019459
+reconst_loss *lambda:  0.006244009360671043
+sparse_loss *lambda:  4.040470957988873e-05
+squared_mahalanobis_distance_loss *lambda:  0.0018846208695322275
+
+Train Epoch: 121 [480/534 (91%)]	Loss: 0.018991
+reconst_loss *lambda:  0.006292577832937241
+sparse_loss *lambda:  2.166623016819358e-05
+squared_mahalanobis_distance_loss *lambda:  0.001711023971438408
+====> Epoch: 121 Average loss: 0.0199
+Start training
+
+Train Epoch: 122 [0/534 (0%)]	Loss: 0.018016
+reconst_loss *lambda:  0.005837523378431797
+sparse_loss *lambda:  5.109882476972416e-05
+squared_mahalanobis_distance_loss *lambda:  0.0018425451125949621
+
+Train Epoch: 122 [480/534 (91%)]	Loss: 0.018893
+reconst_loss *lambda:  0.006135924719274044
+sparse_loss *lambda:  4.1673520172480494e-05
+squared_mahalanobis_distance_loss *lambda:  0.001736327656544745
+====> Epoch: 122 Average loss: 0.0197
+Start training
+
+Train Epoch: 123 [0/534 (0%)]	Loss: 0.020698
+reconst_loss *lambda:  0.00726916640996933
+sparse_loss *lambda:  2.4532677343813702e-05
+squared_mahalanobis_distance_loss *lambda:  0.0016233478672802448
+
+Train Epoch: 123 [480/534 (91%)]	Loss: 0.017823
+reconst_loss *lambda:  0.0055275410413742065
+sparse_loss *lambda:  7.616465154569596e-05
+squared_mahalanobis_distance_loss *lambda:  0.0018576083239167929
+====> Epoch: 123 Average loss: 0.0200
+Start training
+
+Train Epoch: 124 [0/534 (0%)]	Loss: 0.017973
+reconst_loss *lambda:  0.006131809204816818
+sparse_loss *lambda:  6.583877257071435e-05
+squared_mahalanobis_distance_loss *lambda:  0.0015584854409098625
+
+Train Epoch: 124 [480/534 (91%)]	Loss: 0.017089
+reconst_loss *lambda:  0.0055461423471570015
+sparse_loss *lambda:  2.3450669687008485e-05
+squared_mahalanobis_distance_loss *lambda:  0.0015620326157659292
+====> Epoch: 124 Average loss: 0.0199
+Start training
+
+Train Epoch: 125 [0/534 (0%)]	Loss: 0.021948
+reconst_loss *lambda:  0.007849558256566525
+sparse_loss *lambda:  3.951976395910606e-05
+squared_mahalanobis_distance_loss *lambda:  0.0016811053501442075
+
+Train Epoch: 125 [480/534 (91%)]	Loss: 0.018790
+reconst_loss *lambda:  0.006143779959529638
+sparse_loss *lambda:  1.8924663891084492e-05
+squared_mahalanobis_distance_loss *lambda:  0.0017048452282324433
+====> Epoch: 125 Average loss: 0.0197
+Start training
+
+Train Epoch: 126 [0/534 (0%)]	Loss: 0.017706
+reconst_loss *lambda:  0.00566302752122283
+sparse_loss *lambda:  3.4276439691893756e-05
+squared_mahalanobis_distance_loss *lambda:  0.001698225736618042
+
+Train Epoch: 126 [480/534 (91%)]	Loss: 0.022586
+reconst_loss *lambda:  0.00791897065937519
+sparse_loss *lambda:  3.32572017214261e-05
+squared_mahalanobis_distance_loss *lambda:  0.0018542520701885223
+====> Epoch: 126 Average loss: 0.0197
+Start training
+
+Train Epoch: 127 [0/534 (0%)]	Loss: 0.024940
+reconst_loss *lambda:  0.009192428551614285
+sparse_loss *lambda:  3.699299122672528e-05
+squared_mahalanobis_distance_loss *lambda:  0.001650666119530797
+
+Train Epoch: 127 [480/534 (91%)]	Loss: 0.018860
+reconst_loss *lambda:  0.006052300333976746
+sparse_loss *lambda:  2.730479354795534e-05
+squared_mahalanobis_distance_loss *lambda:  0.0018320747185498476
+====> Epoch: 127 Average loss: 0.0199
+Start training
+
+Train Epoch: 128 [0/534 (0%)]	Loss: 0.025417
+reconst_loss *lambda:  0.008818397298455238
+sparse_loss *lambda:  3.679854853544384e-05
+squared_mahalanobis_distance_loss *lambda:  0.0021652458235621452
+
+Train Epoch: 128 [480/534 (91%)]	Loss: 0.018349
+reconst_loss *lambda:  0.006231560371816158
+sparse_loss *lambda:  3.344197466503829e-05
+squared_mahalanobis_distance_loss *lambda:  0.0015416416572406888
+====> Epoch: 128 Average loss: 0.0199
+Start training
+
+Train Epoch: 129 [0/534 (0%)]	Loss: 0.020462
+reconst_loss *lambda:  0.007001031190156937
+sparse_loss *lambda:  1.4774763258174062e-05
+squared_mahalanobis_distance_loss *lambda:  0.0017365275416523218
+
+Train Epoch: 129 [480/534 (91%)]	Loss: 0.026052
+reconst_loss *lambda:  0.009541097097098827
+sparse_loss *lambda:  0.00012731924653053284
+squared_mahalanobis_distance_loss *lambda:  0.001882680575363338
+====> Epoch: 129 Average loss: 0.0197
+Start training
+
+Train Epoch: 130 [0/534 (0%)]	Loss: 0.019817
+reconst_loss *lambda:  0.006708083208650351
+sparse_loss *lambda:  3.378618566785008e-05
+squared_mahalanobis_distance_loss *lambda:  0.0016736645484343171
+
+Train Epoch: 130 [480/534 (91%)]	Loss: 0.023535
+reconst_loss *lambda:  0.008420875295996666
+sparse_loss *lambda:  8.539624104741961e-05
+squared_mahalanobis_distance_loss *lambda:  0.001806476037018001
+====> Epoch: 130 Average loss: 0.0199
+Start training
+
+Train Epoch: 131 [0/534 (0%)]	Loss: 0.020459
+reconst_loss *lambda:  0.006766176782548428
+sparse_loss *lambda:  5.5183998483698815e-05
+squared_mahalanobis_distance_loss *lambda:  0.0019499539630487561
+
+Train Epoch: 131 [480/534 (91%)]	Loss: 0.018207
+reconst_loss *lambda:  0.005674625746905804
+sparse_loss *lambda:  3.894202382070944e-05
+squared_mahalanobis_distance_loss *lambda:  0.0018589039100334048
+====> Epoch: 131 Average loss: 0.0197
+Start training
+
+Train Epoch: 132 [0/534 (0%)]	Loss: 0.018929
+reconst_loss *lambda:  0.006240709684789181
+sparse_loss *lambda:  0.00016901735216379166
+squared_mahalanobis_distance_loss *lambda:  0.0017363302176818252
+
+Train Epoch: 132 [480/534 (91%)]	Loss: 0.016088
+reconst_loss *lambda:  0.004603702574968338
+sparse_loss *lambda:  2.788274287013337e-05
+squared_mahalanobis_distance_loss *lambda:  0.0018736618803814054
+====> Epoch: 132 Average loss: 0.0200
+Start training
+
+Train Epoch: 133 [0/534 (0%)]	Loss: 0.025723
+reconst_loss *lambda:  0.009154843166470528
+sparse_loss *lambda:  4.1920095100067556e-05
+squared_mahalanobis_distance_loss *lambda:  0.002171199768781662
+
+Train Epoch: 133 [480/534 (91%)]	Loss: 0.020207
+reconst_loss *lambda:  0.006838063709437847
+sparse_loss *lambda:  5.0178645324194804e-05
+squared_mahalanobis_distance_loss *lambda:  0.0017715578433126211
+====> Epoch: 133 Average loss: 0.0194
+Start training
+
+Train Epoch: 134 [0/534 (0%)]	Loss: 0.025143
+reconst_loss *lambda:  0.009007150307297707
+sparse_loss *lambda:  3.230956644983962e-05
+squared_mahalanobis_distance_loss *lambda:  0.0019358512945473194
+
+Train Epoch: 134 [480/534 (91%)]	Loss: 0.018453
+reconst_loss *lambda:  0.0065587423741817474
+sparse_loss *lambda:  3.219071732019074e-05
+squared_mahalanobis_distance_loss *lambda:  0.001293784356676042
+====> Epoch: 134 Average loss: 0.0195
+Start training
+
+Train Epoch: 135 [0/534 (0%)]	Loss: 0.018765
+reconst_loss *lambda:  0.005518415477126837
+sparse_loss *lambda:  2.6612875444698147e-05
+squared_mahalanobis_distance_loss *lambda:  0.0022216723300516605
+
+Train Epoch: 135 [480/534 (91%)]	Loss: 0.020354
+reconst_loss *lambda:  0.006580059416592121
+sparse_loss *lambda:  2.117458097927738e-05
+squared_mahalanobis_distance_loss *lambda:  0.0020785252563655376
+====> Epoch: 135 Average loss: 0.0197
+Start training
+
+Train Epoch: 136 [0/534 (0%)]	Loss: 0.020882
+reconst_loss *lambda:  0.0071468716487288475
+sparse_loss *lambda:  4.100224032299593e-05
+squared_mahalanobis_distance_loss *lambda:  0.001716074300929904
+
+Train Epoch: 136 [480/534 (91%)]	Loss: 0.015118
+reconst_loss *lambda:  0.004437269642949104
+sparse_loss *lambda:  4.241971328156069e-05
+squared_mahalanobis_distance_loss *lambda:  0.0016992782475426793
+====> Epoch: 136 Average loss: 0.0197
+Start training
+
+Train Epoch: 137 [0/534 (0%)]	Loss: 0.015753
+reconst_loss *lambda:  0.004776884336024523
+sparse_loss *lambda:  2.422647776256781e-05
+squared_mahalanobis_distance_loss *lambda:  0.001657181652262807
+
+Train Epoch: 137 [480/534 (91%)]	Loss: 0.015230
+reconst_loss *lambda:  0.004423128440976143
+sparse_loss *lambda:  4.1095190681517124e-05
+squared_mahalanobis_distance_loss *lambda:  0.0016829908126965165
+====> Epoch: 137 Average loss: 0.0196
+Start training
+
+Train Epoch: 138 [0/534 (0%)]	Loss: 0.027791
+reconst_loss *lambda:  0.010547789745032787
+sparse_loss *lambda:  1.8490820366423577e-05
+squared_mahalanobis_distance_loss *lambda:  0.0018525198101997375
+
+Train Epoch: 138 [480/534 (91%)]	Loss: 0.023973
+reconst_loss *lambda:  0.008683483116328716
+sparse_loss *lambda:  4.069110582349822e-05
+squared_mahalanobis_distance_loss *lambda:  0.0017510645557194948
+====> Epoch: 138 Average loss: 0.0197
+Start training
+
+Train Epoch: 139 [0/534 (0%)]	Loss: 0.020403
+reconst_loss *lambda:  0.006907477509230375
+sparse_loss *lambda:  7.026077946648002e-05
+squared_mahalanobis_distance_loss *lambda:  0.0017872655298560858
+
+Train Epoch: 139 [480/534 (91%)]	Loss: 0.019985
+reconst_loss *lambda:  0.006336543243378401
+sparse_loss *lambda:  5.503547436092049e-05
+squared_mahalanobis_distance_loss *lambda:  0.00199894979596138
+====> Epoch: 139 Average loss: 0.0197
+Start training
+
+Train Epoch: 140 [0/534 (0%)]	Loss: 0.019946
+reconst_loss *lambda:  0.006463746540248394
+sparse_loss *lambda:  2.3554559447802603e-05
+squared_mahalanobis_distance_loss *lambda:  0.001991305034607649
+
+Train Epoch: 140 [480/534 (91%)]	Loss: 0.017753
+reconst_loss *lambda:  0.005805256776511669
+sparse_loss *lambda:  5.0804617785615847e-05
+squared_mahalanobis_distance_loss *lambda:  0.0016559755895286798
+====> Epoch: 140 Average loss: 0.0196
+Start training
+
+Train Epoch: 141 [0/534 (0%)]	Loss: 0.025616
+reconst_loss *lambda:  0.009210485965013504
+sparse_loss *lambda:  5.147344927536324e-05
+squared_mahalanobis_distance_loss *lambda:  0.0019247187301516533
+
+Train Epoch: 141 [480/534 (91%)]	Loss: 0.015423
+reconst_loss *lambda:  0.004913080483675003
+sparse_loss *lambda:  3.0081180739216506e-05
+squared_mahalanobis_distance_loss *lambda:  0.0013884700601920485
+====> Epoch: 141 Average loss: 0.0199
+Start training
+
+Train Epoch: 142 [0/534 (0%)]	Loss: 0.019799
+reconst_loss *lambda:  0.0062934281304478645
+sparse_loss *lambda:  6.51947339065373e-05
+squared_mahalanobis_distance_loss *lambda:  0.0020317756570875645
+
+Train Epoch: 142 [480/534 (91%)]	Loss: 0.022058
+reconst_loss *lambda:  0.0075365640223026276
+sparse_loss *lambda:  2.408004002063535e-05
+squared_mahalanobis_distance_loss *lambda:  0.0019392615649849176
+====> Epoch: 142 Average loss: 0.0199
+Start training
+
+Train Epoch: 143 [0/534 (0%)]	Loss: 0.020513
+reconst_loss *lambda:  0.007079289760440588
+sparse_loss *lambda:  2.4724422473809682e-05
+squared_mahalanobis_distance_loss *lambda:  0.0017633949173614383
+
+Train Epoch: 143 [480/534 (91%)]	Loss: 0.024797
+reconst_loss *lambda:  0.008721794001758099
+sparse_loss *lambda:  0.0001287171762669459
+squared_mahalanobis_distance_loss *lambda:  0.0020057926885783672
+====> Epoch: 143 Average loss: 0.0200
+Start training
+
+Train Epoch: 144 [0/534 (0%)]	Loss: 0.024049
+reconst_loss *lambda:  0.008210989646613598
+sparse_loss *lambda:  0.00011698181333485991
+squared_mahalanobis_distance_loss *lambda:  0.0020771706476807594
+
+Train Epoch: 144 [480/534 (91%)]	Loss: 0.019033
+reconst_loss *lambda:  0.006402261555194855
+sparse_loss *lambda:  6.487841164926067e-05
+squared_mahalanobis_distance_loss *lambda:  0.0016115574399009347
+====> Epoch: 144 Average loss: 0.0198
+Start training
+
+Train Epoch: 145 [0/534 (0%)]	Loss: 0.016080
+reconst_loss *lambda:  0.004782269708812237
+sparse_loss *lambda:  4.647068999474868e-05
+squared_mahalanobis_distance_loss *lambda:  0.0016991642769426107
+
+Train Epoch: 145 [480/534 (91%)]	Loss: 0.017314
+reconst_loss *lambda:  0.005346701480448246
+sparse_loss *lambda:  2.2623502445640042e-05
+squared_mahalanobis_distance_loss *lambda:  0.0016893042484298348
+====> Epoch: 145 Average loss: 0.0198
+Start training
+
+Train Epoch: 146 [0/534 (0%)]	Loss: 0.020293
+reconst_loss *lambda:  0.006803607102483511
+sparse_loss *lambda:  6.133990245871246e-05
+squared_mahalanobis_distance_loss *lambda:  0.0018901008879765868
+
+Train Epoch: 146 [480/534 (91%)]	Loss: 0.022331
+reconst_loss *lambda:  0.007597918622195721
+sparse_loss *lambda:  4.380005702842027e-05
+squared_mahalanobis_distance_loss *lambda:  0.0019393814727663994
+====> Epoch: 146 Average loss: 0.0196
+Start training
+
+Train Epoch: 147 [0/534 (0%)]	Loss: 0.018688
+reconst_loss *lambda:  0.005607612431049347
+sparse_loss *lambda:  6.621844659093767e-05
+squared_mahalanobis_distance_loss *lambda:  0.002077291253954172
+
+Train Epoch: 147 [480/534 (91%)]	Loss: 0.024095
+reconst_loss *lambda:  0.007890782319009304
+sparse_loss *lambda:  2.9477525458787568e-05
+squared_mahalanobis_distance_loss *lambda:  0.00248073972761631
+====> Epoch: 147 Average loss: 0.0196
+Start training
+
+Train Epoch: 148 [0/534 (0%)]	Loss: 0.018483
+reconst_loss *lambda:  0.006312510930001736
+sparse_loss *lambda:  2.2343650925904512e-05
+squared_mahalanobis_distance_loss *lambda:  0.0016667856834828854
+
+Train Epoch: 148 [480/534 (91%)]	Loss: 0.012964
+reconst_loss *lambda:  0.00350382924079895
+sparse_loss *lambda:  2.103924998664297e-05
+squared_mahalanobis_distance_loss *lambda:  0.0017562930006533861
+====> Epoch: 148 Average loss: 0.0194
+Start training
+
+Train Epoch: 149 [0/534 (0%)]	Loss: 0.016862
+reconst_loss *lambda:  0.004966000560671091
+sparse_loss *lambda:  0.00010205915896221995
+squared_mahalanobis_distance_loss *lambda:  0.0018579706083983183
+
+Train Epoch: 149 [480/534 (91%)]	Loss: 0.018298
+reconst_loss *lambda:  0.0062464214861392975
+sparse_loss *lambda:  2.1142710465937853e-05
+squared_mahalanobis_distance_loss *lambda:  0.0014873880427330732
+====> Epoch: 149 Average loss: 0.0197
+Start training
+
+Train Epoch: 150 [0/534 (0%)]	Loss: 0.016566
+reconst_loss *lambda:  0.004962260834872723
+sparse_loss *lambda:  2.1543204638874158e-05
+squared_mahalanobis_distance_loss *lambda:  0.0017293508863076568
+
+Train Epoch: 150 [480/534 (91%)]	Loss: 0.018155
+reconst_loss *lambda:  0.005594709422439337
+sparse_loss *lambda:  2.0419307475094683e-05
+squared_mahalanobis_distance_loss *lambda:  0.0020156640093773603
+====> Epoch: 150 Average loss: 0.0197

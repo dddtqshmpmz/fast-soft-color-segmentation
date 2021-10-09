@@ -1,0 +1,257 @@
+Start training
+
+Train Epoch: 1 [0/50500 (0%)]	Loss: 0.009056
+reconst_loss *lambda:  0.0035453960299491882
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  0.0024852557107806206
+
+Train Epoch: 1 [6400/50500 (13%)]	Loss: 0.002170
+reconst_loss *lambda:  0.0008989250636659563
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  6.612421566387638e-05
+
+Train Epoch: 1 [12800/50500 (25%)]	Loss: 0.001858
+reconst_loss *lambda:  0.0007187307346612215
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  8.512678323313594e-05
+
+Train Epoch: 1 [19200/50500 (38%)]	Loss: 0.001745
+reconst_loss *lambda:  0.000655178155284375
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  8.858317596605048e-05
+
+Train Epoch: 1 [25600/50500 (51%)]	Loss: 0.001645
+reconst_loss *lambda:  0.0006087016663514078
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  8.159522258210927e-05
+
+Train Epoch: 1 [32000/50500 (63%)]	Loss: 0.001405
+reconst_loss *lambda:  0.0004943887470290065
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  7.569981971755624e-05
+
+Train Epoch: 1 [38400/50500 (76%)]	Loss: 0.001269
+reconst_loss *lambda:  0.00042989669600501657
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  6.546519580297172e-05
+
+Train Epoch: 1 [44800/50500 (89%)]	Loss: 0.001114
+reconst_loss *lambda:  0.00037631159648299217
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  4.8059631808428094e-05
+====> Epoch: 1 Average loss: 0.001697
+====> Epoch: 1 Average reconst_loss *lambda: 0.000653
+====> Epoch: 1 Average mono_loss *lambda: 0.000959
+====> Epoch: 1 Average sparse_loss *lambda: 0.000000
+====> Epoch: 1 Average squared_mahalanobis_distance_loss *lambda: 0.000085
+====> Epoch: 1 Average val loss: 0.102003
+====> Epoch: 1 Average val reconst_loss *lambda: 0.040954
+====> Epoch: 1 Average val mono_loss *lambda: 0.057279
+====> Epoch: 1 Average val sparse_loss *lambda: 0.000000
+====> Epoch: 1 Average val squared_mahalanobis_distance_loss *lambda: 0.003770
+Start training
+
+Train Epoch: 2 [0/50500 (0%)]	Loss: 0.001302
+reconst_loss *lambda:  0.0004420129116624594
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  6.368563481373712e-05
+
+Train Epoch: 2 [6400/50500 (13%)]	Loss: 0.001370
+reconst_loss *lambda:  0.0005015934584662318
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  5.6559212680440396e-05
+
+Train Epoch: 2 [12800/50500 (25%)]	Loss: 0.001251
+reconst_loss *lambda:  0.0004570039454847574
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  4.2845225834753364e-05
+
+Train Epoch: 2 [19200/50500 (38%)]	Loss: 0.001261
+reconst_loss *lambda:  0.0004385191423352808
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  7.077580085024238e-05
+
+Train Epoch: 2 [25600/50500 (51%)]	Loss: 0.001184
+reconst_loss *lambda:  0.00041270392830483615
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  5.132269870955497e-05
+
+Train Epoch: 2 [32000/50500 (63%)]	Loss: 0.001099
+reconst_loss *lambda:  0.00036512804217636585
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  5.871555913472548e-05
+
+Train Epoch: 2 [38400/50500 (76%)]	Loss: 0.001228
+reconst_loss *lambda:  0.0004213277716189623
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  5.955305095994845e-05
+
+Train Epoch: 2 [44800/50500 (89%)]	Loss: 0.001048
+reconst_loss *lambda:  0.0003518364392220974
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  5.374036845751107e-05
+====> Epoch: 2 Average loss: 0.001192
+====> Epoch: 2 Average reconst_loss *lambda: 0.000423
+====> Epoch: 2 Average mono_loss *lambda: 0.000714
+====> Epoch: 2 Average sparse_loss *lambda: 0.000000
+====> Epoch: 2 Average squared_mahalanobis_distance_loss *lambda: 0.000055
+====> Epoch: 2 Average val loss: 0.068511
+====> Epoch: 2 Average val reconst_loss *lambda: 0.022652
+====> Epoch: 2 Average val mono_loss *lambda: 0.042630
+====> Epoch: 2 Average val sparse_loss *lambda: 0.000000
+====> Epoch: 2 Average val squared_mahalanobis_distance_loss *lambda: 0.003229
+Start training
+
+Train Epoch: 3 [0/50500 (0%)]	Loss: 0.001044
+reconst_loss *lambda:  0.00035189365735277534
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  4.807596997125074e-05
+
+Train Epoch: 3 [6400/50500 (13%)]	Loss: 0.001081
+reconst_loss *lambda:  0.00035778264282271266
+sparse_loss *lambda:  0.0
+squared_mahalanobis_distance_loss *lambda:  5.9071571740787476e-05
+
+Train Epoch: 3 [12800/50500 (25%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 3 [19200/50500 (38%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 3 [25600/50500 (51%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 3 [32000/50500 (63%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 3 [38400/50500 (76%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+
+Train Epoch: 3 [44800/50500 (89%)]	Loss: nan
+reconst_loss *lambda:  nan
+sparse_loss *lambda:  nan
+squared_mahalanobis_distance_loss *lambda:  nan
+====> Epoch: 3 Average loss: nan
+====> Epoch: 3 Average reconst_loss *lambda: nan
+====> Epoch: 3 Average mono_loss *lambda: nan
+====> Epoch: 3 Average sparse_loss *lambda: nan
+====> Epoch: 3 Average squared_mahalanobis_distance_loss *lambda: nan
+
+
+====> Average test loss: 0.048069
+====> Average test reconst_loss *lambda: 0.019665
+====> Average test mono_loss *lambda: 0.027112
+====> Average test sparse_loss *lambda: 0.000000
+====> Average test squared_mahalanobis_distance_loss *lambda: 0.001292
+mean_estimation_time:  1.0536446409190403
+
+
+os.environ['CUDA_VISIBLE_DEVICES'] = '0,1,2,3'
+
+parser = argparse.ArgumentParser(description='baseline')
+parser.add_argument('--run_name', type=str, default='train', help='run-name. This name is used for output folder.')
+parser.add_argument('--batch_size', type=int, default=64, metavar='N',  ## 32-> 4
+                    help='input batch size for training (default: 32)')
+parser.add_argument('--epochs', type=int, default=5, metavar='N', ## 10
+                    help='number of epochs to train (default: 10)')
+parser.add_argument('--no_cuda', action='store_true', default=False,
+                    help='enables CUDA training')
+parser.add_argument('--seed', type=int, default=1, metavar='S',
+                    help='random seed (default: 1)')
+
+parser.add_argument('--num_primary_color', type=int, default=7,  # 6->7
+                    help='num of layers')
+parser.add_argument('--rec_loss_lambda', type=float, default=1.0,
+                    help='reconst_loss lambda')
+parser.add_argument('--m_loss_lambda', type=float, default=1.0,   # 1.0
+                    help='m_loss_lambda')
+parser.add_argument('--sparse_loss_lambda', type=float, default=0.0, # 1.0
+                    help='sparse_loss lambda')
+parser.add_argument('--distance_loss_lambda', type=float, default=0.5, # 1.0 
+                    help='distance_loss_lambda')
+
+parser.add_argument('--save_layer_train', type=int, default=1,
+                    help='save_layer_train')
+
+
+parser.add_argument('--num_workers', type=int, default=8,
+                    help='num_workers of dataloader')
+parser.add_argument('--csv_path', type=str, default='train.csv', help='path to csv of images path') # sample / places
+parser.add_argument('--csv_path_ihc', type=str, default='train_IHC_256_2w.csv', help='path to ihc_256 dataset csv of images path')
+parser.add_argument('--csv_path_test',type=str, default='train_IHC.csv', help='path to test ihc csv of images path')
+
+parser.add_argument('--log_interval', type=int, default=100, metavar='N', ## 200-> 20 ->30 
+                    help='how many batches to wait before logging training status')
+parser.add_argument('--reconst_loss_type', type=str, default='l1', help='[mse | l1 | vgg]')
+
+args = parser.parse_args()
+args.cuda = not args.no_cuda and torch.cuda.is_available()
+
+# 出力先のフォルダーを作成
+try:
+    os.makedirs('results/%s' % args.run_name)
+except OSError:
+    pass
+
+# 打印所有数据到日志
+log = open("train_process.log", "a")
+sys.stdout = log
+
+
+torch.manual_seed(args.seed)
+cudnn.benchmark = True
+
+device = torch.device("cuda" if args.cuda else "cpu")
+
+train_dataset = MyDataset(args.csv_path, args.csv_path_ihc, args.csv_path_test ,args.num_primary_color, mode='train')
+train_loader = torch.utils.data.DataLoader(
+    train_dataset,
+    batch_size=args.batch_size,
+    shuffle=True,
+    num_workers=args.num_workers,
+    worker_init_fn=lambda x: np.random.seed(),
+    drop_last=True,
+    pin_memory=True
+    )
+
+
+val_dataset = MyDataset(args.csv_path, args.csv_path_ihc,args.csv_path_test , args.num_primary_color, mode='val')
+val_loader = torch.utils.data.DataLoader(
+    val_dataset,
+    batch_size=1,
+    shuffle=False,
+    num_workers=1,
+    )
+
+test_dataset = MyDataset(args.csv_path, args.csv_path_ihc,args.csv_path_test , args.num_primary_color, mode='test')
+test_loader = torch.utils.data.DataLoader(
+    val_dataset,
+    batch_size=1,
+    shuffle=False,
+    num_workers=1,
+    )
+
+
+mask_generator = MaskGenerator(args.num_primary_color).to(device)
+mask_generator = nn.DataParallel(mask_generator)
+mask_generator = mask_generator.cuda()
+
+residue_predictor = ResiduePredictor(args.num_primary_color).to(device)
+residue_predictor = nn.DataParallel(residue_predictor)
+residue_predictor = residue_predictor.cuda()
+
+params = list(mask_generator.parameters())
+params += list(residue_predictor.parameters())
+
+
+optimizer = optim.Adam(params, lr=1e-3, betas=(0.0, 0.99)) # 1e-3 -> 0.2
