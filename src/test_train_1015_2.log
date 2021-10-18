@@ -1,0 +1,2783 @@
+Start!
+img # 0
+estimation_time:  2.5498266220092773
+r_loss: tensor(0.0271, device='cuda:1')
+psnr: tensor(7.3716, device='cuda:1')
+ssim: tensor(0.9423, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 1
+estimation_time:  1.2754759788513184
+r_loss: tensor(0.0181, device='cuda:1')
+psnr: tensor(32.2669, device='cuda:1')
+ssim: tensor(0.9787, device='cuda:1')
+img # 2
+estimation_time:  1.2857387065887451
+r_loss: tensor(0.0194, device='cuda:1')
+psnr: tensor(32.1080, device='cuda:1')
+ssim: tensor(0.9755, device='cuda:1')
+img # 3
+estimation_time:  1.2228498458862305
+r_loss: tensor(0.0200, device='cuda:1')
+psnr: tensor(30.6926, device='cuda:1')
+ssim: tensor(0.9666, device='cuda:1')
+img # 4
+estimation_time:  1.2355670928955078
+r_loss: tensor(0.0141, device='cuda:1')
+psnr: tensor(33.8263, device='cuda:1')
+ssim: tensor(0.9795, device='cuda:1')
+img # 5
+estimation_time:  0.03096747398376465
+r_loss: tensor(0.0182, device='cuda:1')
+psnr: tensor(31.9719, device='cuda:1')
+ssim: tensor(0.9702, device='cuda:1')
+img # 6
+estimation_time:  1.3391735553741455
+r_loss: tensor(0.0132, device='cuda:1')
+psnr: tensor(35.5909, device='cuda:1')
+ssim: tensor(0.9809, device='cuda:1')
+img # 7
+estimation_time:  1.4173367023468018
+r_loss: tensor(0.0159, device='cuda:1')
+psnr: tensor(32.8780, device='cuda:1')
+ssim: tensor(0.9800, device='cuda:1')
+img # 8
+estimation_time:  1.443349838256836
+r_loss: tensor(0.0110, device='cuda:1')
+psnr: tensor(34.4806, device='cuda:1')
+ssim: tensor(0.9819, device='cuda:1')
+img # 9
+estimation_time:  1.7211706638336182
+r_loss: tensor(0.0622, device='cuda:1')
+psnr: tensor(-5.8315, device='cuda:1')
+ssim: tensor(0.8433, device='cuda:1')
+img # 10
+estimation_time:  1.4490046501159668
+r_loss: tensor(0.0266, device='cuda:1')
+psnr: tensor(26.0534, device='cuda:1')
+ssim: tensor(0.9221, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 11
+estimation_time:  1.3783488273620605
+r_loss: tensor(0.0353, device='cuda:1')
+psnr: tensor(25.2004, device='cuda:1')
+ssim: tensor(0.8115, device='cuda:1')
+img # 12
+estimation_time:  1.996807336807251
+r_loss: tensor(0.0200, device='cuda:1')
+psnr: tensor(4.6481, device='cuda:1')
+ssim: tensor(0.9729, device='cuda:1')
+img # 13
+estimation_time:  1.929368019104004
+r_loss: tensor(0.0233, device='cuda:1')
+psnr: tensor(28.7196, device='cuda:1')
+ssim: tensor(0.9758, device='cuda:1')
+img # 14
+estimation_time:  1.9453918933868408
+r_loss: tensor(0.0233, device='cuda:1')
+psnr: tensor(24.6987, device='cuda:1')
+ssim: tensor(0.9635, device='cuda:1')
+img # 15
+estimation_time:  2.0192978382110596
+r_loss: tensor(0.0278, device='cuda:1')
+psnr: tensor(27.3294, device='cuda:1')
+ssim: tensor(0.9778, device='cuda:1')
+img # 16
+estimation_time:  1.938797950744629
+r_loss: tensor(0.0266, device='cuda:1')
+psnr: tensor(20.8282, device='cuda:1')
+ssim: tensor(0.9670, device='cuda:1')
+img # 17
+estimation_time:  2.073265790939331
+r_loss: tensor(0.0173, device='cuda:1')
+psnr: tensor(20.5056, device='cuda:1')
+ssim: tensor(0.9774, device='cuda:1')
+img # 18
+estimation_time:  2.1056432723999023
+r_loss: tensor(0.0166, device='cuda:1')
+psnr: tensor(28.9076, device='cuda:1')
+ssim: tensor(0.9775, device='cuda:1')
+img # 19
+estimation_time:  1.7046093940734863
+r_loss: tensor(0.7846, device='cuda:1')
+psnr: tensor(-15.1339, device='cuda:1')
+ssim: tensor(0.0147, device='cuda:1')
+img # 20
+estimation_time:  1.7575774192810059
+r_loss: tensor(0.0275, device='cuda:1')
+psnr: tensor(26.0349, device='cuda:1')
+ssim: tensor(0.9686, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 21
+estimation_time:  1.7764432430267334
+r_loss: tensor(0.0182, device='cuda:1')
+psnr: tensor(32.0902, device='cuda:1')
+ssim: tensor(0.9718, device='cuda:1')
+img # 22
+estimation_time:  1.8249614238739014
+r_loss: tensor(0.0180, device='cuda:1')
+psnr: tensor(32.1463, device='cuda:1')
+ssim: tensor(0.9795, device='cuda:1')
+img # 23
+estimation_time:  0.04819440841674805
+r_loss: tensor(0.0132, device='cuda:1')
+psnr: tensor(34.6623, device='cuda:1')
+ssim: tensor(0.9886, device='cuda:1')
+img # 24
+estimation_time:  2.1467444896698
+r_loss: tensor(0.0339, device='cuda:1')
+psnr: tensor(26.4481, device='cuda:1')
+ssim: tensor(0.8691, device='cuda:1')
+img # 25
+estimation_time:  2.033799648284912
+r_loss: tensor(0.0166, device='cuda:1')
+psnr: tensor(32.4157, device='cuda:1')
+ssim: tensor(0.9671, device='cuda:1')
+img # 26
+estimation_time:  2.2557013034820557
+r_loss: tensor(0.0132, device='cuda:1')
+psnr: tensor(19.2790, device='cuda:1')
+ssim: tensor(0.9804, device='cuda:1')
+img # 27
+estimation_time:  2.2972328662872314
+r_loss: tensor(0.0377, device='cuda:1')
+psnr: tensor(24.9307, device='cuda:1')
+ssim: tensor(0.8882, device='cuda:1')
+img # 28
+estimation_time:  1.7606573104858398
+r_loss: tensor(0.4860, device='cuda:1')
+psnr: tensor(-21.2041, device='cuda:1')
+ssim: tensor(0.4412, device='cuda:1')
+img # 29
+estimation_time:  1.9345579147338867
+r_loss: tensor(0.0122, device='cuda:1')
+psnr: tensor(35.3159, device='cuda:1')
+ssim: tensor(0.9842, device='cuda:1')
+img # 30
+estimation_time:  0.03006720542907715
+r_loss: tensor(0.0364, device='cuda:1')
+psnr: tensor(23.7238, device='cuda:1')
+ssim: tensor(0.9124, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 31
+estimation_time:  1.9904649257659912
+r_loss: tensor(0.0477, device='cuda:1')
+psnr: tensor(23.9240, device='cuda:1')
+ssim: tensor(0.8654, device='cuda:1')
+img # 32
+estimation_time:  0.047430992126464844
+r_loss: tensor(0.0259, device='cuda:1')
+psnr: tensor(29.7327, device='cuda:1')
+ssim: tensor(0.9644, device='cuda:1')
+img # 33
+estimation_time:  1.485532283782959
+r_loss: tensor(0.0915, device='cuda:1')
+psnr: tensor(17.8676, device='cuda:1')
+ssim: tensor(0.7156, device='cuda:1')
+img # 34
+estimation_time:  0.044027090072631836
+r_loss: tensor(0.0148, device='cuda:1')
+psnr: tensor(31.6739, device='cuda:1')
+ssim: tensor(0.9771, device='cuda:1')
+img # 35
+estimation_time:  1.6323668956756592
+r_loss: tensor(0.0123, device='cuda:1')
+psnr: tensor(34.9913, device='cuda:1')
+ssim: tensor(0.9841, device='cuda:1')
+img # 36
+estimation_time:  1.5786917209625244
+r_loss: tensor(0.0300, device='cuda:1')
+psnr: tensor(27.5977, device='cuda:1')
+ssim: tensor(0.9210, device='cuda:1')
+img # 37
+estimation_time:  0.04374194145202637
+r_loss: tensor(0.0167, device='cuda:1')
+psnr: tensor(11.8241, device='cuda:1')
+ssim: tensor(0.9776, device='cuda:1')
+img # 38
+estimation_time:  1.8239083290100098
+r_loss: tensor(0.0221, device='cuda:1')
+psnr: tensor(1.4962, device='cuda:1')
+ssim: tensor(0.9547, device='cuda:1')
+img # 39
+estimation_time:  0.0517268180847168
+r_loss: tensor(0.0211, device='cuda:1')
+psnr: tensor(17.7209, device='cuda:1')
+ssim: tensor(0.9639, device='cuda:1')
+img # 40
+estimation_time:  1.9809272289276123
+r_loss: tensor(0.0414, device='cuda:1')
+psnr: tensor(24.7898, device='cuda:1')
+ssim: tensor(0.8611, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 41
+estimation_time:  0.04943108558654785
+r_loss: tensor(0.0202, device='cuda:1')
+psnr: tensor(31.3347, device='cuda:1')
+ssim: tensor(0.9677, device='cuda:1')
+img # 42
+estimation_time:  1.9953804016113281
+r_loss: tensor(0.0226, device='cuda:1')
+psnr: tensor(26.6963, device='cuda:1')
+ssim: tensor(0.9753, device='cuda:1')
+img # 43
+estimation_time:  2.0177645683288574
+r_loss: tensor(0.0182, device='cuda:1')
+psnr: tensor(31.4855, device='cuda:1')
+ssim: tensor(0.9756, device='cuda:1')
+img # 44
+estimation_time:  1.9327542781829834
+r_loss: tensor(0.0198, device='cuda:1')
+psnr: tensor(30.7050, device='cuda:1')
+ssim: tensor(0.9735, device='cuda:1')
+img # 45
+estimation_time:  2.0893664360046387
+r_loss: tensor(0.0383, device='cuda:1')
+psnr: tensor(15.8620, device='cuda:1')
+ssim: tensor(0.9581, device='cuda:1')
+img # 46
+estimation_time:  2.2328572273254395
+r_loss: tensor(0.0380, device='cuda:1')
+psnr: tensor(25.0571, device='cuda:1')
+ssim: tensor(0.8656, device='cuda:1')
+img # 47
+estimation_time:  1.744471788406372
+r_loss: tensor(0.0281, device='cuda:1')
+psnr: tensor(26.9688, device='cuda:1')
+ssim: tensor(0.9284, device='cuda:1')
+img # 48
+estimation_time:  1.9524762630462646
+r_loss: tensor(0.0135, device='cuda:1')
+psnr: tensor(33.9674, device='cuda:1')
+ssim: tensor(0.9776, device='cuda:1')
+img # 49
+estimation_time:  1.7647838592529297
+r_loss: tensor(0.0213, device='cuda:1')
+psnr: tensor(30.2139, device='cuda:1')
+ssim: tensor(0.9653, device='cuda:1')
+img # 50
+estimation_time:  1.8628623485565186
+r_loss: tensor(0.0349, device='cuda:1')
+psnr: tensor(27.5778, device='cuda:1')
+ssim: tensor(0.8967, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 51
+estimation_time:  2.0165836811065674
+r_loss: tensor(0.0234, device='cuda:1')
+psnr: tensor(29.9869, device='cuda:1')
+ssim: tensor(0.9705, device='cuda:1')
+img # 52
+estimation_time:  1.92234468460083
+r_loss: tensor(0.0197, device='cuda:1')
+psnr: tensor(31.5465, device='cuda:1')
+ssim: tensor(0.9422, device='cuda:1')
+img # 53
+estimation_time:  1.89912748336792
+r_loss: tensor(0.0189, device='cuda:1')
+psnr: tensor(31.1934, device='cuda:1')
+ssim: tensor(0.9722, device='cuda:1')
+img # 54
+estimation_time:  1.8504626750946045
+r_loss: tensor(0.0576, device='cuda:1')
+psnr: tensor(14.6197, device='cuda:1')
+ssim: tensor(0.8418, device='cuda:1')
+img # 55
+estimation_time:  2.1515848636627197
+r_loss: tensor(0.0345, device='cuda:1')
+psnr: tensor(27.3002, device='cuda:1')
+ssim: tensor(0.9549, device='cuda:1')
+img # 56
+estimation_time:  1.9658710956573486
+r_loss: tensor(0.0218, device='cuda:1')
+psnr: tensor(31.4062, device='cuda:1')
+ssim: tensor(0.9776, device='cuda:1')
+img # 57
+estimation_time:  1.877060890197754
+r_loss: tensor(0.0396, device='cuda:1')
+psnr: tensor(26.1493, device='cuda:1')
+ssim: tensor(0.9604, device='cuda:1')
+img # 58
+estimation_time:  0.03196144104003906
+r_loss: tensor(0.0208, device='cuda:1')
+psnr: tensor(31.0748, device='cuda:1')
+ssim: tensor(0.9729, device='cuda:1')
+img # 59
+estimation_time:  2.0334949493408203
+r_loss: tensor(0.0249, device='cuda:1')
+psnr: tensor(29.1393, device='cuda:1')
+ssim: tensor(0.9528, device='cuda:1')
+img # 60
+estimation_time:  0.0530092716217041
+r_loss: tensor(0.0243, device='cuda:1')
+psnr: tensor(29.7104, device='cuda:1')
+ssim: tensor(0.9688, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 61
+estimation_time:  1.9578051567077637
+r_loss: tensor(0.0265, device='cuda:1')
+psnr: tensor(28.9425, device='cuda:1')
+ssim: tensor(0.9484, device='cuda:1')
+img # 62
+estimation_time:  0.0429530143737793
+r_loss: tensor(0.0401, device='cuda:1')
+psnr: tensor(25.5469, device='cuda:1')
+ssim: tensor(0.9331, device='cuda:1')
+img # 63
+estimation_time:  0.04001975059509277
+r_loss: tensor(0.0243, device='cuda:1')
+psnr: tensor(29.9357, device='cuda:1')
+ssim: tensor(0.9818, device='cuda:1')
+img # 64
+estimation_time:  0.03506183624267578
+r_loss: tensor(0.0354, device='cuda:1')
+psnr: tensor(26.9362, device='cuda:1')
+ssim: tensor(0.9429, device='cuda:1')
+img # 65
+estimation_time:  1.8193752765655518
+r_loss: tensor(0.0153, device='cuda:1')
+psnr: tensor(33.8754, device='cuda:1')
+ssim: tensor(0.9790, device='cuda:1')
+img # 66
+estimation_time:  2.0204484462738037
+r_loss: tensor(0.0196, device='cuda:1')
+psnr: tensor(30.7898, device='cuda:1')
+ssim: tensor(0.9732, device='cuda:1')
+img # 67
+estimation_time:  1.8555054664611816
+r_loss: tensor(0.0343, device='cuda:1')
+psnr: tensor(24.3798, device='cuda:1')
+ssim: tensor(0.9384, device='cuda:1')
+img # 68
+estimation_time:  1.9146957397460938
+r_loss: tensor(0.0213, device='cuda:1')
+psnr: tensor(27.7904, device='cuda:1')
+ssim: tensor(0.9728, device='cuda:1')
+img # 69
+estimation_time:  1.6007475852966309
+r_loss: tensor(0.0246, device='cuda:1')
+psnr: tensor(30.1402, device='cuda:1')
+ssim: tensor(0.9805, device='cuda:1')
+img # 70
+estimation_time:  0.04656577110290527
+r_loss: tensor(0.0188, device='cuda:1')
+psnr: tensor(32.2677, device='cuda:1')
+ssim: tensor(0.9696, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 71
+estimation_time:  1.4815423488616943
+r_loss: tensor(0.0256, device='cuda:1')
+psnr: tensor(29.2025, device='cuda:1')
+ssim: tensor(0.9583, device='cuda:1')
+img # 72
+estimation_time:  0.04098010063171387
+r_loss: tensor(0.0260, device='cuda:1')
+psnr: tensor(29.5861, device='cuda:1')
+ssim: tensor(0.9764, device='cuda:1')
+img # 73
+estimation_time:  0.03511953353881836
+r_loss: tensor(0.0405, device='cuda:1')
+psnr: tensor(24.9201, device='cuda:1')
+ssim: tensor(0.9254, device='cuda:1')
+img # 74
+estimation_time:  0.0455937385559082
+r_loss: tensor(0.0174, device='cuda:1')
+psnr: tensor(29.2957, device='cuda:1')
+ssim: tensor(0.9801, device='cuda:1')
+img # 75
+estimation_time:  1.9969303607940674
+r_loss: tensor(0.0274, device='cuda:1')
+psnr: tensor(29.0233, device='cuda:1')
+ssim: tensor(0.9670, device='cuda:1')
+img # 76
+estimation_time:  1.9025640487670898
+r_loss: tensor(0.0263, device='cuda:1')
+psnr: tensor(28.7580, device='cuda:1')
+ssim: tensor(0.9672, device='cuda:1')
+img # 77
+estimation_time:  2.107257604598999
+r_loss: tensor(0.0259, device='cuda:1')
+psnr: tensor(29.4410, device='cuda:1')
+ssim: tensor(0.9750, device='cuda:1')
+img # 78
+estimation_time:  2.0489184856414795
+r_loss: tensor(0.0242, device='cuda:1')
+psnr: tensor(23.7305, device='cuda:1')
+ssim: tensor(0.9745, device='cuda:1')
+img # 79
+estimation_time:  1.9874398708343506
+r_loss: tensor(0.0302, device='cuda:1')
+psnr: tensor(28.4216, device='cuda:1')
+ssim: tensor(0.9506, device='cuda:1')
+img # 80
+estimation_time:  2.1214492321014404
+r_loss: tensor(0.0334, device='cuda:1')
+psnr: tensor(17.2907, device='cuda:1')
+ssim: tensor(0.9571, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 81
+estimation_time:  1.90555739402771
+r_loss: tensor(0.0182, device='cuda:1')
+psnr: tensor(26.9134, device='cuda:1')
+ssim: tensor(0.9738, device='cuda:1')
+img # 82
+estimation_time:  0.04585909843444824
+r_loss: tensor(0.0216, device='cuda:1')
+psnr: tensor(30.7393, device='cuda:1')
+ssim: tensor(0.9795, device='cuda:1')
+img # 83
+estimation_time:  0.04823589324951172
+r_loss: tensor(0.0149, device='cuda:1')
+psnr: tensor(33.7527, device='cuda:1')
+ssim: tensor(0.9693, device='cuda:1')
+img # 84
+estimation_time:  1.7770864963531494
+r_loss: tensor(0.7468, device='cuda:1')
+psnr: tensor(-12.6303, device='cuda:1')
+ssim: tensor(0.1381, device='cuda:1')
+img # 85
+estimation_time:  1.6832454204559326
+r_loss: tensor(0.0285, device='cuda:1')
+psnr: tensor(9.1858, device='cuda:1')
+ssim: tensor(0.9509, device='cuda:1')
+img # 86
+estimation_time:  1.7672178745269775
+r_loss: tensor(0.0224, device='cuda:1')
+psnr: tensor(22.0396, device='cuda:1')
+ssim: tensor(0.9512, device='cuda:1')
+img # 87
+estimation_time:  1.7400381565093994
+r_loss: tensor(0.0186, device='cuda:1')
+psnr: tensor(32.1955, device='cuda:1')
+ssim: tensor(0.9752, device='cuda:1')
+img # 88
+estimation_time:  1.7216403484344482
+r_loss: tensor(0.0225, device='cuda:1')
+psnr: tensor(28.0308, device='cuda:1')
+ssim: tensor(0.9707, device='cuda:1')
+img # 89
+estimation_time:  1.15805983543396
+r_loss: tensor(0.0122, device='cuda:1')
+psnr: tensor(35.6367, device='cuda:1')
+ssim: tensor(0.9821, device='cuda:1')
+img # 90
+estimation_time:  0.976454496383667
+r_loss: tensor(0.0192, device='cuda:1')
+psnr: tensor(32.6206, device='cuda:1')
+ssim: tensor(0.9787, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 91
+estimation_time:  0.9465517997741699
+r_loss: tensor(0.0186, device='cuda:1')
+psnr: tensor(32.7666, device='cuda:1')
+ssim: tensor(0.9822, device='cuda:1')
+img # 92
+estimation_time:  0.05380058288574219
+r_loss: tensor(0.0241, device='cuda:1')
+psnr: tensor(29.8824, device='cuda:1')
+ssim: tensor(0.9656, device='cuda:1')
+img # 93
+estimation_time:  0.8512318134307861
+r_loss: tensor(0.0250, device='cuda:1')
+psnr: tensor(29.8952, device='cuda:1')
+ssim: tensor(0.9793, device='cuda:1')
+img # 94
+estimation_time:  1.073453426361084
+r_loss: tensor(0.0221, device='cuda:1')
+psnr: tensor(30.5805, device='cuda:1')
+ssim: tensor(0.9756, device='cuda:1')
+img # 95
+estimation_time:  1.0064692497253418
+r_loss: tensor(0.0157, device='cuda:1')
+psnr: tensor(34.2579, device='cuda:1')
+ssim: tensor(0.9796, device='cuda:1')
+img # 96
+estimation_time:  0.9718482494354248
+r_loss: tensor(0.0111, device='cuda:1')
+psnr: tensor(36.3517, device='cuda:1')
+ssim: tensor(0.9860, device='cuda:1')
+img # 97
+estimation_time:  0.97613525390625
+r_loss: tensor(0.0158, device='cuda:1')
+psnr: tensor(32.6957, device='cuda:1')
+ssim: tensor(0.9786, device='cuda:1')
+img # 98
+estimation_time:  1.4625673294067383
+r_loss: tensor(0.0339, device='cuda:1')
+psnr: tensor(27.2599, device='cuda:1')
+ssim: tensor(0.9373, device='cuda:1')
+img # 99
+estimation_time:  1.4735159873962402
+r_loss: tensor(0.0143, device='cuda:1')
+psnr: tensor(35.1244, device='cuda:1')
+ssim: tensor(0.9839, device='cuda:1')
+img # 100
+estimation_time:  1.542402744293213
+r_loss: tensor(0.0107, device='cuda:1')
+psnr: tensor(37.5167, device='cuda:1')
+ssim: tensor(0.9792, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 101
+estimation_time:  1.4158384799957275
+r_loss: tensor(0.0155, device='cuda:1')
+psnr: tensor(34.1857, device='cuda:1')
+ssim: tensor(0.9804, device='cuda:1')
+img # 102
+estimation_time:  1.487682580947876
+r_loss: tensor(0.0151, device='cuda:1')
+psnr: tensor(33.8769, device='cuda:1')
+ssim: tensor(0.9761, device='cuda:1')
+img # 103
+estimation_time:  0.04982781410217285
+r_loss: tensor(0.0315, device='cuda:1')
+psnr: tensor(27.1759, device='cuda:1')
+ssim: tensor(0.9353, device='cuda:1')
+img # 104
+estimation_time:  1.619478702545166
+r_loss: tensor(0.0153, device='cuda:1')
+psnr: tensor(16.9932, device='cuda:1')
+ssim: tensor(0.9716, device='cuda:1')
+img # 105
+estimation_time:  1.612072229385376
+r_loss: tensor(0.0102, device='cuda:1')
+psnr: tensor(36.8196, device='cuda:1')
+ssim: tensor(0.9785, device='cuda:1')
+img # 106
+estimation_time:  1.547288179397583
+r_loss: tensor(0.0151, device='cuda:1')
+psnr: tensor(33.6463, device='cuda:1')
+ssim: tensor(0.9796, device='cuda:1')
+img # 107
+estimation_time:  1.310661792755127
+r_loss: tensor(0.0110, device='cuda:1')
+psnr: tensor(25.1822, device='cuda:1')
+ssim: tensor(0.9759, device='cuda:1')
+img # 108
+estimation_time:  1.5971875190734863
+r_loss: tensor(0.0150, device='cuda:1')
+psnr: tensor(33.8239, device='cuda:1')
+ssim: tensor(0.9813, device='cuda:1')
+img # 109
+estimation_time:  1.5618023872375488
+r_loss: tensor(0.0151, device='cuda:1')
+psnr: tensor(33.6972, device='cuda:1')
+ssim: tensor(0.9805, device='cuda:1')
+img # 110
+estimation_time:  0.04175257682800293
+r_loss: tensor(0.0148, device='cuda:1')
+psnr: tensor(34.0765, device='cuda:1')
+ssim: tensor(0.9720, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 111
+estimation_time:  1.5489766597747803
+r_loss: tensor(0.0143, device='cuda:1')
+psnr: tensor(27.4466, device='cuda:1')
+ssim: tensor(0.9816, device='cuda:1')
+img # 112
+estimation_time:  1.4493248462677002
+r_loss: tensor(0.0192, device='cuda:1')
+psnr: tensor(27.1925, device='cuda:1')
+ssim: tensor(0.9803, device='cuda:1')
+img # 113
+estimation_time:  1.6249046325683594
+r_loss: tensor(0.0250, device='cuda:1')
+psnr: tensor(29.2869, device='cuda:1')
+ssim: tensor(0.9663, device='cuda:1')
+img # 114
+estimation_time:  1.6235523223876953
+r_loss: tensor(0.0153, device='cuda:1')
+psnr: tensor(32.6198, device='cuda:1')
+ssim: tensor(0.9741, device='cuda:1')
+img # 115
+estimation_time:  0.04420900344848633
+r_loss: tensor(0.0222, device='cuda:1')
+psnr: tensor(30.6933, device='cuda:1')
+ssim: tensor(0.9594, device='cuda:1')
+img # 116
+estimation_time:  2.047930955886841
+r_loss: tensor(0.0397, device='cuda:1')
+psnr: tensor(21.2744, device='cuda:1')
+ssim: tensor(0.8602, device='cuda:1')
+img # 117
+estimation_time:  1.9364206790924072
+r_loss: tensor(0.0432, device='cuda:1')
+psnr: tensor(24.6051, device='cuda:1')
+ssim: tensor(0.9745, device='cuda:1')
+img # 118
+estimation_time:  2.011589527130127
+r_loss: tensor(0.0124, device='cuda:1')
+psnr: tensor(26.6021, device='cuda:1')
+ssim: tensor(0.9699, device='cuda:1')
+img # 119
+estimation_time:  1.9414308071136475
+r_loss: tensor(0.0120, device='cuda:1')
+psnr: tensor(34.1736, device='cuda:1')
+ssim: tensor(0.9767, device='cuda:1')
+img # 120
+estimation_time:  1.4668514728546143
+r_loss: tensor(0.0134, device='cuda:1')
+psnr: tensor(34.5968, device='cuda:1')
+ssim: tensor(0.9692, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 121
+estimation_time:  1.586242914199829
+r_loss: tensor(0.0103, device='cuda:1')
+psnr: tensor(24.5048, device='cuda:1')
+ssim: tensor(0.9801, device='cuda:1')
+img # 122
+estimation_time:  0.03128767013549805
+r_loss: tensor(0.0218, device='cuda:1')
+psnr: tensor(23.5918, device='cuda:1')
+ssim: tensor(0.9736, device='cuda:1')
+img # 123
+estimation_time:  1.8430984020233154
+r_loss: tensor(0.0105, device='cuda:1')
+psnr: tensor(36.8624, device='cuda:1')
+ssim: tensor(0.9849, device='cuda:1')
+img # 124
+estimation_time:  1.7751553058624268
+r_loss: tensor(0.0200, device='cuda:1')
+psnr: tensor(17.1064, device='cuda:1')
+ssim: tensor(0.8695, device='cuda:1')
+img # 125
+estimation_time:  1.6988286972045898
+r_loss: tensor(0.0153, device='cuda:1')
+psnr: tensor(25.5087, device='cuda:1')
+ssim: tensor(0.9768, device='cuda:1')
+img # 126
+estimation_time:  1.6707050800323486
+r_loss: tensor(0.0325, device='cuda:1')
+psnr: tensor(27.4859, device='cuda:1')
+ssim: tensor(0.9633, device='cuda:1')
+img # 127
+estimation_time:  1.3352396488189697
+r_loss: tensor(0.0188, device='cuda:1')
+psnr: tensor(30.6588, device='cuda:1')
+ssim: tensor(0.9770, device='cuda:1')
+img # 128
+estimation_time:  1.2682843208312988
+r_loss: tensor(0.0097, device='cuda:1')
+psnr: tensor(32.7196, device='cuda:1')
+ssim: tensor(0.9852, device='cuda:1')
+img # 129
+estimation_time:  0.05063891410827637
+r_loss: tensor(0.0160, device='cuda:1')
+psnr: tensor(31.6434, device='cuda:1')
+ssim: tensor(0.9740, device='cuda:1')
+img # 130
+estimation_time:  1.3896336555480957
+r_loss: tensor(0.0226, device='cuda:1')
+psnr: tensor(30.6840, device='cuda:1')
+ssim: tensor(0.9767, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 131
+estimation_time:  1.7610254287719727
+r_loss: tensor(0.0178, device='cuda:1')
+psnr: tensor(22.9472, device='cuda:1')
+ssim: tensor(0.9801, device='cuda:1')
+img # 132
+estimation_time:  1.57784104347229
+r_loss: tensor(0.0101, device='cuda:1')
+psnr: tensor(9.1473, device='cuda:1')
+ssim: tensor(0.9780, device='cuda:1')
+img # 133
+estimation_time:  1.6843323707580566
+r_loss: tensor(0.0174, device='cuda:1')
+psnr: tensor(33.1043, device='cuda:1')
+ssim: tensor(0.9789, device='cuda:1')
+img # 134
+estimation_time:  1.5534145832061768
+r_loss: tensor(0.0119, device='cuda:1')
+psnr: tensor(35.4928, device='cuda:1')
+ssim: tensor(0.9799, device='cuda:1')
+img # 135
+estimation_time:  2.128509998321533
+r_loss: tensor(0.4715, device='cuda:1')
+psnr: tensor(-27.3791, device='cuda:1')
+ssim: tensor(0.3407, device='cuda:1')
+img # 136
+estimation_time:  0.04476284980773926
+r_loss: tensor(0.0181, device='cuda:1')
+psnr: tensor(32.4068, device='cuda:1')
+ssim: tensor(0.9778, device='cuda:1')
+img # 137
+estimation_time:  0.04508352279663086
+r_loss: tensor(0.0198, device='cuda:1')
+psnr: tensor(27.6553, device='cuda:1')
+ssim: tensor(0.9723, device='cuda:1')
+img # 138
+estimation_time:  1.571502923965454
+r_loss: tensor(0.0126, device='cuda:1')
+psnr: tensor(32.6040, device='cuda:1')
+ssim: tensor(0.9838, device='cuda:1')
+img # 139
+estimation_time:  0.03512310981750488
+r_loss: tensor(0.0168, device='cuda:1')
+psnr: tensor(33.0667, device='cuda:1')
+ssim: tensor(0.9823, device='cuda:1')
+img # 140
+estimation_time:  1.6064269542694092
+r_loss: tensor(0.0272, device='cuda:1')
+psnr: tensor(25.9761, device='cuda:1')
+ssim: tensor(0.9547, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 141
+estimation_time:  1.5619018077850342
+r_loss: tensor(0.0114, device='cuda:1')
+psnr: tensor(35.3571, device='cuda:1')
+ssim: tensor(0.9724, device='cuda:1')
+img # 142
+estimation_time:  1.7231078147888184
+r_loss: tensor(0.0301, device='cuda:1')
+psnr: tensor(16.6630, device='cuda:1')
+ssim: tensor(0.9283, device='cuda:1')
+img # 143
+estimation_time:  1.5754680633544922
+r_loss: tensor(0.0144, device='cuda:1')
+psnr: tensor(7.5358, device='cuda:1')
+ssim: tensor(0.9818, device='cuda:1')
+img # 144
+estimation_time:  1.747410774230957
+r_loss: tensor(0.0200, device='cuda:1')
+psnr: tensor(31.9420, device='cuda:1')
+ssim: tensor(0.9675, device='cuda:1')
+img # 145
+estimation_time:  1.7865712642669678
+r_loss: tensor(0.0172, device='cuda:1')
+psnr: tensor(31.3756, device='cuda:1')
+ssim: tensor(0.9735, device='cuda:1')
+img # 146
+estimation_time:  0.04978513717651367
+r_loss: tensor(0.0167, device='cuda:1')
+psnr: tensor(32.6947, device='cuda:1')
+ssim: tensor(0.9775, device='cuda:1')
+img # 147
+estimation_time:  1.8919305801391602
+r_loss: tensor(0.0120, device='cuda:1')
+psnr: tensor(34.3947, device='cuda:1')
+ssim: tensor(0.9825, device='cuda:1')
+img # 148
+estimation_time:  0.048125505447387695
+r_loss: tensor(0.0113, device='cuda:1')
+psnr: tensor(30.2180, device='cuda:1')
+ssim: tensor(0.9728, device='cuda:1')
+img # 149
+estimation_time:  0.022573232650756836
+r_loss: tensor(0.0094, device='cuda:1')
+psnr: tensor(27.2595, device='cuda:1')
+ssim: tensor(0.9768, device='cuda:1')
+img # 150
+estimation_time:  0.042346954345703125
+r_loss: tensor(0.0228, device='cuda:1')
+psnr: tensor(30.1985, device='cuda:1')
+ssim: tensor(0.9679, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 151
+estimation_time:  1.8442533016204834
+r_loss: tensor(0.0129, device='cuda:1')
+psnr: tensor(35.7836, device='cuda:1')
+ssim: tensor(0.9827, device='cuda:1')
+img # 152
+estimation_time:  1.735112190246582
+r_loss: tensor(0.0177, device='cuda:1')
+psnr: tensor(21.7124, device='cuda:1')
+ssim: tensor(0.9732, device='cuda:1')
+img # 153
+estimation_time:  0.04828047752380371
+r_loss: tensor(0.0263, device='cuda:1')
+psnr: tensor(28.1664, device='cuda:1')
+ssim: tensor(0.9410, device='cuda:1')
+img # 154
+estimation_time:  1.8214199542999268
+r_loss: tensor(0.0174, device='cuda:1')
+psnr: tensor(28.2378, device='cuda:1')
+ssim: tensor(0.9838, device='cuda:1')
+img # 155
+estimation_time:  2.009443521499634
+r_loss: tensor(0.0321, device='cuda:1')
+psnr: tensor(-6.5263, device='cuda:1')
+ssim: tensor(0.9158, device='cuda:1')
+img # 156
+estimation_time:  1.782846450805664
+r_loss: tensor(0.0128, device='cuda:1')
+psnr: tensor(35.6610, device='cuda:1')
+ssim: tensor(0.9886, device='cuda:1')
+img # 157
+estimation_time:  0.04903006553649902
+r_loss: tensor(0.0136, device='cuda:1')
+psnr: tensor(17.5842, device='cuda:1')
+ssim: tensor(0.9744, device='cuda:1')
+img # 158
+estimation_time:  1.8900127410888672
+r_loss: tensor(0.0201, device='cuda:1')
+psnr: tensor(22.0415, device='cuda:1')
+ssim: tensor(0.9616, device='cuda:1')
+img # 159
+estimation_time:  1.7684590816497803
+r_loss: tensor(0.0216, device='cuda:1')
+psnr: tensor(30.2024, device='cuda:1')
+ssim: tensor(0.9092, device='cuda:1')
+img # 160
+estimation_time:  0.05983781814575195
+r_loss: tensor(0.0208, device='cuda:1')
+psnr: tensor(30.1600, device='cuda:1')
+ssim: tensor(0.9727, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 161
+estimation_time:  0.029910564422607422
+r_loss: tensor(0.0167, device='cuda:1')
+psnr: tensor(33.4413, device='cuda:1')
+ssim: tensor(0.9804, device='cuda:1')
+img # 162
+estimation_time:  1.6926987171173096
+r_loss: tensor(0.0149, device='cuda:1')
+psnr: tensor(14.1913, device='cuda:1')
+ssim: tensor(0.9767, device='cuda:1')
+img # 163
+estimation_time:  1.7084732055664062
+r_loss: tensor(0.0104, device='cuda:1')
+psnr: tensor(31.7549, device='cuda:1')
+ssim: tensor(0.9790, device='cuda:1')
+img # 164
+estimation_time:  0.048262596130371094
+r_loss: tensor(0.0146, device='cuda:1')
+psnr: tensor(26.8231, device='cuda:1')
+ssim: tensor(0.9686, device='cuda:1')
+img # 165
+estimation_time:  1.8582677841186523
+r_loss: tensor(0.0213, device='cuda:1')
+psnr: tensor(28.1040, device='cuda:1')
+ssim: tensor(0.9765, device='cuda:1')
+img # 166
+estimation_time:  0.043402910232543945
+r_loss: tensor(0.0223, device='cuda:1')
+psnr: tensor(24.3927, device='cuda:1')
+ssim: tensor(0.9379, device='cuda:1')
+img # 167
+estimation_time:  1.8420381546020508
+r_loss: tensor(0.0155, device='cuda:1')
+psnr: tensor(33.8021, device='cuda:1')
+ssim: tensor(0.9741, device='cuda:1')
+img # 168
+estimation_time:  0.055678606033325195
+r_loss: tensor(0.0284, device='cuda:1')
+psnr: tensor(28.7035, device='cuda:1')
+ssim: tensor(0.9351, device='cuda:1')
+img # 169
+estimation_time:  1.916625738143921
+r_loss: tensor(0.0121, device='cuda:1')
+psnr: tensor(33.1369, device='cuda:1')
+ssim: tensor(0.9773, device='cuda:1')
+img # 170
+estimation_time:  0.050171613693237305
+r_loss: tensor(0.0165, device='cuda:1')
+psnr: tensor(33.0837, device='cuda:1')
+ssim: tensor(0.9799, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 171
+estimation_time:  0.05214405059814453
+r_loss: tensor(0.0171, device='cuda:1')
+psnr: tensor(27.7010, device='cuda:1')
+ssim: tensor(0.9670, device='cuda:1')
+img # 172
+estimation_time:  1.8387625217437744
+r_loss: tensor(0.0147, device='cuda:1')
+psnr: tensor(34.8618, device='cuda:1')
+ssim: tensor(0.9892, device='cuda:1')
+img # 173
+estimation_time:  0.046599388122558594
+r_loss: tensor(0.0111, device='cuda:1')
+psnr: tensor(21.7129, device='cuda:1')
+ssim: tensor(0.9718, device='cuda:1')
+img # 174
+estimation_time:  1.6807622909545898
+r_loss: tensor(0.0248, device='cuda:1')
+psnr: tensor(29.7382, device='cuda:1')
+ssim: tensor(0.9627, device='cuda:1')
+img # 175
+estimation_time:  0.048583269119262695
+r_loss: tensor(0.0222, device='cuda:1')
+psnr: tensor(26.7229, device='cuda:1')
+ssim: tensor(0.9787, device='cuda:1')
+img # 176
+estimation_time:  0.044240474700927734
+r_loss: tensor(0.0195, device='cuda:1')
+psnr: tensor(19.8899, device='cuda:1')
+ssim: tensor(0.9761, device='cuda:1')
+img # 177
+estimation_time:  0.03581857681274414
+r_loss: tensor(0.0227, device='cuda:1')
+psnr: tensor(20.0244, device='cuda:1')
+ssim: tensor(0.9696, device='cuda:1')
+img # 178
+estimation_time:  2.0489377975463867
+r_loss: tensor(0.0149, device='cuda:1')
+psnr: tensor(30.4685, device='cuda:1')
+ssim: tensor(0.9836, device='cuda:1')
+img # 179
+estimation_time:  1.9896867275238037
+r_loss: tensor(0.0291, device='cuda:1')
+psnr: tensor(22.5622, device='cuda:1')
+ssim: tensor(0.9542, device='cuda:1')
+img # 180
+estimation_time:  0.05563712120056152
+r_loss: tensor(0.0357, device='cuda:1')
+psnr: tensor(24.8847, device='cuda:1')
+ssim: tensor(0.9249, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 181
+estimation_time:  1.903590202331543
+r_loss: tensor(0.0125, device='cuda:1')
+psnr: tensor(31.9432, device='cuda:1')
+ssim: tensor(0.9795, device='cuda:1')
+img # 182
+estimation_time:  0.05676531791687012
+r_loss: tensor(0.0123, device='cuda:1')
+psnr: tensor(30.8740, device='cuda:1')
+ssim: tensor(0.9783, device='cuda:1')
+img # 183
+estimation_time:  2.1427152156829834
+r_loss: tensor(0.0235, device='cuda:1')
+psnr: tensor(30.2018, device='cuda:1')
+ssim: tensor(0.9199, device='cuda:1')
+img # 184
+estimation_time:  0.03841567039489746
+r_loss: tensor(0.0148, device='cuda:1')
+psnr: tensor(12.4519, device='cuda:1')
+ssim: tensor(0.9692, device='cuda:1')
+img # 185
+estimation_time:  2.1279356479644775
+r_loss: tensor(0.0233, device='cuda:1')
+psnr: tensor(30.1633, device='cuda:1')
+ssim: tensor(0.9798, device='cuda:1')
+img # 186
+estimation_time:  1.9223275184631348
+r_loss: tensor(0.0144, device='cuda:1')
+psnr: tensor(23.2172, device='cuda:1')
+ssim: tensor(0.9657, device='cuda:1')
+img # 187
+estimation_time:  0.053169965744018555
+r_loss: tensor(0.0145, device='cuda:1')
+psnr: tensor(35.0916, device='cuda:1')
+ssim: tensor(0.9807, device='cuda:1')
+img # 188
+estimation_time:  2.056114912033081
+r_loss: tensor(0.0157, device='cuda:1')
+psnr: tensor(16.6890, device='cuda:1')
+ssim: tensor(0.9459, device='cuda:1')
+img # 189
+estimation_time:  0.04486489295959473
+r_loss: tensor(0.0344, device='cuda:1')
+psnr: tensor(26.8103, device='cuda:1')
+ssim: tensor(0.8902, device='cuda:1')
+img # 190
+estimation_time:  1.4049501419067383
+r_loss: tensor(0.0553, device='cuda:1')
+psnr: tensor(22.1646, device='cuda:1')
+ssim: tensor(0.7803, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 191
+estimation_time:  1.4480938911437988
+r_loss: tensor(0.2073, device='cuda:1')
+psnr: tensor(9.6621, device='cuda:1')
+ssim: tensor(0.0724, device='cuda:1')
+img # 192
+estimation_time:  0.0317227840423584
+r_loss: tensor(0.0146, device='cuda:1')
+psnr: tensor(33.6963, device='cuda:1')
+ssim: tensor(0.9663, device='cuda:1')
+img # 193
+estimation_time:  1.188478946685791
+r_loss: tensor(0.0411, device='cuda:1')
+psnr: tensor(20.6268, device='cuda:1')
+ssim: tensor(0.8135, device='cuda:1')
+img # 194
+estimation_time:  1.064755916595459
+r_loss: tensor(0.0159, device='cuda:1')
+psnr: tensor(33.5049, device='cuda:1')
+ssim: tensor(0.9805, device='cuda:1')
+img # 195
+estimation_time:  1.031304121017456
+r_loss: tensor(0.0109, device='cuda:1')
+psnr: tensor(36.6776, device='cuda:1')
+ssim: tensor(0.9877, device='cuda:1')
+img # 196
+estimation_time:  1.1878931522369385
+r_loss: tensor(0.0151, device='cuda:1')
+psnr: tensor(33.5054, device='cuda:1')
+ssim: tensor(0.9870, device='cuda:1')
+img # 197
+estimation_time:  1.032135248184204
+r_loss: tensor(0.4099, device='cuda:1')
+psnr: tensor(-17.7527, device='cuda:1')
+ssim: tensor(0.4961, device='cuda:1')
+img # 198
+estimation_time:  0.9727120399475098
+r_loss: tensor(0.0154, device='cuda:1')
+psnr: tensor(34.0211, device='cuda:1')
+ssim: tensor(0.9807, device='cuda:1')
+img # 199
+estimation_time:  1.0532753467559814
+r_loss: tensor(0.0149, device='cuda:1')
+psnr: tensor(34.0992, device='cuda:1')
+ssim: tensor(0.9793, device='cuda:1')
+img # 200
+estimation_time:  0.04119992256164551
+r_loss: tensor(0.0101, device='cuda:1')
+psnr: tensor(37.6694, device='cuda:1')
+ssim: tensor(0.9861, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 201
+estimation_time:  1.0877501964569092
+r_loss: tensor(0.0222, device='cuda:1')
+psnr: tensor(31.1962, device='cuda:1')
+ssim: tensor(0.9785, device='cuda:1')
+img # 202
+estimation_time:  1.169752836227417
+r_loss: tensor(0.0279, device='cuda:1')
+psnr: tensor(26.9133, device='cuda:1')
+ssim: tensor(0.9605, device='cuda:1')
+img # 203
+estimation_time:  1.206892728805542
+r_loss: tensor(0.0086, device='cuda:1')
+psnr: tensor(37.3331, device='cuda:1')
+ssim: tensor(0.9811, device='cuda:1')
+img # 204
+estimation_time:  1.2511942386627197
+r_loss: tensor(0.0142, device='cuda:1')
+psnr: tensor(34.3555, device='cuda:1')
+ssim: tensor(0.9748, device='cuda:1')
+img # 205
+estimation_time:  1.3425328731536865
+r_loss: tensor(0.0125, device='cuda:1')
+psnr: tensor(36.0817, device='cuda:1')
+ssim: tensor(0.9857, device='cuda:1')
+img # 206
+estimation_time:  0.04552817344665527
+r_loss: tensor(0.0143, device='cuda:1')
+psnr: tensor(33.6526, device='cuda:1')
+ssim: tensor(0.9853, device='cuda:1')
+img # 207
+estimation_time:  0.04572129249572754
+r_loss: tensor(0.0439, device='cuda:1')
+psnr: tensor(24.8073, device='cuda:1')
+ssim: tensor(0.9773, device='cuda:1')
+img # 208
+estimation_time:  1.7921826839447021
+r_loss: tensor(0.0223, device='cuda:1')
+psnr: tensor(30.3315, device='cuda:1')
+ssim: tensor(0.9479, device='cuda:1')
+img # 209
+estimation_time:  1.883943796157837
+r_loss: tensor(0.0187, device='cuda:1')
+psnr: tensor(31.6811, device='cuda:1')
+ssim: tensor(0.9552, device='cuda:1')
+img # 210
+estimation_time:  0.046265363693237305
+r_loss: tensor(0.0247, device='cuda:1')
+psnr: tensor(16.9535, device='cuda:1')
+ssim: tensor(0.9416, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 211
+estimation_time:  0.040779829025268555
+r_loss: tensor(0.0150, device='cuda:1')
+psnr: tensor(0.6367, device='cuda:1')
+ssim: tensor(0.9643, device='cuda:1')
+img # 212
+estimation_time:  0.03474783897399902
+r_loss: tensor(0.0218, device='cuda:1')
+psnr: tensor(15.8368, device='cuda:1')
+ssim: tensor(0.9453, device='cuda:1')
+img # 213
+estimation_time:  0.03497815132141113
+r_loss: tensor(0.0191, device='cuda:1')
+psnr: tensor(20.2256, device='cuda:1')
+ssim: tensor(0.9397, device='cuda:1')
+img # 214
+estimation_time:  0.03529834747314453
+r_loss: tensor(0.0141, device='cuda:1')
+psnr: tensor(31.4483, device='cuda:1')
+ssim: tensor(0.9786, device='cuda:1')
+img # 215
+estimation_time:  0.03530716896057129
+r_loss: tensor(0.0107, device='cuda:1')
+psnr: tensor(24.3858, device='cuda:1')
+ssim: tensor(0.9820, device='cuda:1')
+img # 216
+estimation_time:  0.03517508506774902
+r_loss: tensor(0.0119, device='cuda:1')
+psnr: tensor(13.5416, device='cuda:1')
+ssim: tensor(0.9787, device='cuda:1')
+img # 217
+estimation_time:  0.035310983657836914
+r_loss: tensor(0.0268, device='cuda:1')
+psnr: tensor(27.9409, device='cuda:1')
+ssim: tensor(0.9384, device='cuda:1')
+img # 218
+estimation_time:  1.0067718029022217
+r_loss: tensor(0.0131, device='cuda:1')
+psnr: tensor(35.6352, device='cuda:1')
+ssim: tensor(0.9879, device='cuda:1')
+img # 219
+estimation_time:  1.2649965286254883
+r_loss: tensor(0.0296, device='cuda:1')
+psnr: tensor(8.7785, device='cuda:1')
+ssim: tensor(0.9502, device='cuda:1')
+img # 220
+estimation_time:  0.0415036678314209
+r_loss: tensor(0.0116, device='cuda:1')
+psnr: tensor(34.0507, device='cuda:1')
+ssim: tensor(0.9839, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 221
+estimation_time:  0.04785728454589844
+r_loss: tensor(0.0128, device='cuda:1')
+psnr: tensor(14.1401, device='cuda:1')
+ssim: tensor(0.9699, device='cuda:1')
+img # 222
+estimation_time:  0.04867982864379883
+r_loss: tensor(0.0223, device='cuda:1')
+psnr: tensor(30.0408, device='cuda:1')
+ssim: tensor(0.9723, device='cuda:1')
+img # 223
+estimation_time:  0.04666399955749512
+r_loss: tensor(0.0157, device='cuda:1')
+psnr: tensor(33.4852, device='cuda:1')
+ssim: tensor(0.9766, device='cuda:1')
+img # 224
+estimation_time:  1.665942668914795
+r_loss: tensor(0.0161, device='cuda:1')
+psnr: tensor(34.2281, device='cuda:1')
+ssim: tensor(0.9858, device='cuda:1')
+img # 225
+estimation_time:  0.033002376556396484
+r_loss: tensor(0.0398, device='cuda:1')
+psnr: tensor(26.1814, device='cuda:1')
+ssim: tensor(0.9536, device='cuda:1')
+img # 226
+estimation_time:  1.6606273651123047
+r_loss: tensor(0.0245, device='cuda:1')
+psnr: tensor(29.2749, device='cuda:1')
+ssim: tensor(0.9873, device='cuda:1')
+img # 227
+estimation_time:  1.5820589065551758
+r_loss: tensor(0.0098, device='cuda:1')
+psnr: tensor(37.0352, device='cuda:1')
+ssim: tensor(0.9836, device='cuda:1')
+img # 228
+estimation_time:  0.04975104331970215
+r_loss: tensor(0.0138, device='cuda:1')
+psnr: tensor(24.1142, device='cuda:1')
+ssim: tensor(0.9627, device='cuda:1')
+img # 229
+estimation_time:  0.0333101749420166
+r_loss: tensor(0.0188, device='cuda:1')
+psnr: tensor(24.7951, device='cuda:1')
+ssim: tensor(0.9701, device='cuda:1')
+img # 230
+estimation_time:  0.029007673263549805
+r_loss: tensor(0.0203, device='cuda:1')
+psnr: tensor(18.6367, device='cuda:1')
+ssim: tensor(0.9530, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 231
+estimation_time:  2.1109681129455566
+r_loss: tensor(0.0221, device='cuda:1')
+psnr: tensor(30.5121, device='cuda:1')
+ssim: tensor(0.9629, device='cuda:1')
+img # 232
+estimation_time:  0.03435349464416504
+r_loss: tensor(0.0147, device='cuda:1')
+psnr: tensor(16.5977, device='cuda:1')
+ssim: tensor(0.9745, device='cuda:1')
+img # 233
+estimation_time:  1.9386537075042725
+r_loss: tensor(0.0198, device='cuda:1')
+psnr: tensor(30.6944, device='cuda:1')
+ssim: tensor(0.9595, device='cuda:1')
+img # 234
+estimation_time:  0.03524136543273926
+r_loss: tensor(0.0165, device='cuda:1')
+psnr: tensor(17.9411, device='cuda:1')
+ssim: tensor(0.9717, device='cuda:1')
+img # 235
+estimation_time:  0.023799657821655273
+r_loss: tensor(0.0192, device='cuda:1')
+psnr: tensor(31.5791, device='cuda:1')
+ssim: tensor(0.9362, device='cuda:1')
+img # 236
+estimation_time:  0.023967742919921875
+r_loss: tensor(0.0189, device='cuda:1')
+psnr: tensor(25.3444, device='cuda:1')
+ssim: tensor(0.9676, device='cuda:1')
+img # 237
+estimation_time:  1.8270890712738037
+r_loss: tensor(0.0205, device='cuda:1')
+psnr: tensor(30.2840, device='cuda:1')
+ssim: tensor(0.9633, device='cuda:1')
+img # 238
+estimation_time:  0.0522153377532959
+r_loss: tensor(0.1960, device='cuda:1')
+psnr: tensor(10.4188, device='cuda:1')
+ssim: tensor(0.2274, device='cuda:1')
+img # 239
+estimation_time:  1.7712299823760986
+r_loss: tensor(0.0490, device='cuda:1')
+psnr: tensor(20.6417, device='cuda:1')
+ssim: tensor(0.8296, device='cuda:1')
+img # 240
+estimation_time:  0.04918670654296875
+r_loss: tensor(0.0234, device='cuda:1')
+psnr: tensor(29.4866, device='cuda:1')
+ssim: tensor(0.9018, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 241
+estimation_time:  0.029174327850341797
+r_loss: tensor(0.0457, device='cuda:1')
+psnr: tensor(19.9611, device='cuda:1')
+ssim: tensor(0.7292, device='cuda:1')
+img # 242
+estimation_time:  0.028839588165283203
+r_loss: tensor(0.0305, device='cuda:1')
+psnr: tensor(20.9576, device='cuda:1')
+ssim: tensor(0.9331, device='cuda:1')
+img # 243
+estimation_time:  0.029166698455810547
+r_loss: tensor(0.0331, device='cuda:1')
+psnr: tensor(10.8592, device='cuda:1')
+ssim: tensor(0.8935, device='cuda:1')
+img # 244
+estimation_time:  1.8865582942962646
+r_loss: tensor(0.0094, device='cuda:1')
+psnr: tensor(35.5470, device='cuda:1')
+ssim: tensor(0.9850, device='cuda:1')
+img # 245
+estimation_time:  0.04683995246887207
+r_loss: tensor(0.0149, device='cuda:1')
+psnr: tensor(29.5945, device='cuda:1')
+ssim: tensor(0.9828, device='cuda:1')
+img # 246
+estimation_time:  1.811021327972412
+r_loss: tensor(0.0147, device='cuda:1')
+psnr: tensor(29.4606, device='cuda:1')
+ssim: tensor(0.9750, device='cuda:1')
+img # 247
+estimation_time:  1.6100642681121826
+r_loss: tensor(0.0110, device='cuda:1')
+psnr: tensor(10.0312, device='cuda:1')
+ssim: tensor(0.9781, device='cuda:1')
+img # 248
+estimation_time:  1.4458568096160889
+r_loss: tensor(0.0913, device='cuda:1')
+psnr: tensor(18.1674, device='cuda:1')
+ssim: tensor(0.6577, device='cuda:1')
+img # 249
+estimation_time:  0.04741930961608887
+r_loss: tensor(0.6472, device='cuda:1')
+psnr: tensor(-9.1548, device='cuda:1')
+ssim: tensor(0.1562, device='cuda:1')
+img # 250
+estimation_time:  1.3647122383117676
+r_loss: tensor(0.0145, device='cuda:1')
+psnr: tensor(33.8619, device='cuda:1')
+ssim: tensor(0.9853, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 251
+estimation_time:  1.5712332725524902
+r_loss: tensor(0.0138, device='cuda:1')
+psnr: tensor(34.8199, device='cuda:1')
+ssim: tensor(0.9800, device='cuda:1')
+img # 252
+estimation_time:  1.5124421119689941
+r_loss: tensor(0.0170, device='cuda:1')
+psnr: tensor(32.2245, device='cuda:1')
+ssim: tensor(0.9819, device='cuda:1')
+img # 253
+estimation_time:  0.03211092948913574
+r_loss: tensor(0.0259, device='cuda:1')
+psnr: tensor(24.3235, device='cuda:1')
+ssim: tensor(0.9629, device='cuda:1')
+img # 254
+estimation_time:  0.02362060546875
+r_loss: tensor(0.0133, device='cuda:1')
+psnr: tensor(29.2611, device='cuda:1')
+ssim: tensor(0.9740, device='cuda:1')
+img # 255
+estimation_time:  1.3064990043640137
+r_loss: tensor(0.0102, device='cuda:1')
+psnr: tensor(37.8242, device='cuda:1')
+ssim: tensor(0.9876, device='cuda:1')
+img # 256
+estimation_time:  1.1722567081451416
+r_loss: tensor(0.0153, device='cuda:1')
+psnr: tensor(33.7806, device='cuda:1')
+ssim: tensor(0.9772, device='cuda:1')
+img # 257
+estimation_time:  1.2296302318572998
+r_loss: tensor(0.0284, device='cuda:1')
+psnr: tensor(22.4130, device='cuda:1')
+ssim: tensor(0.9521, device='cuda:1')
+img # 258
+estimation_time:  1.780151605606079
+r_loss: tensor(0.0193, device='cuda:1')
+psnr: tensor(29.6375, device='cuda:1')
+ssim: tensor(0.9652, device='cuda:1')
+img # 259
+estimation_time:  1.7420322895050049
+r_loss: tensor(0.0134, device='cuda:1')
+psnr: tensor(30.9769, device='cuda:1')
+ssim: tensor(0.9732, device='cuda:1')
+img # 260
+estimation_time:  1.6807270050048828
+r_loss: tensor(0.0302, device='cuda:1')
+psnr: tensor(27.3355, device='cuda:1')
+ssim: tensor(0.7817, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 261
+estimation_time:  1.6902751922607422
+r_loss: tensor(0.0167, device='cuda:1')
+psnr: tensor(27.7982, device='cuda:1')
+ssim: tensor(0.9723, device='cuda:1')
+img # 262
+estimation_time:  1.7335951328277588
+r_loss: tensor(0.0172, device='cuda:1')
+psnr: tensor(33.0442, device='cuda:1')
+ssim: tensor(0.9741, device='cuda:1')
+img # 263
+estimation_time:  1.7854399681091309
+r_loss: tensor(0.0104, device='cuda:1')
+psnr: tensor(33.5852, device='cuda:1')
+ssim: tensor(0.9779, device='cuda:1')
+img # 264
+estimation_time:  1.9378745555877686
+r_loss: tensor(0.0216, device='cuda:1')
+psnr: tensor(30.0624, device='cuda:1')
+ssim: tensor(0.9210, device='cuda:1')
+img # 265
+estimation_time:  1.8005611896514893
+r_loss: tensor(0.0290, device='cuda:1')
+psnr: tensor(18.3367, device='cuda:1')
+ssim: tensor(0.8906, device='cuda:1')
+img # 266
+estimation_time:  2.0158743858337402
+r_loss: tensor(0.0354, device='cuda:1')
+psnr: tensor(27.3635, device='cuda:1')
+ssim: tensor(0.9339, device='cuda:1')
+img # 267
+estimation_time:  1.8831801414489746
+r_loss: tensor(0.0193, device='cuda:1')
+psnr: tensor(30.7130, device='cuda:1')
+ssim: tensor(0.9251, device='cuda:1')
+img # 268
+estimation_time:  0.04616737365722656
+r_loss: tensor(0.0181, device='cuda:1')
+psnr: tensor(30.4610, device='cuda:1')
+ssim: tensor(0.9631, device='cuda:1')
+img # 269
+estimation_time:  0.04106283187866211
+r_loss: tensor(0.0185, device='cuda:1')
+psnr: tensor(20.8995, device='cuda:1')
+ssim: tensor(0.9627, device='cuda:1')
+img # 270
+estimation_time:  1.910015344619751
+r_loss: tensor(0.0217, device='cuda:1')
+psnr: tensor(30.6630, device='cuda:1')
+ssim: tensor(0.9709, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 271
+estimation_time:  2.023002862930298
+r_loss: tensor(0.0217, device='cuda:1')
+psnr: tensor(29.5606, device='cuda:1')
+ssim: tensor(0.9306, device='cuda:1')
+img # 272
+estimation_time:  0.041930437088012695
+r_loss: tensor(0.0189, device='cuda:1')
+psnr: tensor(21.6979, device='cuda:1')
+ssim: tensor(0.9726, device='cuda:1')
+img # 273
+estimation_time:  1.3906407356262207
+r_loss: tensor(0.0188, device='cuda:1')
+psnr: tensor(32.2710, device='cuda:1')
+ssim: tensor(0.9750, device='cuda:1')
+img # 274
+estimation_time:  0.04146766662597656
+r_loss: tensor(0.0181, device='cuda:1')
+psnr: tensor(29.1654, device='cuda:1')
+ssim: tensor(0.9728, device='cuda:1')
+img # 275
+estimation_time:  1.4134495258331299
+r_loss: tensor(0.0128, device='cuda:1')
+psnr: tensor(35.8036, device='cuda:1')
+ssim: tensor(0.9847, device='cuda:1')
+img # 276
+estimation_time:  1.7995805740356445
+r_loss: tensor(0.0465, device='cuda:1')
+psnr: tensor(24.0003, device='cuda:1')
+ssim: tensor(0.7498, device='cuda:1')
+img # 277
+estimation_time:  2.070072650909424
+r_loss: tensor(0.0233, device='cuda:1')
+psnr: tensor(28.2772, device='cuda:1')
+ssim: tensor(0.9610, device='cuda:1')
+img # 278
+estimation_time:  2.0753276348114014
+r_loss: tensor(0.0265, device='cuda:1')
+psnr: tensor(3.7023, device='cuda:1')
+ssim: tensor(0.9484, device='cuda:1')
+img # 279
+estimation_time:  2.2220635414123535
+r_loss: tensor(0.0096, device='cuda:1')
+psnr: tensor(16.5231, device='cuda:1')
+ssim: tensor(0.9737, device='cuda:1')
+img # 280
+estimation_time:  2.3907217979431152
+r_loss: tensor(0.0212, device='cuda:1')
+psnr: tensor(29.5228, device='cuda:1')
+ssim: tensor(0.9788, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 281
+estimation_time:  2.5939273834228516
+r_loss: tensor(0.0360, device='cuda:1')
+psnr: tensor(26.0825, device='cuda:1')
+ssim: tensor(0.9648, device='cuda:1')
+img # 282
+estimation_time:  0.02953338623046875
+r_loss: tensor(0.0132, device='cuda:1')
+psnr: tensor(27.2263, device='cuda:1')
+ssim: tensor(0.9752, device='cuda:1')
+img # 283
+estimation_time:  2.3152222633361816
+r_loss: tensor(0.0160, device='cuda:1')
+psnr: tensor(-3.1228, device='cuda:1')
+ssim: tensor(0.9694, device='cuda:1')
+img # 284
+estimation_time:  0.05934882164001465
+r_loss: tensor(0.0228, device='cuda:1')
+psnr: tensor(-4.6424, device='cuda:1')
+ssim: tensor(0.9266, device='cuda:1')
+img # 285
+estimation_time:  0.03449583053588867
+r_loss: tensor(0.0310, device='cuda:1')
+psnr: tensor(24.6138, device='cuda:1')
+ssim: tensor(0.7687, device='cuda:1')
+img # 286
+estimation_time:  0.03520369529724121
+r_loss: tensor(0.0219, device='cuda:1')
+psnr: tensor(30.6922, device='cuda:1')
+ssim: tensor(0.9711, device='cuda:1')
+img # 287
+estimation_time:  1.9018805027008057
+r_loss: tensor(0.0173, device='cuda:1')
+psnr: tensor(33.0719, device='cuda:1')
+ssim: tensor(0.9689, device='cuda:1')
+img # 288
+estimation_time:  0.04821515083312988
+r_loss: tensor(0.0186, device='cuda:1')
+psnr: tensor(23.3158, device='cuda:1')
+ssim: tensor(0.9411, device='cuda:1')
+img # 289
+estimation_time:  1.9491610527038574
+r_loss: tensor(0.0167, device='cuda:1')
+psnr: tensor(31.3741, device='cuda:1')
+ssim: tensor(0.9770, device='cuda:1')
+img # 290
+estimation_time:  0.043778419494628906
+r_loss: tensor(0.0316, device='cuda:1')
+psnr: tensor(25.6212, device='cuda:1')
+ssim: tensor(0.8740, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 291
+estimation_time:  1.9988930225372314
+r_loss: tensor(0.0183, device='cuda:1')
+psnr: tensor(15.5627, device='cuda:1')
+ssim: tensor(0.9673, device='cuda:1')
+img # 292
+estimation_time:  1.6714808940887451
+r_loss: tensor(0.0199, device='cuda:1')
+psnr: tensor(20.1394, device='cuda:1')
+ssim: tensor(0.9672, device='cuda:1')
+img # 293
+estimation_time:  1.603635549545288
+r_loss: tensor(0.0117, device='cuda:1')
+psnr: tensor(31.6470, device='cuda:1')
+ssim: tensor(0.9735, device='cuda:1')
+img # 294
+estimation_time:  1.8646628856658936
+r_loss: tensor(0.0098, device='cuda:1')
+psnr: tensor(27.1752, device='cuda:1')
+ssim: tensor(0.9855, device='cuda:1')
+img # 295
+estimation_time:  1.7849042415618896
+r_loss: tensor(0.0221, device='cuda:1')
+psnr: tensor(27.2430, device='cuda:1')
+ssim: tensor(0.9671, device='cuda:1')
+img # 296
+estimation_time:  0.04688143730163574
+r_loss: tensor(0.0264, device='cuda:1')
+psnr: tensor(29.5977, device='cuda:1')
+ssim: tensor(0.9653, device='cuda:1')
+img # 297
+estimation_time:  0.036396026611328125
+r_loss: tensor(0.0240, device='cuda:1')
+psnr: tensor(29.0792, device='cuda:1')
+ssim: tensor(0.9605, device='cuda:1')
+img # 298
+estimation_time:  1.7081024646759033
+r_loss: tensor(0.0289, device='cuda:1')
+psnr: tensor(26.5976, device='cuda:1')
+ssim: tensor(0.9430, device='cuda:1')
+img # 299
+estimation_time:  0.04341483116149902
+r_loss: tensor(0.0165, device='cuda:1')
+psnr: tensor(31.7028, device='cuda:1')
+ssim: tensor(0.9813, device='cuda:1')
+img # 300
+estimation_time:  0.04046821594238281
+r_loss: tensor(0.0235, device='cuda:1')
+psnr: tensor(29.8943, device='cuda:1')
+ssim: tensor(0.9744, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 301
+estimation_time:  2.1237850189208984
+r_loss: tensor(0.0207, device='cuda:1')
+psnr: tensor(19.9180, device='cuda:1')
+ssim: tensor(0.9667, device='cuda:1')
+img # 302
+estimation_time:  2.1629409790039062
+r_loss: tensor(0.0168, device='cuda:1')
+psnr: tensor(24.5578, device='cuda:1')
+ssim: tensor(0.9739, device='cuda:1')
+img # 303
+estimation_time:  0.054520606994628906
+r_loss: tensor(0.0113, device='cuda:1')
+psnr: tensor(24.7990, device='cuda:1')
+ssim: tensor(0.9742, device='cuda:1')
+img # 304
+estimation_time:  0.03514218330383301
+r_loss: tensor(0.0211, device='cuda:1')
+psnr: tensor(30.1574, device='cuda:1')
+ssim: tensor(0.9677, device='cuda:1')
+img # 305
+estimation_time:  2.1459100246429443
+r_loss: tensor(0.0347, device='cuda:1')
+psnr: tensor(23.9425, device='cuda:1')
+ssim: tensor(0.9375, device='cuda:1')
+img # 306
+estimation_time:  2.0875182151794434
+r_loss: tensor(0.0266, device='cuda:1')
+psnr: tensor(22.4448, device='cuda:1')
+ssim: tensor(0.9712, device='cuda:1')
+img # 307
+estimation_time:  2.132570266723633
+r_loss: tensor(0.0170, device='cuda:1')
+psnr: tensor(17.9231, device='cuda:1')
+ssim: tensor(0.9782, device='cuda:1')
+img # 308
+estimation_time:  2.181957960128784
+r_loss: tensor(0.0241, device='cuda:1')
+psnr: tensor(22.0209, device='cuda:1')
+ssim: tensor(0.9045, device='cuda:1')
+img # 309
+estimation_time:  0.03161978721618652
+r_loss: tensor(0.0159, device='cuda:1')
+psnr: tensor(19.2784, device='cuda:1')
+ssim: tensor(0.9689, device='cuda:1')
+img # 310
+estimation_time:  0.024260759353637695
+r_loss: tensor(0.0278, device='cuda:1')
+psnr: tensor(28.7020, device='cuda:1')
+ssim: tensor(0.9659, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 311
+estimation_time:  1.905592679977417
+r_loss: tensor(0.0435, device='cuda:1')
+psnr: tensor(25.4876, device='cuda:1')
+ssim: tensor(0.9027, device='cuda:1')
+img # 312
+estimation_time:  1.433368444442749
+r_loss: tensor(0.0143, device='cuda:1')
+psnr: tensor(31.9589, device='cuda:1')
+ssim: tensor(0.9832, device='cuda:1')
+img # 313
+estimation_time:  1.5424628257751465
+r_loss: tensor(0.0122, device='cuda:1')
+psnr: tensor(31.4018, device='cuda:1')
+ssim: tensor(0.9694, device='cuda:1')
+img # 314
+estimation_time:  0.04686474800109863
+r_loss: tensor(0.0180, device='cuda:1')
+psnr: tensor(32.4675, device='cuda:1')
+ssim: tensor(0.9791, device='cuda:1')
+img # 315
+estimation_time:  1.5308654308319092
+r_loss: tensor(0.0169, device='cuda:1')
+psnr: tensor(29.5704, device='cuda:1')
+ssim: tensor(0.9719, device='cuda:1')
+img # 316
+estimation_time:  1.5860469341278076
+r_loss: tensor(0.0095, device='cuda:1')
+psnr: tensor(29.8822, device='cuda:1')
+ssim: tensor(0.9806, device='cuda:1')
+img # 317
+estimation_time:  0.0488131046295166
+r_loss: tensor(0.0304, device='cuda:1')
+psnr: tensor(7.7937, device='cuda:1')
+ssim: tensor(0.9575, device='cuda:1')
+img # 318
+estimation_time:  0.02440643310546875
+r_loss: tensor(0.0135, device='cuda:1')
+psnr: tensor(33.8173, device='cuda:1')
+ssim: tensor(0.9751, device='cuda:1')
+img # 319
+estimation_time:  0.02341151237487793
+r_loss: tensor(0.0107, device='cuda:1')
+psnr: tensor(37.0923, device='cuda:1')
+ssim: tensor(0.9876, device='cuda:1')
+img # 320
+estimation_time:  0.02579641342163086
+r_loss: tensor(0.0141, device='cuda:1')
+psnr: tensor(34.0826, device='cuda:1')
+ssim: tensor(0.9726, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 321
+estimation_time:  1.4174587726593018
+r_loss: tensor(0.0106, device='cuda:1')
+psnr: tensor(35.4785, device='cuda:1')
+ssim: tensor(0.9853, device='cuda:1')
+img # 322
+estimation_time:  1.139585256576538
+r_loss: tensor(0.0137, device='cuda:1')
+psnr: tensor(34.2023, device='cuda:1')
+ssim: tensor(0.9735, device='cuda:1')
+img # 323
+estimation_time:  1.3042151927947998
+r_loss: tensor(0.0241, device='cuda:1')
+psnr: tensor(29.9000, device='cuda:1')
+ssim: tensor(0.9727, device='cuda:1')
+img # 324
+estimation_time:  1.2325372695922852
+r_loss: tensor(0.0378, device='cuda:1')
+psnr: tensor(26.4234, device='cuda:1')
+ssim: tensor(0.9618, device='cuda:1')
+img # 325
+estimation_time:  1.1095693111419678
+r_loss: tensor(0.0267, device='cuda:1')
+psnr: tensor(29.1559, device='cuda:1')
+ssim: tensor(0.9534, device='cuda:1')
+img # 326
+estimation_time:  1.126755952835083
+r_loss: tensor(0.0197, device='cuda:1')
+psnr: tensor(31.9521, device='cuda:1')
+ssim: tensor(0.9739, device='cuda:1')
+img # 327
+estimation_time:  1.1676664352416992
+r_loss: tensor(0.0329, device='cuda:1')
+psnr: tensor(26.8982, device='cuda:1')
+ssim: tensor(0.8737, device='cuda:1')
+img # 328
+estimation_time:  1.236487865447998
+r_loss: tensor(0.0156, device='cuda:1')
+psnr: tensor(32.7290, device='cuda:1')
+ssim: tensor(0.9849, device='cuda:1')
+img # 329
+estimation_time:  0.04713940620422363
+r_loss: tensor(0.0180, device='cuda:1')
+psnr: tensor(33.1025, device='cuda:1')
+ssim: tensor(0.9787, device='cuda:1')
+img # 330
+estimation_time:  0.038558006286621094
+r_loss: tensor(0.0111, device='cuda:1')
+psnr: tensor(34.2251, device='cuda:1')
+ssim: tensor(0.9823, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 331
+estimation_time:  1.6300833225250244
+r_loss: tensor(0.0176, device='cuda:1')
+psnr: tensor(30.9402, device='cuda:1')
+ssim: tensor(0.9553, device='cuda:1')
+img # 332
+estimation_time:  1.5681238174438477
+r_loss: tensor(0.0176, device='cuda:1')
+psnr: tensor(32.1483, device='cuda:1')
+ssim: tensor(0.9787, device='cuda:1')
+img # 333
+estimation_time:  0.03419065475463867
+r_loss: tensor(0.0186, device='cuda:1')
+psnr: tensor(30.9974, device='cuda:1')
+ssim: tensor(0.9833, device='cuda:1')
+img # 334
+estimation_time:  1.6171469688415527
+r_loss: tensor(0.0152, device='cuda:1')
+psnr: tensor(33.6800, device='cuda:1')
+ssim: tensor(0.9682, device='cuda:1')
+img # 335
+estimation_time:  1.4539086818695068
+r_loss: tensor(0.0157, device='cuda:1')
+psnr: tensor(33.4257, device='cuda:1')
+ssim: tensor(0.9782, device='cuda:1')
+img # 336
+estimation_time:  1.3549494743347168
+r_loss: tensor(0.0118, device='cuda:1')
+psnr: tensor(24.5922, device='cuda:1')
+ssim: tensor(0.9645, device='cuda:1')
+img # 337
+estimation_time:  0.044495582580566406
+r_loss: tensor(0.0179, device='cuda:1')
+psnr: tensor(32.5174, device='cuda:1')
+ssim: tensor(0.9774, device='cuda:1')
+img # 338
+estimation_time:  1.4349794387817383
+r_loss: tensor(0.0160, device='cuda:1')
+psnr: tensor(27.8515, device='cuda:1')
+ssim: tensor(0.9660, device='cuda:1')
+img # 339
+estimation_time:  0.054656028747558594
+r_loss: tensor(0.0323, device='cuda:1')
+psnr: tensor(26.9187, device='cuda:1')
+ssim: tensor(0.8637, device='cuda:1')
+img # 340
+estimation_time:  1.121431827545166
+r_loss: tensor(0.0162, device='cuda:1')
+psnr: tensor(33.7428, device='cuda:1')
+ssim: tensor(0.9805, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 341
+estimation_time:  0.0444033145904541
+r_loss: tensor(0.0186, device='cuda:1')
+psnr: tensor(31.7214, device='cuda:1')
+ssim: tensor(0.9734, device='cuda:1')
+img # 342
+estimation_time:  0.03472495079040527
+r_loss: tensor(0.0202, device='cuda:1')
+psnr: tensor(31.2298, device='cuda:1')
+ssim: tensor(0.9733, device='cuda:1')
+img # 343
+estimation_time:  0.04270672798156738
+r_loss: tensor(0.0193, device='cuda:1')
+psnr: tensor(31.8563, device='cuda:1')
+ssim: tensor(0.9793, device='cuda:1')
+img # 344
+estimation_time:  0.03113389015197754
+r_loss: tensor(0.0146, device='cuda:1')
+psnr: tensor(34.0983, device='cuda:1')
+ssim: tensor(0.9771, device='cuda:1')
+img # 345
+estimation_time:  1.5779588222503662
+r_loss: tensor(0.0167, device='cuda:1')
+psnr: tensor(31.4256, device='cuda:1')
+ssim: tensor(0.9734, device='cuda:1')
+img # 346
+estimation_time:  0.04899287223815918
+r_loss: tensor(0.0124, device='cuda:1')
+psnr: tensor(34.4127, device='cuda:1')
+ssim: tensor(0.9807, device='cuda:1')
+img # 347
+estimation_time:  0.03859210014343262
+r_loss: tensor(0.0232, device='cuda:1')
+psnr: tensor(24.6429, device='cuda:1')
+ssim: tensor(0.9560, device='cuda:1')
+img # 348
+estimation_time:  0.02414536476135254
+r_loss: tensor(0.0162, device='cuda:1')
+psnr: tensor(33.2522, device='cuda:1')
+ssim: tensor(0.9841, device='cuda:1')
+img # 349
+estimation_time:  0.023390769958496094
+r_loss: tensor(0.0246, device='cuda:1')
+psnr: tensor(30.3363, device='cuda:1')
+ssim: tensor(0.9804, device='cuda:1')
+img # 350
+estimation_time:  0.023405790328979492
+r_loss: tensor(0.0138, device='cuda:1')
+psnr: tensor(34.4264, device='cuda:1')
+ssim: tensor(0.9818, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 351
+estimation_time:  0.025048494338989258
+r_loss: tensor(0.0144, device='cuda:1')
+psnr: tensor(23.0172, device='cuda:1')
+ssim: tensor(0.9714, device='cuda:1')
+img # 352
+estimation_time:  1.6497511863708496
+r_loss: tensor(0.0196, device='cuda:1')
+psnr: tensor(32.3199, device='cuda:1')
+ssim: tensor(0.9769, device='cuda:1')
+img # 353
+estimation_time:  0.03668355941772461
+r_loss: tensor(0.0176, device='cuda:1')
+psnr: tensor(28.5169, device='cuda:1')
+ssim: tensor(0.9676, device='cuda:1')
+img # 354
+estimation_time:  0.028510570526123047
+r_loss: tensor(0.0198, device='cuda:1')
+psnr: tensor(31.3587, device='cuda:1')
+ssim: tensor(0.9792, device='cuda:1')
+img # 355
+estimation_time:  1.6897368431091309
+r_loss: tensor(0.0198, device='cuda:1')
+psnr: tensor(31.2415, device='cuda:1')
+ssim: tensor(0.9646, device='cuda:1')
+img # 356
+estimation_time:  1.7442848682403564
+r_loss: tensor(0.0181, device='cuda:1')
+psnr: tensor(33.0081, device='cuda:1')
+ssim: tensor(0.9786, device='cuda:1')
+img # 357
+estimation_time:  0.0488126277923584
+r_loss: tensor(0.0161, device='cuda:1')
+psnr: tensor(32.8545, device='cuda:1')
+ssim: tensor(0.9745, device='cuda:1')
+img # 358
+estimation_time:  0.035172224044799805
+r_loss: tensor(0.0162, device='cuda:1')
+psnr: tensor(20.1291, device='cuda:1')
+ssim: tensor(0.9705, device='cuda:1')
+img # 359
+estimation_time:  0.03531813621520996
+r_loss: tensor(0.0251, device='cuda:1')
+psnr: tensor(29.4743, device='cuda:1')
+ssim: tensor(0.9802, device='cuda:1')
+img # 360
+estimation_time:  0.034775495529174805
+r_loss: tensor(0.0139, device='cuda:1')
+psnr: tensor(34.6506, device='cuda:1')
+ssim: tensor(0.9808, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 361
+estimation_time:  1.1964259147644043
+r_loss: tensor(0.0278, device='cuda:1')
+psnr: tensor(28.4191, device='cuda:1')
+ssim: tensor(0.9417, device='cuda:1')
+img # 362
+estimation_time:  1.1949548721313477
+r_loss: tensor(0.0148, device='cuda:1')
+psnr: tensor(34.2616, device='cuda:1')
+ssim: tensor(0.9764, device='cuda:1')
+img # 363
+estimation_time:  1.3181617259979248
+r_loss: tensor(0.0133, device='cuda:1')
+psnr: tensor(34.3534, device='cuda:1')
+ssim: tensor(0.9867, device='cuda:1')
+img # 364
+estimation_time:  0.0373539924621582
+r_loss: tensor(0.0149, device='cuda:1')
+psnr: tensor(34.1327, device='cuda:1')
+ssim: tensor(0.9765, device='cuda:1')
+img # 365
+estimation_time:  0.03245997428894043
+r_loss: tensor(0.0161, device='cuda:1')
+psnr: tensor(33.2516, device='cuda:1')
+ssim: tensor(0.9538, device='cuda:1')
+img # 366
+estimation_time:  1.6359889507293701
+r_loss: tensor(0.0164, device='cuda:1')
+psnr: tensor(33.6832, device='cuda:1')
+ssim: tensor(0.9703, device='cuda:1')
+img # 367
+estimation_time:  0.04763078689575195
+r_loss: tensor(0.0496, device='cuda:1')
+psnr: tensor(24.7089, device='cuda:1')
+ssim: tensor(0.7506, device='cuda:1')
+img # 368
+estimation_time:  1.2490472793579102
+r_loss: tensor(0.0293, device='cuda:1')
+psnr: tensor(27.3724, device='cuda:1')
+ssim: tensor(0.9575, device='cuda:1')
+img # 369
+estimation_time:  1.1941850185394287
+r_loss: tensor(0.0153, device='cuda:1')
+psnr: tensor(32.7806, device='cuda:1')
+ssim: tensor(0.9749, device='cuda:1')
+img # 370
+estimation_time:  0.044489145278930664
+r_loss: tensor(0.0192, device='cuda:1')
+psnr: tensor(31.0670, device='cuda:1')
+ssim: tensor(0.9652, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 371
+estimation_time:  1.2750251293182373
+r_loss: tensor(0.0165, device='cuda:1')
+psnr: tensor(33.0028, device='cuda:1')
+ssim: tensor(0.9793, device='cuda:1')
+img # 372
+estimation_time:  0.03145337104797363
+r_loss: tensor(0.0123, device='cuda:1')
+psnr: tensor(35.7709, device='cuda:1')
+ssim: tensor(0.9827, device='cuda:1')
+img # 373
+estimation_time:  2.6139094829559326
+r_loss: tensor(0.0217, device='cuda:1')
+psnr: tensor(26.6321, device='cuda:1')
+ssim: tensor(0.9547, device='cuda:1')
+img # 374
+estimation_time:  2.4935731887817383
+r_loss: tensor(0.0238, device='cuda:1')
+psnr: tensor(-9.8434, device='cuda:1')
+ssim: tensor(0.9529, device='cuda:1')
+img # 375
+estimation_time:  2.4799978733062744
+r_loss: tensor(0.0253, device='cuda:1')
+psnr: tensor(12.3460, device='cuda:1')
+ssim: tensor(0.9616, device='cuda:1')
+img # 376
+estimation_time:  2.4193203449249268
+r_loss: tensor(0.0143, device='cuda:1')
+psnr: tensor(23.6463, device='cuda:1')
+ssim: tensor(0.9706, device='cuda:1')
+img # 377
+estimation_time:  2.4889118671417236
+r_loss: tensor(0.0373, device='cuda:1')
+psnr: tensor(26.5219, device='cuda:1')
+ssim: tensor(0.8917, device='cuda:1')
+img # 378
+estimation_time:  0.06391143798828125
+r_loss: tensor(0.0161, device='cuda:1')
+psnr: tensor(23.9193, device='cuda:1')
+ssim: tensor(0.9764, device='cuda:1')
+img # 379
+estimation_time:  0.03498196601867676
+r_loss: tensor(0.0565, device='cuda:1')
+psnr: tensor(18.0283, device='cuda:1')
+ssim: tensor(0.8893, device='cuda:1')
+img # 380
+estimation_time:  2.647947072982788
+r_loss: tensor(0.0155, device='cuda:1')
+psnr: tensor(29.9698, device='cuda:1')
+ssim: tensor(0.9807, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 381
+estimation_time:  0.06961345672607422
+r_loss: tensor(0.0191, device='cuda:1')
+psnr: tensor(23.9745, device='cuda:1')
+ssim: tensor(0.9760, device='cuda:1')
+img # 382
+estimation_time:  0.042756080627441406
+r_loss: tensor(0.0181, device='cuda:1')
+psnr: tensor(27.0671, device='cuda:1')
+ssim: tensor(0.9681, device='cuda:1')
+img # 383
+estimation_time:  0.029074668884277344
+r_loss: tensor(0.0207, device='cuda:1')
+psnr: tensor(30.4698, device='cuda:1')
+ssim: tensor(0.9783, device='cuda:1')
+img # 384
+estimation_time:  0.029790163040161133
+r_loss: tensor(0.0182, device='cuda:1')
+psnr: tensor(28.9567, device='cuda:1')
+ssim: tensor(0.9696, device='cuda:1')
+img # 385
+estimation_time:  1.8056018352508545
+r_loss: tensor(0.0207, device='cuda:1')
+psnr: tensor(30.1585, device='cuda:1')
+ssim: tensor(0.9805, device='cuda:1')
+img # 386
+estimation_time:  1.6358325481414795
+r_loss: tensor(0.0122, device='cuda:1')
+psnr: tensor(26.4816, device='cuda:1')
+ssim: tensor(0.9708, device='cuda:1')
+img # 387
+estimation_time:  1.6041474342346191
+r_loss: tensor(0.0172, device='cuda:1')
+psnr: tensor(29.3041, device='cuda:1')
+ssim: tensor(0.9767, device='cuda:1')
+img # 388
+estimation_time:  0.04689526557922363
+r_loss: tensor(0.0214, device='cuda:1')
+psnr: tensor(30.3542, device='cuda:1')
+ssim: tensor(0.9613, device='cuda:1')
+img # 389
+estimation_time:  1.6889495849609375
+r_loss: tensor(0.0280, device='cuda:1')
+psnr: tensor(29.1217, device='cuda:1')
+ssim: tensor(0.9546, device='cuda:1')
+img # 390
+estimation_time:  0.05191493034362793
+r_loss: tensor(0.1017, device='cuda:1')
+psnr: tensor(17.7784, device='cuda:1')
+ssim: tensor(0.6563, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 391
+estimation_time:  0.043168067932128906
+r_loss: tensor(0.0165, device='cuda:1')
+psnr: tensor(19.3331, device='cuda:1')
+ssim: tensor(0.9835, device='cuda:1')
+img # 392
+estimation_time:  2.241079330444336
+r_loss: tensor(0.0105, device='cuda:1')
+psnr: tensor(17.4084, device='cuda:1')
+ssim: tensor(0.9649, device='cuda:1')
+img # 393
+estimation_time:  2.0434610843658447
+r_loss: tensor(0.0132, device='cuda:1')
+psnr: tensor(33.8280, device='cuda:1')
+ssim: tensor(0.9751, device='cuda:1')
+img # 394
+estimation_time:  2.070215940475464
+r_loss: tensor(0.0146, device='cuda:1')
+psnr: tensor(30.3108, device='cuda:1')
+ssim: tensor(0.9695, device='cuda:1')
+img # 395
+estimation_time:  0.034792423248291016
+r_loss: tensor(0.0247, device='cuda:1')
+psnr: tensor(29.2871, device='cuda:1')
+ssim: tensor(0.9756, device='cuda:1')
+img # 396
+estimation_time:  1.2115938663482666
+r_loss: tensor(0.0180, device='cuda:1')
+psnr: tensor(28.2972, device='cuda:1')
+ssim: tensor(0.9854, device='cuda:1')
+img # 397
+estimation_time:  1.6890347003936768
+r_loss: tensor(0.0178, device='cuda:1')
+psnr: tensor(32.0717, device='cuda:1')
+ssim: tensor(0.9818, device='cuda:1')
+img # 398
+estimation_time:  0.034646034240722656
+r_loss: tensor(0.0177, device='cuda:1')
+psnr: tensor(31.9469, device='cuda:1')
+ssim: tensor(0.9810, device='cuda:1')
+img # 399
+estimation_time:  0.04241752624511719
+r_loss: tensor(0.0244, device='cuda:1')
+psnr: tensor(29.9695, device='cuda:1')
+ssim: tensor(0.9682, device='cuda:1')
+img # 400
+estimation_time:  0.03473615646362305
+r_loss: tensor(0.0177, device='cuda:1')
+psnr: tensor(33.2972, device='cuda:1')
+ssim: tensor(0.9730, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 401
+estimation_time:  0.02121734619140625
+r_loss: tensor(0.0107, device='cuda:1')
+psnr: tensor(35.6822, device='cuda:1')
+ssim: tensor(0.9854, device='cuda:1')
+img # 402
+estimation_time:  0.04400897026062012
+r_loss: tensor(0.0150, device='cuda:1')
+psnr: tensor(34.0881, device='cuda:1')
+ssim: tensor(0.9761, device='cuda:1')
+img # 403
+estimation_time:  1.772752046585083
+r_loss: tensor(0.0172, device='cuda:1')
+psnr: tensor(32.5174, device='cuda:1')
+ssim: tensor(0.9774, device='cuda:1')
+img # 404
+estimation_time:  1.8646345138549805
+r_loss: tensor(0.0122, device='cuda:1')
+psnr: tensor(29.1810, device='cuda:1')
+ssim: tensor(0.9838, device='cuda:1')
+img # 405
+estimation_time:  0.048538923263549805
+r_loss: tensor(0.0213, device='cuda:1')
+psnr: tensor(30.9813, device='cuda:1')
+ssim: tensor(0.9527, device='cuda:1')
+img # 406
+estimation_time:  1.6203138828277588
+r_loss: tensor(0.0242, device='cuda:1')
+psnr: tensor(29.5930, device='cuda:1')
+ssim: tensor(0.9688, device='cuda:1')
+img # 407
+estimation_time:  1.6565937995910645
+r_loss: tensor(0.0249, device='cuda:1')
+psnr: tensor(10.7675, device='cuda:1')
+ssim: tensor(0.9690, device='cuda:1')
+img # 408
+estimation_time:  0.05184030532836914
+r_loss: tensor(0.0156, device='cuda:1')
+psnr: tensor(33.0012, device='cuda:1')
+ssim: tensor(0.9849, device='cuda:1')
+img # 409
+estimation_time:  0.034467458724975586
+r_loss: tensor(0.0159, device='cuda:1')
+psnr: tensor(31.0317, device='cuda:1')
+ssim: tensor(0.9829, device='cuda:1')
+img # 410
+estimation_time:  1.3170080184936523
+r_loss: tensor(0.0257, device='cuda:1')
+psnr: tensor(28.7084, device='cuda:1')
+ssim: tensor(0.9403, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 411
+estimation_time:  1.1825613975524902
+r_loss: tensor(0.0216, device='cuda:1')
+psnr: tensor(30.4582, device='cuda:1')
+ssim: tensor(0.9816, device='cuda:1')
+img # 412
+estimation_time:  0.05309915542602539
+r_loss: tensor(0.0111, device='cuda:1')
+psnr: tensor(35.4253, device='cuda:1')
+ssim: tensor(0.9790, device='cuda:1')
+img # 413
+estimation_time:  1.1930594444274902
+r_loss: tensor(0.0206, device='cuda:1')
+psnr: tensor(30.8426, device='cuda:1')
+ssim: tensor(0.9667, device='cuda:1')
+img # 414
+estimation_time:  1.1165554523468018
+r_loss: tensor(0.0191, device='cuda:1')
+psnr: tensor(-5.6634, device='cuda:1')
+ssim: tensor(0.9716, device='cuda:1')
+img # 415
+estimation_time:  0.0490419864654541
+r_loss: tensor(0.0261, device='cuda:1')
+psnr: tensor(23.0536, device='cuda:1')
+ssim: tensor(0.9700, device='cuda:1')
+img # 416
+estimation_time:  0.035111427307128906
+r_loss: tensor(0.0168, device='cuda:1')
+psnr: tensor(32.6832, device='cuda:1')
+ssim: tensor(0.9750, device='cuda:1')
+img # 417
+estimation_time:  0.0349736213684082
+r_loss: tensor(0.0210, device='cuda:1')
+psnr: tensor(29.7454, device='cuda:1')
+ssim: tensor(0.9693, device='cuda:1')
+img # 418
+estimation_time:  0.04824209213256836
+r_loss: tensor(0.0193, device='cuda:1')
+psnr: tensor(31.8195, device='cuda:1')
+ssim: tensor(0.9751, device='cuda:1')
+img # 419
+estimation_time:  2.0372185707092285
+r_loss: tensor(0.0153, device='cuda:1')
+psnr: tensor(33.4785, device='cuda:1')
+ssim: tensor(0.9793, device='cuda:1')
+img # 420
+estimation_time:  1.934690237045288
+r_loss: tensor(0.0096, device='cuda:1')
+psnr: tensor(32.9984, device='cuda:1')
+ssim: tensor(0.9874, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 421
+estimation_time:  0.05423450469970703
+r_loss: tensor(0.0225, device='cuda:1')
+psnr: tensor(31.6685, device='cuda:1')
+ssim: tensor(0.9660, device='cuda:1')
+img # 422
+estimation_time:  2.0040547847747803
+r_loss: tensor(0.0102, device='cuda:1')
+psnr: tensor(22.9355, device='cuda:1')
+ssim: tensor(0.9747, device='cuda:1')
+img # 423
+estimation_time:  1.9334752559661865
+r_loss: tensor(0.0337, device='cuda:1')
+psnr: tensor(26.9589, device='cuda:1')
+ssim: tensor(0.8727, device='cuda:1')
+img # 424
+estimation_time:  2.0996193885803223
+r_loss: tensor(0.0144, device='cuda:1')
+psnr: tensor(17.9070, device='cuda:1')
+ssim: tensor(0.9696, device='cuda:1')
+img # 425
+estimation_time:  0.0554509162902832
+r_loss: tensor(0.0100, device='cuda:1')
+psnr: tensor(10.4015, device='cuda:1')
+ssim: tensor(0.9856, device='cuda:1')
+img # 426
+estimation_time:  0.043352603912353516
+r_loss: tensor(0.0150, device='cuda:1')
+psnr: tensor(12.9274, device='cuda:1')
+ssim: tensor(0.9766, device='cuda:1')
+img # 427
+estimation_time:  0.03537702560424805
+r_loss: tensor(0.0141, device='cuda:1')
+psnr: tensor(24.0800, device='cuda:1')
+ssim: tensor(0.9767, device='cuda:1')
+img # 428
+estimation_time:  0.03456830978393555
+r_loss: tensor(0.3737, device='cuda:1')
+psnr: tensor(-39.1628, device='cuda:1')
+ssim: tensor(0.4582, device='cuda:1')
+img # 429
+estimation_time:  2.410524845123291
+r_loss: tensor(0.0130, device='cuda:1')
+psnr: tensor(35.3855, device='cuda:1')
+ssim: tensor(0.9853, device='cuda:1')
+img # 430
+estimation_time:  0.05943942070007324
+r_loss: tensor(0.0136, device='cuda:1')
+psnr: tensor(16.3301, device='cuda:1')
+ssim: tensor(0.9771, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 431
+estimation_time:  2.235729694366455
+r_loss: tensor(0.0192, device='cuda:1')
+psnr: tensor(22.6346, device='cuda:1')
+ssim: tensor(0.9654, device='cuda:1')
+img # 432
+estimation_time:  0.0694890022277832
+r_loss: tensor(0.0113, device='cuda:1')
+psnr: tensor(28.2147, device='cuda:1')
+ssim: tensor(0.9752, device='cuda:1')
+img # 433
+estimation_time:  0.045011281967163086
+r_loss: tensor(0.0182, device='cuda:1')
+psnr: tensor(19.5260, device='cuda:1')
+ssim: tensor(0.9742, device='cuda:1')
+img # 434
+estimation_time:  0.037345170974731445
+r_loss: tensor(0.0308, device='cuda:1')
+psnr: tensor(27.6035, device='cuda:1')
+ssim: tensor(0.9498, device='cuda:1')
+img # 435
+estimation_time:  1.810786247253418
+r_loss: tensor(0.0164, device='cuda:1')
+psnr: tensor(13.2233, device='cuda:1')
+ssim: tensor(0.9743, device='cuda:1')
+img # 436
+estimation_time:  0.0485992431640625
+r_loss: tensor(0.0191, device='cuda:1')
+psnr: tensor(10.3688, device='cuda:1')
+ssim: tensor(0.9682, device='cuda:1')
+img # 437
+estimation_time:  1.5007781982421875
+r_loss: tensor(0.0150, device='cuda:1')
+psnr: tensor(32.4759, device='cuda:1')
+ssim: tensor(0.9716, device='cuda:1')
+img # 438
+estimation_time:  0.044586181640625
+r_loss: tensor(0.0250, device='cuda:1')
+psnr: tensor(28.7240, device='cuda:1')
+ssim: tensor(0.9413, device='cuda:1')
+img # 439
+estimation_time:  0.038019418716430664
+r_loss: tensor(0.0149, device='cuda:1')
+psnr: tensor(33.9755, device='cuda:1')
+ssim: tensor(0.9785, device='cuda:1')
+img # 440
+estimation_time:  0.034632205963134766
+r_loss: tensor(0.0138, device='cuda:1')
+psnr: tensor(33.6279, device='cuda:1')
+ssim: tensor(0.9748, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 441
+estimation_time:  0.05243635177612305
+r_loss: tensor(0.0324, device='cuda:1')
+psnr: tensor(27.4273, device='cuda:1')
+ssim: tensor(0.9568, device='cuda:1')
+img # 442
+estimation_time:  0.04232621192932129
+r_loss: tensor(0.0196, device='cuda:1')
+psnr: tensor(31.5591, device='cuda:1')
+ssim: tensor(0.9785, device='cuda:1')
+img # 443
+estimation_time:  0.036086082458496094
+r_loss: tensor(0.0171, device='cuda:1')
+psnr: tensor(30.8834, device='cuda:1')
+ssim: tensor(0.9688, device='cuda:1')
+img # 444
+estimation_time:  0.043743133544921875
+r_loss: tensor(0.0199, device='cuda:1')
+psnr: tensor(27.0222, device='cuda:1')
+ssim: tensor(0.9797, device='cuda:1')
+img # 445
+estimation_time:  0.03528022766113281
+r_loss: tensor(0.2584, device='cuda:1')
+psnr: tensor(-32.1905, device='cuda:1')
+ssim: tensor(0.6043, device='cuda:1')
+img # 446
+estimation_time:  0.03530621528625488
+r_loss: tensor(0.0121, device='cuda:1')
+psnr: tensor(8.5214, device='cuda:1')
+ssim: tensor(0.9855, device='cuda:1')
+img # 447
+estimation_time:  0.035047292709350586
+r_loss: tensor(0.0146, device='cuda:1')
+psnr: tensor(25.0587, device='cuda:1')
+ssim: tensor(0.9782, device='cuda:1')
+img # 448
+estimation_time:  0.3365786075592041
+r_loss: tensor(0.0906, device='cuda:1')
+psnr: tensor(17.5080, device='cuda:1')
+ssim: tensor(0.5728, device='cuda:1')
+img # 449
+estimation_time:  2.1821951866149902
+r_loss: tensor(0.0111, device='cuda:1')
+psnr: tensor(31.6533, device='cuda:1')
+ssim: tensor(0.9871, device='cuda:1')
+img # 450
+estimation_time:  2.0624518394470215
+r_loss: tensor(0.0108, device='cuda:1')
+psnr: tensor(28.4976, device='cuda:1')
+ssim: tensor(0.9801, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 451
+estimation_time:  0.049057722091674805
+r_loss: tensor(0.0141, device='cuda:1')
+psnr: tensor(33.5227, device='cuda:1')
+ssim: tensor(0.9778, device='cuda:1')
+img # 452
+estimation_time:  0.03841400146484375
+r_loss: tensor(0.0213, device='cuda:1')
+psnr: tensor(31.2422, device='cuda:1')
+ssim: tensor(0.9797, device='cuda:1')
+img # 453
+estimation_time:  0.03522920608520508
+r_loss: tensor(0.0381, device='cuda:1')
+psnr: tensor(23.3501, device='cuda:1')
+ssim: tensor(0.9586, device='cuda:1')
+img # 454
+estimation_time:  1.6414892673492432
+r_loss: tensor(0.0109, device='cuda:1')
+psnr: tensor(34.0178, device='cuda:1')
+ssim: tensor(0.9809, device='cuda:1')
+img # 455
+estimation_time:  1.021477222442627
+r_loss: tensor(0.0166, device='cuda:1')
+psnr: tensor(32.6648, device='cuda:1')
+ssim: tensor(0.9766, device='cuda:1')
+img # 456
+estimation_time:  0.05532121658325195
+r_loss: tensor(0.0136, device='cuda:1')
+psnr: tensor(33.4740, device='cuda:1')
+ssim: tensor(0.9715, device='cuda:1')
+img # 457
+estimation_time:  0.040329694747924805
+r_loss: tensor(0.0162, device='cuda:1')
+psnr: tensor(33.0611, device='cuda:1')
+ssim: tensor(0.9716, device='cuda:1')
+img # 458
+estimation_time:  1.3637073040008545
+r_loss: tensor(0.0123, device='cuda:1')
+psnr: tensor(35.4046, device='cuda:1')
+ssim: tensor(0.9802, device='cuda:1')
+img # 459
+estimation_time:  0.051077842712402344
+r_loss: tensor(0.0207, device='cuda:1')
+psnr: tensor(30.7242, device='cuda:1')
+ssim: tensor(0.9594, device='cuda:1')
+img # 460
+estimation_time:  0.05192828178405762
+r_loss: tensor(0.0126, device='cuda:1')
+psnr: tensor(35.3152, device='cuda:1')
+ssim: tensor(0.9840, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 461
+estimation_time:  0.04922914505004883
+r_loss: tensor(0.0124, device='cuda:1')
+psnr: tensor(27.8216, device='cuda:1')
+ssim: tensor(0.9770, device='cuda:1')
+img # 462
+estimation_time:  0.04357314109802246
+r_loss: tensor(0.0345, device='cuda:1')
+psnr: tensor(26.8364, device='cuda:1')
+ssim: tensor(0.8068, device='cuda:1')
+img # 463
+estimation_time:  0.05412173271179199
+r_loss: tensor(0.0314, device='cuda:1')
+psnr: tensor(27.9529, device='cuda:1')
+ssim: tensor(0.9309, device='cuda:1')
+img # 464
+estimation_time:  1.1520507335662842
+r_loss: tensor(0.0177, device='cuda:1')
+psnr: tensor(32.4428, device='cuda:1')
+ssim: tensor(0.9835, device='cuda:1')
+img # 465
+estimation_time:  0.0643765926361084
+r_loss: tensor(0.0136, device='cuda:1')
+psnr: tensor(34.9735, device='cuda:1')
+ssim: tensor(0.9752, device='cuda:1')
+img # 466
+estimation_time:  1.063908576965332
+r_loss: tensor(0.0107, device='cuda:1')
+psnr: tensor(37.0688, device='cuda:1')
+ssim: tensor(0.9885, device='cuda:1')
+img # 467
+estimation_time:  1.4839293956756592
+r_loss: tensor(0.0214, device='cuda:1')
+psnr: tensor(31.1164, device='cuda:1')
+ssim: tensor(0.9733, device='cuda:1')
+img # 468
+estimation_time:  0.05709052085876465
+r_loss: tensor(0.0198, device='cuda:1')
+psnr: tensor(16.4245, device='cuda:1')
+ssim: tensor(0.9843, device='cuda:1')
+img # 469
+estimation_time:  0.025130748748779297
+r_loss: tensor(0.0230, device='cuda:1')
+psnr: tensor(30.6139, device='cuda:1')
+ssim: tensor(0.9272, device='cuda:1')
+img # 470
+estimation_time:  1.259756088256836
+r_loss: tensor(0.0172, device='cuda:1')
+psnr: tensor(24.0872, device='cuda:1')
+ssim: tensor(0.9597, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 471
+estimation_time:  1.1212959289550781
+r_loss: tensor(0.0358, device='cuda:1')
+psnr: tensor(26.7833, device='cuda:1')
+ssim: tensor(0.8586, device='cuda:1')
+img # 472
+estimation_time:  0.029452085494995117
+r_loss: tensor(0.0383, device='cuda:1')
+psnr: tensor(24.9817, device='cuda:1')
+ssim: tensor(0.9561, device='cuda:1')
+img # 473
+estimation_time:  0.03184962272644043
+r_loss: tensor(0.0252, device='cuda:1')
+psnr: tensor(28.8749, device='cuda:1')
+ssim: tensor(0.9734, device='cuda:1')
+img # 474
+estimation_time:  0.04035067558288574
+r_loss: tensor(0.0212, device='cuda:1')
+psnr: tensor(29.9309, device='cuda:1')
+ssim: tensor(0.9721, device='cuda:1')
+img # 475
+estimation_time:  2.611433744430542
+r_loss: tensor(0.0166, device='cuda:1')
+psnr: tensor(32.6174, device='cuda:1')
+ssim: tensor(0.9759, device='cuda:1')
+img # 476
+estimation_time:  0.04876565933227539
+r_loss: tensor(0.0158, device='cuda:1')
+psnr: tensor(32.7642, device='cuda:1')
+ssim: tensor(0.9750, device='cuda:1')
+img # 477
+estimation_time:  2.1914799213409424
+r_loss: tensor(0.0107, device='cuda:1')
+psnr: tensor(37.1144, device='cuda:1')
+ssim: tensor(0.9862, device='cuda:1')
+img # 478
+estimation_time:  2.042858600616455
+r_loss: tensor(0.0207, device='cuda:1')
+psnr: tensor(24.9164, device='cuda:1')
+ssim: tensor(0.9728, device='cuda:1')
+img # 479
+estimation_time:  0.05431389808654785
+r_loss: tensor(0.0305, device='cuda:1')
+psnr: tensor(28.0506, device='cuda:1')
+ssim: tensor(0.9764, device='cuda:1')
+img # 480
+estimation_time:  0.03819584846496582
+r_loss: tensor(0.0255, device='cuda:1')
+psnr: tensor(29.0302, device='cuda:1')
+ssim: tensor(0.9461, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 481
+estimation_time:  2.047208070755005
+r_loss: tensor(0.0133, device='cuda:1')
+psnr: tensor(9.0544, device='cuda:1')
+ssim: tensor(0.9640, device='cuda:1')
+img # 482
+estimation_time:  1.8678641319274902
+r_loss: tensor(0.0226, device='cuda:1')
+psnr: tensor(30.3953, device='cuda:1')
+ssim: tensor(0.9647, device='cuda:1')
+img # 483
+estimation_time:  0.030579566955566406
+r_loss: tensor(0.0213, device='cuda:1')
+psnr: tensor(31.4691, device='cuda:1')
+ssim: tensor(0.9629, device='cuda:1')
+img # 484
+estimation_time:  0.027698993682861328
+r_loss: tensor(0.0120, device='cuda:1')
+psnr: tensor(20.4266, device='cuda:1')
+ssim: tensor(0.9776, device='cuda:1')
+img # 485
+estimation_time:  1.4355297088623047
+r_loss: tensor(0.0145, device='cuda:1')
+psnr: tensor(32.6752, device='cuda:1')
+ssim: tensor(0.9827, device='cuda:1')
+img # 486
+estimation_time:  0.04810166358947754
+r_loss: tensor(0.0075, device='cuda:1')
+psnr: tensor(35.5069, device='cuda:1')
+ssim: tensor(0.9894, device='cuda:1')
+img # 487
+estimation_time:  0.03495502471923828
+r_loss: tensor(0.0113, device='cuda:1')
+psnr: tensor(26.2432, device='cuda:1')
+ssim: tensor(0.9801, device='cuda:1')
+img # 488
+estimation_time:  0.035482168197631836
+r_loss: tensor(0.0196, device='cuda:1')
+psnr: tensor(31.4833, device='cuda:1')
+ssim: tensor(0.9554, device='cuda:1')
+img # 489
+estimation_time:  1.3007118701934814
+r_loss: tensor(0.0223, device='cuda:1')
+psnr: tensor(30.8441, device='cuda:1')
+ssim: tensor(0.9774, device='cuda:1')
+img # 490
+estimation_time:  1.5382945537567139
+r_loss: tensor(0.0112, device='cuda:1')
+psnr: tensor(36.7570, device='cuda:1')
+ssim: tensor(0.9805, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 491
+estimation_time:  0.030025959014892578
+r_loss: tensor(0.0228, device='cuda:1')
+psnr: tensor(29.7988, device='cuda:1')
+ssim: tensor(0.9634, device='cuda:1')
+img # 492
+estimation_time:  0.02507781982421875
+r_loss: tensor(0.0133, device='cuda:1')
+psnr: tensor(33.7792, device='cuda:1')
+ssim: tensor(0.9823, device='cuda:1')
+img # 493
+estimation_time:  0.042107343673706055
+r_loss: tensor(0.0142, device='cuda:1')
+psnr: tensor(29.1845, device='cuda:1')
+ssim: tensor(0.9760, device='cuda:1')
+img # 494
+estimation_time:  0.03456878662109375
+r_loss: tensor(0.0156, device='cuda:1')
+psnr: tensor(8.9768, device='cuda:1')
+ssim: tensor(0.9695, device='cuda:1')
+img # 495
+estimation_time:  0.035445451736450195
+r_loss: tensor(0.0276, device='cuda:1')
+psnr: tensor(28.6358, device='cuda:1')
+ssim: tensor(0.9626, device='cuda:1')
+img # 496
+estimation_time:  1.5020768642425537
+r_loss: tensor(0.0266, device='cuda:1')
+psnr: tensor(28.1198, device='cuda:1')
+ssim: tensor(0.9216, device='cuda:1')
+img # 497
+estimation_time:  1.6687583923339844
+r_loss: tensor(0.0283, device='cuda:1')
+psnr: tensor(28.0595, device='cuda:1')
+ssim: tensor(0.9811, device='cuda:1')
+img # 498
+estimation_time:  1.3378329277038574
+r_loss: tensor(0.0111, device='cuda:1')
+psnr: tensor(35.5077, device='cuda:1')
+ssim: tensor(0.9794, device='cuda:1')
+img # 499
+estimation_time:  0.042095184326171875
+r_loss: tensor(0.0205, device='cuda:1')
+psnr: tensor(30.8235, device='cuda:1')
+ssim: tensor(0.9736, device='cuda:1')
+img # 500
+estimation_time:  1.577732801437378
+r_loss: tensor(0.0169, device='cuda:1')
+psnr: tensor(32.5474, device='cuda:1')
+ssim: tensor(0.9711, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 501
+estimation_time:  0.029922962188720703
+r_loss: tensor(0.0284, device='cuda:1')
+psnr: tensor(27.7539, device='cuda:1')
+ssim: tensor(0.9430, device='cuda:1')
+img # 502
+estimation_time:  0.026528596878051758
+r_loss: tensor(0.0359, device='cuda:1')
+psnr: tensor(23.4620, device='cuda:1')
+ssim: tensor(0.8993, device='cuda:1')
+img # 503
+estimation_time:  1.7227563858032227
+r_loss: tensor(0.0214, device='cuda:1')
+psnr: tensor(10.2357, device='cuda:1')
+ssim: tensor(0.9647, device='cuda:1')
+img # 504
+estimation_time:  0.04453897476196289
+r_loss: tensor(0.0400, device='cuda:1')
+psnr: tensor(25.4035, device='cuda:1')
+ssim: tensor(0.8720, device='cuda:1')
+img # 505
+estimation_time:  0.023653507232666016
+r_loss: tensor(0.0239, device='cuda:1')
+psnr: tensor(29.2649, device='cuda:1')
+ssim: tensor(0.8200, device='cuda:1')
+img # 506
+estimation_time:  0.023792028427124023
+r_loss: tensor(0.0139, device='cuda:1')
+psnr: tensor(26.7686, device='cuda:1')
+ssim: tensor(0.9849, device='cuda:1')
+img # 507
+estimation_time:  1.7729740142822266
+r_loss: tensor(0.0196, device='cuda:1')
+psnr: tensor(29.8006, device='cuda:1')
+ssim: tensor(0.9650, device='cuda:1')
+img # 508
+estimation_time:  0.035498619079589844
+r_loss: tensor(0.0110, device='cuda:1')
+psnr: tensor(36.6191, device='cuda:1')
+ssim: tensor(0.9847, device='cuda:1')
+img # 509
+estimation_time:  1.6311378479003906
+r_loss: tensor(0.0348, device='cuda:1')
+psnr: tensor(22.9454, device='cuda:1')
+ssim: tensor(0.9329, device='cuda:1')
+img # 510
+estimation_time:  0.05065298080444336
+r_loss: tensor(0.0190, device='cuda:1')
+psnr: tensor(28.3499, device='cuda:1')
+ssim: tensor(0.9744, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 511
+estimation_time:  0.035590410232543945
+r_loss: tensor(0.0086, device='cuda:1')
+psnr: tensor(35.7057, device='cuda:1')
+ssim: tensor(0.9838, device='cuda:1')
+img # 512
+estimation_time:  0.04122138023376465
+r_loss: tensor(0.0161, device='cuda:1')
+psnr: tensor(32.9497, device='cuda:1')
+ssim: tensor(0.9688, device='cuda:1')
+img # 513
+estimation_time:  0.04036998748779297
+r_loss: tensor(0.0179, device='cuda:1')
+psnr: tensor(26.0660, device='cuda:1')
+ssim: tensor(0.9730, device='cuda:1')
+img # 514
+estimation_time:  0.03461098670959473
+r_loss: tensor(0.0112, device='cuda:1')
+psnr: tensor(32.7467, device='cuda:1')
+ssim: tensor(0.9828, device='cuda:1')
+img # 515
+estimation_time:  0.3886909484863281
+r_loss: tensor(0.0095, device='cuda:1')
+psnr: tensor(16.5056, device='cuda:1')
+ssim: tensor(0.9850, device='cuda:1')
+img # 516
+estimation_time:  0.3698313236236572
+r_loss: tensor(0.0222, device='cuda:1')
+psnr: tensor(30.1154, device='cuda:1')
+ssim: tensor(0.9764, device='cuda:1')
+img # 517
+estimation_time:  2.3653156757354736
+r_loss: tensor(0.0115, device='cuda:1')
+psnr: tensor(27.2094, device='cuda:1')
+ssim: tensor(0.9811, device='cuda:1')
+img # 518
+estimation_time:  2.3544654846191406
+r_loss: tensor(0.0069, device='cuda:1')
+psnr: tensor(32.8964, device='cuda:1')
+ssim: tensor(0.9892, device='cuda:1')
+img # 519
+estimation_time:  0.0566411018371582
+r_loss: tensor(0.0232, device='cuda:1')
+psnr: tensor(30.3745, device='cuda:1')
+ssim: tensor(0.9635, device='cuda:1')
+img # 520
+estimation_time:  0.03486132621765137
+r_loss: tensor(0.0210, device='cuda:1')
+psnr: tensor(29.7842, device='cuda:1')
+ssim: tensor(0.9627, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 521
+estimation_time:  0.02402210235595703
+r_loss: tensor(0.5268, device='cuda:1')
+psnr: tensor(-18.8090, device='cuda:1')
+ssim: tensor(0.2125, device='cuda:1')
+img # 522
+estimation_time:  0.024305343627929688
+r_loss: tensor(0.0112, device='cuda:1')
+psnr: tensor(25.5678, device='cuda:1')
+ssim: tensor(0.9768, device='cuda:1')
+img # 523
+estimation_time:  1.9650053977966309
+r_loss: tensor(0.0153, device='cuda:1')
+psnr: tensor(26.9701, device='cuda:1')
+ssim: tensor(0.9759, device='cuda:1')
+img # 524
+estimation_time:  1.9237651824951172
+r_loss: tensor(0.0173, device='cuda:1')
+psnr: tensor(32.5532, device='cuda:1')
+ssim: tensor(0.9831, device='cuda:1')
+img # 525
+estimation_time:  1.4101717472076416
+r_loss: tensor(0.0220, device='cuda:1')
+psnr: tensor(30.1196, device='cuda:1')
+ssim: tensor(0.9752, device='cuda:1')
+img # 526
+estimation_time:  0.04520821571350098
+r_loss: tensor(0.0238, device='cuda:1')
+psnr: tensor(29.6034, device='cuda:1')
+ssim: tensor(0.9203, device='cuda:1')
+img # 527
+estimation_time:  0.027499914169311523
+r_loss: tensor(0.0294, device='cuda:1')
+psnr: tensor(27.9955, device='cuda:1')
+ssim: tensor(0.9039, device='cuda:1')
+img # 528
+estimation_time:  0.03936600685119629
+r_loss: tensor(0.0183, device='cuda:1')
+psnr: tensor(31.7830, device='cuda:1')
+ssim: tensor(0.9704, device='cuda:1')
+img # 529
+estimation_time:  0.035569190979003906
+r_loss: tensor(0.0142, device='cuda:1')
+psnr: tensor(34.1317, device='cuda:1')
+ssim: tensor(0.9811, device='cuda:1')
+img # 530
+estimation_time:  0.028133153915405273
+r_loss: tensor(0.0158, device='cuda:1')
+psnr: tensor(27.6705, device='cuda:1')
+ssim: tensor(0.9565, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 531
+estimation_time:  0.034734487533569336
+r_loss: tensor(0.0311, device='cuda:1')
+psnr: tensor(28.0267, device='cuda:1')
+ssim: tensor(0.9497, device='cuda:1')
+img # 532
+estimation_time:  0.3612251281738281
+r_loss: tensor(0.0244, device='cuda:1')
+psnr: tensor(28.5099, device='cuda:1')
+ssim: tensor(0.9727, device='cuda:1')
+img # 533
+estimation_time:  1.7887873649597168
+r_loss: tensor(0.0185, device='cuda:1')
+psnr: tensor(30.6663, device='cuda:1')
+ssim: tensor(0.9502, device='cuda:1')
+img # 534
+estimation_time:  1.78639554977417
+r_loss: tensor(0.0289, device='cuda:1')
+psnr: tensor(27.2259, device='cuda:1')
+ssim: tensor(0.9730, device='cuda:1')
+img # 535
+estimation_time:  1.764326572418213
+r_loss: tensor(0.0142, device='cuda:1')
+psnr: tensor(33.2507, device='cuda:1')
+ssim: tensor(0.9667, device='cuda:1')
+img # 536
+estimation_time:  0.04601550102233887
+r_loss: tensor(0.0243, device='cuda:1')
+psnr: tensor(27.3253, device='cuda:1')
+ssim: tensor(0.9718, device='cuda:1')
+img # 537
+estimation_time:  1.752065896987915
+r_loss: tensor(0.0433, device='cuda:1')
+psnr: tensor(23.6985, device='cuda:1')
+ssim: tensor(0.9083, device='cuda:1')
+img # 538
+estimation_time:  1.606191873550415
+r_loss: tensor(0.0148, device='cuda:1')
+psnr: tensor(34.1017, device='cuda:1')
+ssim: tensor(0.9825, device='cuda:1')
+img # 539
+estimation_time:  0.05038332939147949
+r_loss: tensor(0.0249, device='cuda:1')
+psnr: tensor(29.8937, device='cuda:1')
+ssim: tensor(0.9713, device='cuda:1')
+img # 540
+estimation_time:  0.03880763053894043
+r_loss: tensor(0.0088, device='cuda:1')
+psnr: tensor(38.0373, device='cuda:1')
+ssim: tensor(0.9890, device='cuda:1')
+Saved to results/train_1015_2/test/...
+img # 541
+estimation_time:  0.02694416046142578
+r_loss: tensor(0.0284, device='cuda:1')
+psnr: tensor(27.6021, device='cuda:1')
+ssim: tensor(0.8620, device='cuda:1')
+img # 542
+estimation_time:  0.054329872131347656
+r_loss: tensor(0.0174, device='cuda:1')
+psnr: tensor(31.1793, device='cuda:1')
+ssim: tensor(0.8775, device='cuda:1')
+img # 543
+estimation_time:  0.4058496952056885
+r_loss: tensor(0.0148, device='cuda:1')
+psnr: tensor(11.0030, device='cuda:1')
+ssim: tensor(0.9735, device='cuda:1')
+====> Average test loss: 0.068049
+====> Average test reconst_loss *lambda: 0.029855
+====> Average test mono_loss *lambda: 0.033314
+====> Average test squared_mahalanobis_distance_loss *lambda: 0.004880
+====> Average test psnr: 26.744629
+====> Average test ssim: 0.945149
+mean_estimation_time:  0.9854135171455496

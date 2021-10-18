@@ -114,7 +114,7 @@ def mask_operate(alpha_layers, target_layer_number, mask_path):
     return return_alpha_layers
 
 #### User inputs
-run_name = 'train_0927'
+run_name = 'train_1015_2'
 num_primary_color = 7
 csv_path = 'train.csv' # なんでも良い．後方でパスを置き換えるから
 csv_path_ihc = 'train_IHC_256_2w.csv'
@@ -221,17 +221,17 @@ with torch.no_grad():
         # 计算loss 打印出来
         r_loss = reconst_loss(reconst_img, target_img, 'l1') * rec_loss_lambda
         m_loss = mono_color_reconst_loss(mono_color_reconst_img, target_img) * m_loss_lambda
-        s_loss = sparse_loss(processed_alpha_layers,device) # 注意这个没有乘以 权重
+        # s_loss = sparse_loss(processed_alpha_layers,device) # 注意这个没有乘以 权重
         #print('total_loss: ', total_loss)
         d_loss = squared_mahalanobis_distance_loss(primary_color_layers.detach(), processed_alpha_layers, pred_unmixed_rgb_layers) * distance_loss_lambda
         psnr_res = psnr(reconst_img, target_img)
         ssim_res = ssim(reconst_img, target_img)
 
-        total_loss = r_loss + m_loss + s_loss * sparse_loss_lambda + d_loss
+        total_loss = r_loss + m_loss + d_loss
         test_loss += total_loss.item()
         r_loss_mean += r_loss.item()
         m_loss_mean += m_loss.item()
-        s_loss_mean += s_loss.item()
+        # s_loss_mean += s_loss.item()
         d_loss_mean += d_loss.item()
 
         psnr_mean += psnr_res.item()
@@ -240,7 +240,7 @@ with torch.no_grad():
         print('r_loss:', r_loss)
         print('psnr:', psnr_res)
         print('ssim:', ssim_res)
-        print('sparsity:',s_loss)
+        # print('sparsity:',s_loss)
 
         if (batch_idx %10 == 0 and True): # 
             img_index = 1
@@ -285,7 +285,7 @@ with torch.no_grad():
     test_loss = test_loss / len(test_loader.dataset)
     r_loss_mean = r_loss_mean / len(test_loader.dataset)
     m_loss_mean = m_loss_mean / len(test_loader.dataset)
-    s_loss_mean = s_loss_mean / len(test_loader.dataset)
+    # s_loss_mean = s_loss_mean / len(test_loader.dataset)
     d_loss_mean = d_loss_mean / len(test_loader.dataset)
     
     psnr_mean = psnr_mean / len(test_loader.dataset)
@@ -298,7 +298,7 @@ with torch.no_grad():
 
     print('====> Average test psnr: {:.6f}'.format( psnr_mean ))
     print('====> Average test ssim: {:.6f}'.format( ssim_mean ))
-    print('====> Average test sparse_loss: {:.6f}'.format( s_loss_mean ))
+    # print('====> Average test sparse_loss: {:.6f}'.format( s_loss_mean ))
 
     print('mean_estimation_time: ', mean_estimation_time / len(test_loader.dataset))
     
