@@ -15,6 +15,7 @@ import cv2
 import time
 from guided_filter_pytorch.guided_filter import GuidedFilter
 import sys
+from tqdm import tqdm
 from train import reconst_loss,mono_color_reconst_loss,squared_mahalanobis_distance_loss,psnr,ssim,sparse_loss
 os.environ["CUDA_VISIBLE_DEVICES"]='0,1,2,3'
 
@@ -114,7 +115,7 @@ def mask_operate(alpha_layers, target_layer_number, mask_path):
     return return_alpha_layers
 
 #### User inputs
-run_name = 'train_1015_2'
+run_name = 'train_1021'
 num_primary_color = 7
 csv_path = 'train.csv' # なんでも良い．後方でパスを置き換えるから
 csv_path_ihc = 'train_IHC_256_2w.csv'
@@ -137,8 +138,8 @@ sys.stdout = log
 
 resize_scale_factor = 1  
 
-path_mask_generator = 'results/' + run_name + '/mask_generator.pth'
-path_residue_predictor = 'results/' + run_name + '/residue_predictor.pth'
+path_mask_generator = 'results/' + run_name + '/mask_generator_val.pth'
+path_residue_predictor = 'results/' + run_name + '/residue_predictor_val.pth'
 
 
 test_dataset = MyDataset(csv_path, csv_path_ihc, csv_path_test,num_primary_color, mode='test')
@@ -185,8 +186,11 @@ with torch.no_grad():
     psnr_mean = 0
     ssim_mean = 0
 
+    pbar = tqdm(total=len(test_loader))
+
     for batch_idx, (target_img, primary_color_layers) in enumerate(test_loader):
         print('img #', batch_idx)
+        pbar.update(1)
 
         target_img = cut_edge(target_img)
         target_img = target_img.to(device) # bn, 3ch, h, w
@@ -238,6 +242,8 @@ with torch.no_grad():
         ssim_mean += ssim_res.item()
 
         print('r_loss:', r_loss)
+        print('m_loss:', m_loss)
+        print('d_loss:', d_loss)
         print('psnr:', psnr_res)
         print('ssim:', ssim_res)
         # print('sparsity:',s_loss)
@@ -280,7 +286,7 @@ with torch.no_grad():
             '''
             print('Saved to results/%s/test/...' % (run_name))
            
-        
+    pbar.close()
 
     test_loss = test_loss / len(test_loader.dataset)
     r_loss_mean = r_loss_mean / len(test_loader.dataset)
